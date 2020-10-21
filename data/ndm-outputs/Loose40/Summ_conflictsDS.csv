@@ -1,0 +1,7 @@
+,Analysis,Spatial_Scale,Con_Areas,n_Conflicts,cas_in_conf,cas_out_conf,spp_in_conf
+1,D,1,10,2,5,5,3
+2,D,2,28,17,17,11,29
+3,D,3,34,31,29,5,61
+4,S,1,7,0,0,7,0
+5,S,2,22,7,8,14,11
+6,S,3,35,20,23,12,41

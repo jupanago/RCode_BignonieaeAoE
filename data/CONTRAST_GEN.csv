@@ -1,0 +1,248 @@
+,Consensus_area,Bioregion,Hb,Hc
+1,D1CA0,Cerrado and associated dry areas,0.8816,12.1283
+2,D1CA0,Coastal Brazil,10.0075,49.8191
+3,D1CA1,Amazonia,2.9971,64.2218
+4,D1CA1,Guyana Highlands,27.4033,21.9399
+5,D1CA1,Guiana Subregion,0.0804,0.2248
+6,D1CA1,Northern Colombia and Venezuela,4.049,13.6126
+7,D1CA2,Cerrado and associated dry areas,3.203,52.5901
+8,D1CA2,Coastal Brazil,7.521,44.685
+9,D1CA3,Cerrado and associated dry areas,1.2654,21.8683
+10,D1CA3,Coastal Brazil,8.9345,55.8712
+11,D1CA4,Amazonia,0.042,1.0585
+12,D1CA4,Guiana Subregion,20.2982,66.746
+13,D1CA5,Cerrado and associated dry areas,0.2397,10.2763
+14,D1CA5,Coastal Brazil,4.1005,63.6088
+15,D1CA6,Cerrado and associated dry areas,1.9015,100
+16,D1CA7,Amazonia,1.6356,100
+17,D1CA8,Cerrado and associated dry areas,0.0561,1.9647
+18,D1CA8,Coastal Brazil,4.9973,63.3852
+19,D1CA9,Cerrado and associated dry areas,0.1783,7.4817
+20,D1CA9,Coastal Brazil,3.6746,55.7836
+21,D2CA0,Cerrado and associated dry areas,49.6044,63.4791
+22,D2CA0,Coastal Brazil,26.5163,12.2788
+23,D2CA1,Cerrado and associated dry areas,9.3039,46.8877
+24,D2CA1,Coastal Brazil,21.3694,38.9691
+25,D2CA10,Amazonia,0.1481,1.983
+26,D2CA10,Guiana Subregion,38.551,67.3135
+27,D2CA11,Amazonia,2.061,3.2719
+28,D2CA11,Cerrado and associated dry areas,53.983,71.6031
+29,D2CA11,Coastal Brazil,40.2647,19.3256
+30,D2CA12,Mexico and Central America,21.7919,64.7813
+31,D2CA13,Cerrado and associated dry areas,0.4584,3.4681
+32,D2CA13,Coastal Brazil,21.2182,58.0902
+33,D2CA14,Northern Colombia and Venezuela,53.8731,53.922
+34,D2CA14,Northern Andes,18.7043,12.518
+35,D2CA15,Cerrado and associated dry areas,10.2097,33.4889
+36,D2CA15,Coastal Brazil,33.9706,40.3203
+37,D2CA16,Amazonia,28.2499,69.3416
+38,D2CA16,Northern Colombia and Venezuela,1.4397,0.5544
+39,D2CA16,Northern Andes,38.2606,9.8522
+40,D2CA16,Southern Andes,20.5046,19.7222
+41,D2CA17,Northern Colombia and Venezuela,28.5122,43.9276
+42,D2CA17,Northern Andes,35.6249,36.6994
+43,D2CA18,Amazonia,88.3782,70.3557
+44,D2CA18,Cerrado and associated dry areas,1.2209,0.8121
+45,D2CA18,Guyana Highlands,100,2.9744
+46,D2CA18,Guiana Subregion,100,10.3795
+47,D2CA18,Northern Colombia and Venezuela,56.0004,6.9944
+48,D2CA18,Northern Andes,4.922,0.4111
+49,D2CA18,Southern Andes,7.0941,2.213
+50,D2CA19,Cerrado and associated dry areas,13.5029,94.9458
+51,D2CA19,Coastal Brazil,1.8476,4.7009
+52,D2CA2,Amazonia,0.2137,1.6402
+53,D2CA2,Cerrado and associated dry areas,14.6265,93.8009
+54,D2CA20,Amazonia,33.0898,63.2016
+55,D2CA20,Cerrado and associated dry areas,4.2494,6.7815
+56,D2CA20,Northern Andes,25.6291,5.1354
+57,D2CA20,Southern Andes,32.6239,24.4173
+58,D2CA21,Cerrado and associated dry areas,0.0012,0.0132
+59,D2CA21,Coastal Brazil,15.3188,61.009
+60,D2CA22,Amazonia,0.3181,4.2644
+61,D2CA22,Northern Colombia and Venezuela,6.0249,12.6722
+62,D2CA22,Northern Andes,46.5273,65.4348
+63,D2CA23,Amazonia,4.6721,100
+64,D2CA24,Cerrado and associated dry areas,6.1954,23.3249
+65,D2CA24,Coastal Brazil,50.5323,68.8416
+66,D2CA25,Amazonia,4.6134,54.9675
+67,D2CA25,Guyana Highlands,30.1784,13.4347
+68,D2CA25,Guiana Subregion,4.0731,6.3275
+69,D2CA25,Northern Colombia and Venezuela,13.5199,25.2735
+70,D2CA26,Northern Colombia and Venezuela,13.1301,31.7234
+71,D2CA26,Northern Andes,23.8123,38.4691
+72,D2CA26,Mexico and Central America,1.0303,7.5953
+73,D2CA27,Amazonia,1.6156,12.9574
+74,D2CA27,Cerrado and associated dry areas,11.4634,76.8173
+75,D2CA27,Southern Andes,3.1811,9.9975
+76,D2CA3,Amazonia,1.7388,14.3763
+77,D2CA3,Guyana Highlands,55.7684,17.2279
+78,D2CA3,Guiana Subregion,45.5112,49.0611
+79,D2CA3,Northern Colombia and Venezuela,10.1753,13.1993
+80,D2CA4,Amazonia,20.5186,78.5049
+81,D2CA4,Cerrado and associated dry areas,4.9952,15.9684
+82,D2CA4,Guiana Subregion,3.1464,1.5696
+83,D2CA5,Cerrado and associated dry areas,11.5938,88.8925
+84,D2CA5,Coastal Brazil,3.5174,9.7588
+85,D2CA6,Cerrado and associated dry areas,37.9333,71.3394
+86,D2CA6,Coastal Brazil,19.5457,13.3013
+87,D2CA7,Amazonia,95.7743,61.7703
+88,D2CA7,Cerrado and associated dry areas,6.2142,3.3487
+89,D2CA7,Guyana Highlands,100,2.4098
+90,D2CA7,Guiana Subregion,100,8.4092
+91,D2CA7,Northern Colombia and Venezuela,83.5609,8.4555
+92,D2CA7,Northern Andes,52.6009,3.559
+93,D2CA7,Southern Andes,16.5878,4.1922
+94,D2CA7,West Indies,2.1847,0.0614
+95,D2CA8,Cerrado and associated dry areas,5.0542,51.879
+96,D2CA8,Coastal Brazil,4.4228,16.4275
+97,D2CA9,Cerrado and associated dry areas,15.7412,52.3477
+98,D2CA9,Coastal Brazil,18.1099,21.7927
+99,D3CA0,Amazonia,99.2387,54.0629
+100,D3CA0,Cerrado and associated dry areas,14.2054,6.4659
+101,D3CA0,Guyana Highlands,100,2.0355
+102,D3CA0,Guiana Subregion,100,7.103
+103,D3CA0,Northern Colombia and Venezuela,93.7826,8.0158
+104,D3CA0,Northern Andes,67.4133,3.8527
+105,D3CA0,Southern Andes,30.5019,6.5114
+106,D3CA0,Mexico and Central America,2.0703,0.5399
+107,D3CA0,West Indies,2.3354,0.0555
+108,D3CA1,Amazonia,100,20.8481
+109,D3CA1,Cerrado and associated dry areas,100,17.4191
+110,D3CA1,Coastal Brazil,99.7066,6.2847
+111,D3CA1,Guyana Highlands,100,0.779
+112,D3CA1,Guiana Subregion,100,2.7182
+113,D3CA1,Northern Colombia and Venezuela,100,3.2709
+114,D3CA1,Northern Andes,100,2.1871
+115,D3CA1,Southern Andes,73.1331,5.9746
+116,D3CA1,Mexico and Central America,74.9517,7.4801
+117,D3CA1,West Indies,98.7808,0.8978
+118,D3CA10,Amazonia,0.0208,0.0403
+119,D3CA10,Cerrado and associated dry areas,36.0998,58.5166
+120,D3CA10,Coastal Brazil,39.8821,23.393
+121,D3CA11,Amazonia,14.3821,36.1521
+122,D3CA11,Guyana Highlands,100,9.392
+123,D3CA11,Guiana Subregion,71.7718,23.5228
+124,D3CA11,Northern Colombia and Venezuela,38.1037,15.0274
+125,D3CA12,Amazonia,74.5937,79.0873
+126,D3CA12,Guyana Highlands,97.4257,3.8595
+127,D3CA12,Guiana Subregion,53.0271,7.3304
+128,D3CA12,Northern Colombia and Venezuela,23.7831,3.9562
+129,D3CA12,Northern Andes,10.0811,1.1213
+130,D3CA12,Southern Andes,11.0418,4.5874
+131,D3CA13,Amazonia,2.8893,17.229
+132,D3CA13,Northern Colombia and Venezuela,21.3338,19.9594
+133,D3CA13,Northern Andes,66.3111,41.4825
+134,D3CA13,Mexico and Central America,0.5221,1.4903
+135,D3CA14,Amazonia,36.1528,90.8256
+136,D3CA14,Cerrado and associated dry areas,0.873,1.8324
+137,D3CA14,Guyana Highlands,0.2909,0.0273
+138,D3CA14,Guiana Subregion,22.3168,7.3101
+139,D3CA15,Amazonia,32.8009,91.8224
+140,D3CA15,Guyana Highlands,0.2909,0.0304
+141,D3CA15,Guiana Subregion,22.3168,8.1455
+142,D3CA16,Amazonia,2.2102,8.131
+143,D3CA16,Cerrado and associated dry areas,25.8751,79.533
+144,D3CA16,Coastal Brazil,1.2772,1.4206
+145,D3CA17,Amazonia,92.0412,74.6751
+146,D3CA17,Cerrado and associated dry areas,11.4846,7.7851
+147,D3CA17,Guyana Highlands,54.4572,1.6508
+148,D3CA17,Guiana Subregion,79.4335,8.4027
+149,D3CA17,Northern Andes,6.2109,0.5286
+150,D3CA17,Southern Andes,9.954,3.1646
+151,D3CA18,Amazonia,3.6172,8.3813
+152,D3CA18,Cerrado and associated dry areas,24.3356,47.1133
+153,D3CA18,Coastal Brazil,32.5363,22.793
+154,D3CA18,Southern Andes,20.8637,18.9435
+155,D3CA19,Cerrado and associated dry areas,27.0961,41.7812
+156,D3CA19,Coastal Brazil,68.2526,38.0826
+157,D3CA2,Amazonia,13.03,11.2282
+158,D3CA2,Cerrado and associated dry areas,81.024,58.3361
+159,D3CA2,Coastal Brazil,65.5585,17.0799
+160,D3CA2,Southern Andes,5.2537,1.774
+161,D3CA20,Amazonia,34.7765,62.495
+162,D3CA20,Cerrado and associated dry areas,15.9796,23.9929
+163,D3CA20,Northern Andes,0.895,0.1687
+164,D3CA20,Southern Andes,18.8789,13.2943
+165,D3CA21,Amazonia,47.8428,79.1208
+166,D3CA21,Cerrado and associated dry areas,8.0176,11.0783
+167,D3CA21,Guiana Subregion,21.3918,4.6126
+168,D3CA21,Southern Andes,2.2258,1.4424
+169,D3CA22,Amazonia,100,32.6065
+170,D3CA22,Cerrado and associated dry areas,97.8716,26.6637
+171,D3CA22,Coastal Brazil,82.1625,8.0997
+172,D3CA22,Guyana Highlands,100,1.2183
+173,D3CA22,Guiana Subregion,93.1637,3.9607
+174,D3CA22,Northern Colombia and Venezuela,93.2599,4.771
+175,D3CA22,Northern Andes,97.1944,3.3247
+176,D3CA22,Southern Andes,55.5977,7.1038
+177,D3CA22,Mexico and Central America,0.5221,0.0815
+178,D3CA22,West Indies,2.3354,0.0332
+179,D3CA23,Cerrado and associated dry areas,26.3292,44.9503
+180,D3CA23,Coastal Brazil,58.2999,36.016
+181,D3CA24,Amazonia,16.6741,99.9541
+182,D3CA24,Cerrado and associated dry areas,0.008,0.0402
+183,D3CA25,Mexico and Central America,34.0499,50.4821
+184,D3CA26,Amazonia,17.9745,71.3206
+185,D3CA26,Cerrado and associated dry areas,4.9962,16.5637
+186,D3CA26,Guiana Subregion,6.2873,3.2527
+187,D3CA27,Amazonia,0.0955,0.1905
+188,D3CA27,Cerrado and associated dry areas,11.6882,19.4768
+189,D3CA27,Coastal Brazil,53.1015,32.0193
+190,D3CA27,Southern Andes,24.8148,19.3933
+191,D3CA28,Amazonia,24.8573,62.5452
+192,D3CA28,Northern Colombia and Venezuela,6.9811,2.756
+193,D3CA28,Northern Andes,57.2859,15.1214
+194,D3CA28,Southern Andes,16.9882,16.75
+195,D3CA29,Amazonia,1.2395,6.6167
+196,D3CA29,Guyana Highlands,44.5418,8.8838
+197,D3CA29,Guiana Subregion,4.7261,3.2893
+198,D3CA29,Northern Colombia and Venezuela,67.366,56.4197
+199,D3CA29,Northern Andes,0.1611,0.0902
+200,D3CA3,Amazonia,84.6128,61.1746
+201,D3CA3,Cerrado and associated dry areas,2.5066,1.5142
+202,D3CA3,Guyana Highlands,100,2.7014
+203,D3CA3,Guiana Subregion,100,9.4267
+204,D3CA3,Northern Colombia and Venezuela,69.3857,7.8707
+205,D3CA3,Northern Andes,55.4093,4.2026
+206,D3CA3,Southern Andes,7.8407,2.2214
+207,D3CA3,West Indies,2.3354,0.0736
+208,D3CA30,Amazonia,1.4382,8.5667
+209,D3CA30,Guyana Highlands,2.5743,0.5729
+210,D3CA30,Guiana Subregion,71.3411,55.4052
+211,D3CA31,Mexico and Central America,38.1389,60.6454
+212,D3CA32,Amazonia,33.4762,59.702
+213,D3CA32,Cerrado and associated dry areas,0.143,0.2131
+214,D3CA32,Northern Colombia and Venezuela,3.3114,0.9266
+215,D3CA32,Northern Andes,57.0066,10.6655
+216,D3CA32,Southern Andes,35.1864,24.5897
+217,D3CA33,Mexico and Central America,54.2499,53.7151
+218,D3CA4,Amazonia,0.7805,1.5732
+219,D3CA4,Cerrado and associated dry areas,48.8378,82.2467
+220,D3CA4,Coastal Brazil,6.4668,3.9408
+221,D3CA5,Amazonia,0.8902,0.9217
+222,D3CA5,Cerrado and associated dry areas,64.0514,55.4076
+223,D3CA5,Coastal Brazil,58.4339,18.2911
+224,D3CA6,Amazonia,6.6781,21.2248
+225,D3CA6,Guyana Highlands,66.0425,7.8426
+226,D3CA6,Guiana Subregion,99.9189,41.4058
+227,D3CA6,Northern Colombia and Venezuela,14.4603,7.2106
+228,D3CA7,Amazonia,43.4387,55.5153
+229,D3CA7,Cerrado and associated dry areas,13.6617,14.5881
+230,D3CA7,Northern Andes,19.6643,2.6364
+231,D3CA7,Southern Andes,47.7521,23.9141
+232,D3CA8,Amazonia,6.6271,10.6095
+233,D3CA8,Guyana Highlands,72.8764,4.3592
+234,D3CA8,Guiana Subregion,22.3716,4.6697
+235,D3CA8,Northern Colombia and Venezuela,100,25.1177
+236,D3CA8,Northern Andes,61.2024,10.2789
+237,D3CA8,Mexico and Central America,7.817,5.9906
+238,D3CA8,West Indies,3.6856,0.2572
+239,D3CA9,Amazonia,99.8009,44.4171
+240,D3CA9,Cerrado and associated dry areas,9.1965,3.4198
+241,D3CA9,Guyana Highlands,100,1.6629
+242,D3CA9,Guiana Subregion,100,5.8028
+243,D3CA9,Northern Colombia and Venezuela,100,6.9827
+244,D3CA9,Northern Andes,100,4.669
+245,D3CA9,Southern Andes,39.0571,6.8115
+246,D3CA9,Mexico and Central America,25.6077,5.4556
+247,D3CA9,West Indies,2.3354,0.0453

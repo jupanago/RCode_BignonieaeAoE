@@ -1,0 +1,4717 @@
+
+------------------------------------------------
+INFORMATION ON DATA
+------------------------------------------------
+
+Read records for 386 species (21170 unique points total plus 33 clades)
+
+TOTAL RECORDS/CELL (27 ROWS x 27 COLS):
+row\col     0      1      2      3      4      5      6      7      8      9     10     11     12     13     14     15     16     17     18     19     20     21     22     23     24     25     26 
+ 0          0      0      0      0      0      0      3      8      1      1      0      2      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 1          0      0      0      0      0      1     17      9      7      9      2      4      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 2          0      0      0      0      0      8      7      1      6      3      3      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 3          0      0      0      0      0      2      2      4      4     10      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 4          7      2      0      0      1      0      0      0      0      0      0      2      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 5          3     26      1     25     14      0      0      0      1     31      9      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 6          0     29     56     27    109      0     27    153     25      2      3     22     10     19      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 7          0      0     16     70     71    274    158    365      1      0      0     12      5     35     53     47      9      0      0      0      0      0      0      0      0      0      0 
+ 8          0      0      0      0     11      5     84    174    170      1      0      0      0      0      0      0     39      2      0      0      0      0      0      0      0      0      0 
+ 9          0      0      0      0      0      0      0     13    905    107      0     71    341    166    350    121     65      0      0      0      0      0      0      0      0      0      0 
+ 10         0      0      0      0      0      0      0      0    166    247    687    366    214    267    153    142    263     18      0      0      0      0      0      0      0      0      0 
+ 11         0      0      0      0      0      0      0      0      0      0      0    140    186      9    253    176    197    147    139    207      0      0      0      0      0      0      0 
+ 12         0      0      0      0      0      0      0      0      0      0     18     81     73     21    154     81    109     61     60    190      3      0      0      0      0      0      0 
+ 13         0      0      0      0      0      0      0      0      0      0    142    290     68     53     72     33     41     13     76    117     89     79      1      0      0      0      0 
+ 14         0      0      0      0      0      0      0      0      0      1    167    185    539    122     23     31    128    146    105     38     64     69     34     60     36      0      0 
+ 15         0      0      0      0      0      0      0      0      0      0     34    211     49     32      1     24     39     46      4     29     39     33     39     85     25     31      0 
+ 16         0      0      0      0      0      0      0      0      0      0      0    234    143     20    146    140     14     12     27      3     10     11     35     54     42     18      0 
+ 17         0      0      0      0      0      0      0      0      0      0      0     41     47    547    206     22    111      5      9     45     15     48     82    228     12      0      0 
+ 18         0      0      0      0      0      0      0      0      0      0      0      0      2      5    401     78    384     29     86     27     75    176    118    233     14      0      0 
+ 19         0      0      0      0      0      0      0      0      0      0      0      0      0      0      3    240    113     97     22     24     75     60    305    347      0      0      0 
+ 20         0      0      0      0      0      0      0      0      0      0      0      0      0      0      0     57     38     31     94     53    113    364    612    127      0      0      0 
+ 21         0      0      0      0      0      0      0      0      0      0      0      0      0      0      0     93      5    311    304     96    211    214     37      0      0      0      0 
+ 22         0      0      0      0      0      0      0      0      0      0      0      0      0      0      1     44      8     73    254     62     66      0      0      0      0      0      0 
+ 23         0      0      0      0      0      0      0      0      0      0      0      0      0      0      3     26      3     32     11     40     18      0      0      0      0      0      0 
+ 24         0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      6      1     15      8      3      0      0      0      0      0      0      0 
+ 25         0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      1      0      0      0      0      0      0      0      0      0 
+ 26         0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+
+NUMBER OF SPECIES/CELL (27 ROWS x 27 COLS):
+row\col     0      1      2      3      4      5      6      7      8      9     10     11     12     13     14     15     16     17     18     19     20     21     22     23     24     25     26 
+ 0          0      0      0      0      0      0      1      1      1      1      0      1      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 1          0      0      0      0      0      1      1      1      1      1      1      1      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 2          0      0      0      0      0      1      1      1      1      1      1      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 3          0      0      0      0      0      1      1      1      1      1      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 4          2      2      0      0      1      0      0      0      0      0      0      2      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 5          1      6      1      7      9      0      0      0      1      7      4      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 6          0     12     11     10     17      0     13     16     10      2      2      5      4      4      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 7          0      0      8     16     24     32     32     35      1      0      0      3      2      5      5      5      1      0      0      0      0      0      0      0      0      0      0 
+ 8          0      0      0      0      8      4     21     35     27      1      0      0      0      0      0      0      9      2      0      0      0      0      0      0      0      0      0 
+ 9          0      0      0      0      0      0      0      7     44     21      0     27     42     32     39     32     23      0      0      0      0      0      0      0      0      0      0 
+ 10         0      0      0      0      0      0      0      0     36     37     51     61     51     51     32     44     55     12      0      0      0      0      0      0      0      0      0 
+ 11         0      0      0      0      0      0      0      0      0      0      0     34     47      7     70     52     62     53     52     51      0      0      0      0      0      0      0 
+ 12         0      0      0      0      0      0      0      0      0      0     11     36     31     17     36     32     45     37     26     54      3      0      0      0      0      0      0 
+ 13         0      0      0      0      0      0      0      0      0      0     27     59     38     29     34     23     26     12     48     54     40     40      1      0      0      0      0 
+ 14         0      0      0      0      0      0      0      0      0      1     42     59     73     46     18     24     63     60     49     27     36     44     25     27     17      0      0 
+ 15         0      0      0      0      0      0      0      0      0      0     19     62     30     31      1     20     30     36      4     27     24     24     21     36     16     18      0 
+ 16         0      0      0      0      0      0      0      0      0      0      0     66     55     16     61     68     12     12     22      3      9      4     22     25     21     15      0 
+ 17         0      0      0      0      0      0      0      0      0      0      0     23     28     79     74     21     43      4      8     23     10     25     36     59      9      0      0 
+ 18         0      0      0      0      0      0      0      0      0      0      0      0      2      5     67     34     77     20     28     15     24     41     52     69     10      0      0 
+ 19         0      0      0      0      0      0      0      0      0      0      0      0      0      0      3     55     41     41     15     14     27     23     69     81      0      0      0 
+ 20         0      0      0      0      0      0      0      0      0      0      0      0      0      0      0     14      8     22     34     21     27     56     93     46      0      0      0 
+ 21         0      0      0      0      0      0      0      0      0      0      0      0      0      0      0     14      3     23     37     28     43     49     14      0      0      0      0 
+ 22         0      0      0      0      0      0      0      0      0      0      0      0      0      0      1     10      4     11     21     20     18      0      0      0      0      0      0 
+ 23         0      0      0      0      0      0      0      0      0      0      0      0      0      0      1      2      1      7      5     17     12      0      0      0      0      0      0 
+ 24         0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      2      1      5      3      2      0      0      0      0      0      0      0 
+ 25         0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      1      0      0      0      0      0      0      0      0      0 
+ 26         0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+
+NUMBER OF SPECIES/CELL, including assumed records (27 ROWS x 27 COLS):
+row\col     0      1      2      3      4      5      6      7      8      9     10     11     12     13     14     15     16     17     18     19     20     21     22     23     24     25     26 
+ 0          0      0      0      0      0      0     23     23     23     23      0     23     23      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 1          0      0      0      0      0     23     23     23     23     23     23     23      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 2          0      0      0      0      0     23     23     23     23     23     23     23      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 3         21      0      0      0      0     23     23     23     23     23     23      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 4         24     26      0     24     24      0      0      0      0      0      0     23      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 5         24     35     37     40     42      0      0     31     34     35     34     26      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+ 6          0     41     43     46     54     58     53     51     46     38     38     37     36     34     33     26      0      0      0      0      0      0      0      0      0      0      0 
+ 7          0     37     43     46     58     66     67     72     60     49     47     47     44     41     36     36     31      0      0      0      0      0      0      0      0      0      0 
+ 8          0      0      0      0     48     58     68     75     70     67      0      0      0      0      0      0     41     30      0      0      0      0      0      0      0      0      0 
+ 9          0      0      0      0      0      0      0     63     81     80     74     79     87     87     90     84     73     42      0      0      0      0      0      0      0      0      0 
+ 10         0      0      0      0      0      0      0      0     82     81     86    103    104     99    106    109    110     89      0      0      0      0      0      0      0      0      0 
+ 11         0      0      0      0      0      0      0      0      0      0     83    105    106    100    123    122    123    114    111    106     41      0      0      0      0      0      0 
+ 12         0      0      0      0      0      0      0      0      0      0     78    100    106    111    122    128    125    124    117    108     83      0      0      0      0      0      0 
+ 13         0      0      0      0      0      0      0      0      0     70     94    110    118    120    124    127    137    136    123    117    103     94     56      0      0      0      0 
+ 14         0      0      0      0      0      0      0      0      0     62     90    114    129    128    125    130    138    137    123    118    114    103     78     70     55     32      0 
+ 15         0      0      0      0      0      0      0      0      0     38     79    124    129    137    133    131    130    123    112    109     97     82     84     85     71     56      0 
+ 16         0      0      0      0      0      0      0      0      0      0     43    110    125    128    137    137    131    115    110     95     87     81     92     90     74     51      0 
+ 17         0      0      0      0      0      0      0      0      0      0      0     65    108    120    132    129    128    110     90     80     76     85    109    114     71      0      0 
+ 18         0      0      0      0      0      0      0      0      0      0      0      0     57     93    112    112    127    106     86     82     85     98    125    132     81      0      0 
+ 19         0      0      0      0      0      0      0      0      0      0      0      0      0     40     62     94    106     90     87     83     84     95    132    128     64      0      0 
+ 20         0      0      0      0      0      0      0      0      0      0      0      0      0      0     40     54     67     78     84     82     87    113    137    121      0      0      0 
+ 21         0      0      0      0      0      0      0      0      0      0      0      0      0      0     31     45     48     62     74     74     84    100    103     55      0      0      0 
+ 22         0      0      0      0      0      0      0      0      0      0      0      0      0      0     36     38     41     57     61     60     64     53      0      0      0      0      0 
+ 23         0      0      0      0      0      0      0      0      0      0      0      0      0      0     24     25     29     38     50     50     49      0      0      0      0      0      0 
+ 24         0      0      0      0      0      0      0      0      0      0      0      0      0      0      0     25     27     29     30     31      0      0      0      0      0      0      0 
+ 25         0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0     25     25      0      0      0      0      0      0      0      0 
+ 26         0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0      0 
+
+------------------------------------------------
+INFORMATION ON AREAS
+------------------------------------------------
+
+SET NR. 0, size 13, score 2.992582
+4 scoring spp. (sp/score):
+    120 Anemopaegma album : 0.696429
+    162 Anemopaegma velutinum : 0.716667
+    208 Cuspidaria multiflora : 0.733333
+    349 Tanaecium cyrtanthum : 0.846154
+
+SET NR. 1, size 14, score 6.619038
+9 scoring spp. (sp/score):
+    26 Adenocalymma cymbalum : 0.666667
+    126 Anemopaegma citrinum : 0.750000
+    205 Cuspidaria lasiantha : 0.712121
+    237 Fridericia cuneifolia : 0.775862
+    296 Lundia virginalis : 0.913793
+    336 Pleonotoma stichadenia : 0.666667
+    371 Tynanthus labiatus : 0.785714
+    379 Xylophragma corchoroides : 0.687500
+    381 Xylophragma heterocalyx : 0.660714
+
+SET NR. 2, size 14, score 5.324518
+7 scoring spp. (sp/score):
+    126 Anemopaegma citrinum : 0.892857
+    205 Cuspidaria lasiantha : 0.844828
+    237 Fridericia cuneifolia : 0.775862
+    296 Lundia virginalis : 0.662162
+    336 Pleonotoma stichadenia : 0.666667
+    379 Xylophragma corchoroides : 0.821429
+    381 Xylophragma heterocalyx : 0.660714
+
+SET NR. 3, size 66, score 5.378322
+7 scoring spp. (sp/score):
+    15 Adenocalymma bracteosum : 0.725166
+    111 Amphilophium racemosum : 0.753049
+    203 Cuspidaria inaequalis : 0.757962
+    243 Fridericia fanshawei : 0.762238
+    286 Lundia densiflora : 0.788961
+    287 Lundia erionema : 0.764706
+    346 Tanaecium bilabiatum : 0.826241
+
+SET NR. 4, size 61, score 3.055114
+4 scoring spp. (sp/score):
+    92 Amphilophium granulosum : 0.845528
+    203 Cuspidaria inaequalis : 0.670732
+    286 Lundia densiflora : 0.758278
+    346 Tanaecium bilabiatum : 0.780576
+
+SET NR. 5, size 235, score 2.761212
+6 scoring spp. (sp/score):
+    224 Dolichandra unguis-cati : 0.872671
+    388 GRP-2-Amphilophium : 0.951042
+    401 GRP-15-Cuspidaria+Fridericia+Lundia+Tynanthus+Xylophragma : 0.937500
+
+SET NR. 6, size 11, score 8.635784
+12 scoring spp. (sp/score):
+    11 Adenocalymma aurantiacum : 0.727273
+    26 Adenocalymma cymbalum : 0.661290
+    37 Adenocalymma hirtum : 0.704545
+    90 Amphilophium frutescens : 0.727273
+    126 Anemopaegma citrinum : 0.807692
+    137 Anemopaegma hilarianum : 0.695652
+    205 Cuspidaria lasiantha : 0.714286
+    237 Fridericia cuneifolia : 0.685185
+    281 Fridericia tynanthoides : 0.681818
+    308 Mansoa minensis : 0.750000
+    354 Tanaecium neobrasiliense : 0.750000
+    379 Xylophragma corchoroides : 0.730769
+
+SET NR. 7, size 14, score 2.905834
+4 scoring spp. (sp/score):
+    209 Cuspidaria octoptera : 0.732143
+    296 Lundia virginalis : 0.694444
+    337 Pleonotoma tetraquetra : 0.675676
+    382 Xylophragma myrianthum : 0.803571
+
+SET NR. 8, size 61, score 3.031590
+4 scoring spp. (sp/score):
+    92 Amphilophium granulosum : 0.845528
+    151 Anemopaegma paraense : 0.702055
+    286 Lundia densiflora : 0.732258
+    346 Tanaecium bilabiatum : 0.751748
+
+SET NR. 9, size 62, score 3.072032
+4 scoring spp. (sp/score):
+    92 Amphilophium granulosum : 0.829365
+    151 Anemopaegma paraense : 0.753571
+    286 Lundia densiflora : 0.712500
+    346 Tanaecium bilabiatum : 0.776596
+
+SET NR. 10, size 58, score 3.066145
+4 scoring spp. (sp/score):
+    92 Amphilophium granulosum : 0.826446
+    286 Lundia densiflora : 0.707792
+    287 Lundia erionema : 0.726563
+    346 Tanaecium bilabiatum : 0.805344
+
+SET NR. 11, size 12, score 5.702484
+8 scoring spp. (sp/score):
+    120 Anemopaegma album : 0.660714
+    126 Anemopaegma citrinum : 0.785714
+    205 Cuspidaria lasiantha : 0.741379
+    237 Fridericia cuneifolia : 0.672414
+    281 Fridericia tynanthoides : 0.666667
+    354 Tanaecium neobrasiliense : 0.729167
+    379 Xylophragma corchoroides : 0.714286
+    380 Xylophragma harleyi : 0.732143
+
+SET NR. 12, size 13, score 5.711462
+8 scoring spp. (sp/score):
+    26 Adenocalymma cymbalum : 0.758065
+    126 Anemopaegma citrinum : 0.766667
+    205 Cuspidaria lasiantha : 0.725806
+    237 Fridericia cuneifolia : 0.661290
+    336 Pleonotoma stichadenia : 0.671429
+    354 Tanaecium neobrasiliense : 0.711538
+    379 Xylophragma corchoroides : 0.700000
+    380 Xylophragma harleyi : 0.716667
+
+SET NR. 13, size 10, score 3.081364
+4 scoring spp. (sp/score):
+    162 Anemopaegma velutinum : 0.720000
+    303 Mansoa hirsuta : 0.775000
+    324 Pleonotoma castelnaei : 0.886364
+    356 Tanaecium paradoxum : 0.700000
+
+SET NR. 14, size 63, score 3.066983
+4 scoring spp. (sp/score):
+    92 Amphilophium granulosum : 0.845238
+    151 Anemopaegma paraense : 0.722603
+    286 Lundia densiflora : 0.726415
+    346 Tanaecium bilabiatum : 0.772727
+
+SET NR. 15, size 14, score 5.674019
+8 scoring spp. (sp/score):
+    126 Anemopaegma citrinum : 0.750000
+    205 Cuspidaria lasiantha : 0.676471
+    209 Cuspidaria octoptera : 0.732143
+    237 Fridericia cuneifolia : 0.775862
+    271 Fridericia speciosa : 0.666667
+    296 Lundia virginalis : 0.662162
+    337 Pleonotoma tetraquetra : 0.750000
+    381 Xylophragma heterocalyx : 0.660714
+
+SET NR. 16, size 14, score 3.544440
+5 scoring spp. (sp/score):
+    5 Adenocalymma allamandiflorum : 0.734375
+    45 Adenocalymma magnificum : 0.666667
+    299 Mansoa angustidens : 0.696970
+    323 Pleonotoma bracteata : 0.732143
+    339 Pyrostegia millingtonioides : 0.714286
+
+SET NR. 17, size 14, score 2.889037
+4 scoring spp. (sp/score):
+    210 Cuspidaria pulchella : 0.727273
+    223 Dolichandra unguiculata : 0.661765
+    293 Lundia obliqua : 0.750000
+    302 Mansoa glaziovii : 0.750000
+
+SET NR. 18, size 17, score 4.174553
+6 scoring spp. (sp/score):
+    210 Cuspidaria pulchella : 0.692308
+    223 Dolichandra unguiculata : 0.666667
+    268 Fridericia samydoides : 0.695652
+    271 Fridericia speciosa : 0.670455
+    293 Lundia obliqua : 0.705882
+    302 Mansoa glaziovii : 0.743590
+
+SET NR. 19, size 13, score 3.518932
+5 scoring spp. (sp/score):
+    53 Adenocalymma paulistarum : 0.661290
+    76 Amphilophium bracteatum : 0.685185
+    210 Cuspidaria pulchella : 0.741935
+    293 Lundia obliqua : 0.769231
+    373 Tynanthus micranthus : 0.661290
+
+SET NR. 20, size 22, score 4.564175
+6 scoring spp. (sp/score):
+    28 Adenocalymma divaricatum : 0.897727
+    56 Adenocalymma pubescens : 0.855556
+    60 Adenocalymma scabriusculum : 0.707547
+    120 Anemopaegma album : 0.670455
+    133 Anemopaegma gracile : 0.716981
+    162 Anemopaegma velutinum : 0.715909
+
+SET NR. 21, size 61, score 3.060417
+4 scoring spp. (sp/score):
+    92 Amphilophium granulosum : 0.845528
+    151 Anemopaegma paraense : 0.702055
+    286 Lundia densiflora : 0.732258
+    346 Tanaecium bilabiatum : 0.780576
+
+SET NR. 22, size 13, score 3.063318
+4 scoring spp. (sp/score):
+    142 Anemopaegma laeve : 0.675676
+    310 Mansoa paganuccii : 0.903846
+    349 Tanaecium cyrtanthum : 0.796296
+    357 Tanaecium parviflorum : 0.687500
+
+SET NR. 23, size 16, score 3.036059
+4 scoring spp. (sp/score):
+    160 Anemopaegma scabriusculum : 0.882353
+    226 Fridericia bahiensis : 0.675000
+    270 Fridericia simplex : 0.803030
+    324 Pleonotoma castelnaei : 0.675676
+
+SET NR. 24, size 14, score 6.406544
+9 scoring spp. (sp/score):
+    126 Anemopaegma citrinum : 0.750000
+    205 Cuspidaria lasiantha : 0.712121
+    237 Fridericia cuneifolia : 0.775862
+    271 Fridericia speciosa : 0.666667
+    296 Lundia virginalis : 0.772727
+    336 Pleonotoma stichadenia : 0.666667
+    337 Pleonotoma tetraquetra : 0.714286
+    379 Xylophragma corchoroides : 0.687500
+    381 Xylophragma heterocalyx : 0.660714
+
+SET NR. 25, size 14, score 11.714273
+16 scoring spp. (sp/score):
+    11 Adenocalymma aurantiacum : 0.678571
+    26 Adenocalymma cymbalum : 0.666667
+    74 Amphilophium bauhinioides : 0.732143
+    126 Anemopaegma citrinum : 0.892857
+    137 Anemopaegma hilarianum : 0.696429
+    205 Cuspidaria lasiantha : 0.676471
+    209 Cuspidaria octoptera : 0.732143
+    223 Dolichandra unguiculata : 0.661765
+    237 Fridericia cuneifolia : 0.775862
+    267 Fridericia rego : 0.793103
+    271 Fridericia speciosa : 0.666667
+    296 Lundia virginalis : 0.662162
+    306 Mansoa lanceolata : 0.775862
+    308 Mansoa minensis : 0.696429
+    371 Tynanthus labiatus : 0.785714
+    379 Xylophragma corchoroides : 0.821429
+
+SET NR. 26, size 16, score 4.452635
+6 scoring spp. (sp/score):
+    120 Anemopaegma album : 0.734375
+    162 Anemopaegma velutinum : 0.680556
+    205 Cuspidaria lasiantha : 0.803030
+    288 Lundia gardneri : 0.727273
+    336 Pleonotoma stichadenia : 0.710526
+    380 Xylophragma harleyi : 0.796875
+
+SET NR. 27, size 64, score 3.103629
+4 scoring spp. (sp/score):
+    92 Amphilophium granulosum : 0.829457
+    151 Anemopaegma paraense : 0.727891
+    286 Lundia densiflora : 0.748408
+    346 Tanaecium bilabiatum : 0.797872
+
+SET NR. 28, size 67, score 5.318090
+7 scoring spp. (sp/score):
+    15 Adenocalymma bracteosum : 0.697452
+    111 Amphilophium racemosum : 0.782609
+    151 Anemopaegma paraense : 0.832117
+    203 Cuspidaria inaequalis : 0.715569
+    243 Fridericia fanshawei : 0.741497
+    286 Lundia densiflora : 0.745399
+    346 Tanaecium bilabiatum : 0.803448
+
+SET NR. 29, size 17, score 5.274125
+7 scoring spp. (sp/score):
+    223 Dolichandra unguiculata : 0.771429
+    237 Fridericia cuneifolia : 0.764706
+    267 Fridericia rego : 0.779412
+    271 Fridericia speciosa : 0.762500
+    296 Lundia virginalis : 0.666667
+    306 Mansoa lanceolata : 0.764706
+    379 Xylophragma corchoroides : 0.764706
+
+SET NR. 30, size 12, score 4.420693
+6 scoring spp. (sp/score):
+    18 Adenocalymma candolleanum : 0.661765
+    162 Anemopaegma velutinum : 0.732143
+    208 Cuspidaria multiflora : 0.916667
+    303 Mansoa hirsuta : 0.729167
+    349 Tanaecium cyrtanthum : 0.714286
+    356 Tanaecium paradoxum : 0.666667
+
+SET NR. 31, size 17, score 3.709007
+5 scoring spp. (sp/score):
+    26 Adenocalymma cymbalum : 0.705128
+    162 Anemopaegma velutinum : 0.779412
+    288 Lundia gardneri : 0.714286
+    336 Pleonotoma stichadenia : 0.730769
+    380 Xylophragma harleyi : 0.779412
+
+SET NR. 32, size 80, score 3.277160
+4 scoring spp. (sp/score):
+    15 Adenocalymma bracteosum : 0.748521
+    177 Bignonia lilacina : 0.787709
+    203 Cuspidaria inaequalis : 0.878125
+    286 Lundia densiflora : 0.862805
+
+SET NR. 33, size 58, score 3.047126
+4 scoring spp. (sp/score):
+    92 Amphilophium granulosum : 0.815574
+    151 Anemopaegma paraense : 0.710714
+    287 Lundia erionema : 0.758065
+    346 Tanaecium bilabiatum : 0.762774
+
+SET NR. 34, size 6, score 3.891026
+5 scoring spp. (sp/score):
+    1 Adenocalymma adenophorum : 0.807692
+    48 Adenocalymma molle : 0.791667
+    112 Amphilophium reticulatum : 0.666667
+    332 Pleonotoma longiflora : 0.875000
+    367 Tynanthus densiflorus : 0.750000
+
+SET NR. 35, size 63, score 3.072585
+4 scoring spp. (sp/score):
+    92 Amphilophium granulosum : 0.834646
+    151 Anemopaegma paraense : 0.731034
+    286 Lundia densiflora : 0.734177
+    346 Tanaecium bilabiatum : 0.772727
+
+SET NR. 36, size 12, score 3.273810
+4 scoring spp. (sp/score):
+    223 Dolichandra unguiculata : 0.937500
+    250 Fridericia leucopogon : 0.729167
+    267 Fridericia rego : 0.732143
+    306 Mansoa lanceolata : 0.875000
+
+SET NR. 37, size 19, score 4.335447
+6 scoring spp. (sp/score):
+    237 Fridericia cuneifolia : 0.736842
+    271 Fridericia speciosa : 0.767442
+    296 Lundia virginalis : 0.738095
+    302 Mansoa glaziovii : 0.663043
+    337 Pleonotoma tetraquetra : 0.693182
+    379 Xylophragma corchoroides : 0.736842
+
+SET NR. 38, size 74, score 4.647470
+6 scoring spp. (sp/score):
+    15 Adenocalymma bracteosum : 0.759494
+    111 Amphilophium racemosum : 0.826220
+    177 Bignonia lilacina : 0.669271
+    183 Bignonia nocturna : 0.715084
+    203 Cuspidaria inaequalis : 0.823899
+    286 Lundia densiflora : 0.853503
+
+SET NR. 39, size 12, score 9.619438
+13 scoring spp. (sp/score):
+    11 Adenocalymma aurantiacum : 0.708333
+    26 Adenocalymma cymbalum : 0.687500
+    74 Amphilophium bauhinioides : 0.770833
+    126 Anemopaegma citrinum : 0.958333
+    137 Anemopaegma hilarianum : 0.729167
+    205 Cuspidaria lasiantha : 0.700000
+    209 Cuspidaria octoptera : 0.770833
+    237 Fridericia cuneifolia : 0.672414
+    274 Fridericia subincana : 0.678571
+    281 Fridericia tynanthoides : 0.666667
+    308 Mansoa minensis : 0.729167
+    371 Tynanthus labiatus : 0.833333
+    379 Xylophragma corchoroides : 0.714286
+
+SET NR. 40, size 16, score 3.063206
+4 scoring spp. (sp/score):
+    160 Anemopaegma scabriusculum : 0.797297
+    226 Fridericia bahiensis : 0.675000
+    270 Fridericia simplex : 0.803030
+    324 Pleonotoma castelnaei : 0.787879
+
+SET NR. 41, size 17, score 5.278618
+7 scoring spp. (sp/score):
+    223 Dolichandra unguiculata : 0.736111
+    237 Fridericia cuneifolia : 0.764706
+    267 Fridericia rego : 0.742857
+    271 Fridericia speciosa : 0.875000
+    296 Lundia virginalis : 0.666667
+    306 Mansoa lanceolata : 0.728571
+    379 Xylophragma corchoroides : 0.764706
+
+SET NR. 42, size 14, score 2.951024
+4 scoring spp. (sp/score):
+    24 Adenocalymma coriaceum : 0.750000
+    115 Amphilophium scabriusculum : 0.703125
+    205 Cuspidaria lasiantha : 0.676471
+    379 Xylophragma corchoroides : 0.821429
+
+SET NR. 43, size 63, score 3.085822
+4 scoring spp. (sp/score):
+    92 Amphilophium granulosum : 0.834646
+    151 Anemopaegma paraense : 0.722603
+    286 Lundia densiflora : 0.726415
+    346 Tanaecium bilabiatum : 0.802158
+
+SET NR. 44, size 12, score 4.334197
+6 scoring spp. (sp/score):
+    18 Adenocalymma candolleanum : 0.741935
+    162 Anemopaegma velutinum : 0.732143
+    208 Cuspidaria multiflora : 0.750000
+    303 Mansoa hirsuta : 0.729167
+    349 Tanaecium cyrtanthum : 0.714286
+    356 Tanaecium paradoxum : 0.666667
+
+SET NR. 45, size 27, score 3.780370
+5 scoring spp. (sp/score):
+    166 Bignonia bracteomana : 0.814815
+    255 Fridericia nicotianiflora : 0.758929
+    260 Fridericia pearcei : 0.723077
+    295 Lundia spruceana : 0.738095
+    344 Tanaecium affine : 0.745455
+
+SET NR. 46, size 64, score 4.585779
+6 scoring spp. (sp/score):
+    39 Adenocalymma impressum : 0.671779
+    151 Anemopaegma paraense : 0.775000
+    243 Fridericia fanshawei : 0.760714
+    280 Fridericia tuberculata : 0.712500
+    287 Lundia erionema : 0.794574
+    346 Tanaecium bilabiatum : 0.871212
+
+SET NR. 47, size 17, score 3.040322
+4 scoring spp. (sp/score):
+    149 Anemopaegma pabstii : 0.776316
+    160 Anemopaegma scabriusculum : 0.782051
+    270 Fridericia simplex : 0.710526
+    324 Pleonotoma castelnaei : 0.771429
+
+SET NR. 48, size 69, score 3.108414
+4 scoring spp. (sp/score):
+    15 Adenocalymma bracteosum : 0.741830
+    111 Amphilophium racemosum : 0.766467
+    151 Anemopaegma paraense : 0.832143
+    346 Tanaecium bilabiatum : 0.767974
+
+SET NR. 49, size 235, score 2.754270
+6 scoring spp. (sp/score):
+    224 Dolichandra unguis-cati : 0.872671
+    388 GRP-2-Amphilophium : 0.944099
+    401 GRP-15-Cuspidaria+Fridericia+Lundia+Tynanthus+Xylophragma : 0.937500
+
+SET NR. 50, size 12, score 5.688698
+8 scoring spp. (sp/score):
+    18 Adenocalymma candolleanum : 0.696970
+    162 Anemopaegma velutinum : 0.689655
+    208 Cuspidaria multiflora : 0.750000
+    251 Fridericia limae : 0.758621
+    303 Mansoa hirsuta : 0.729167
+    324 Pleonotoma castelnaei : 0.683333
+    349 Tanaecium cyrtanthum : 0.714286
+    356 Tanaecium paradoxum : 0.666667
+
+SET NR. 51, size 6, score 4.102564
+5 scoring spp. (sp/score):
+    27 Adenocalymma dichilum : 0.958333
+    38 Adenocalymma hypostictum : 0.769231
+    75 Amphilophium blanchetii : 0.791667
+    305 Mansoa ivanii : 0.833333
+    307 Mansoa longicalyx : 0.750000
+
+SET NR. 52, size 14, score 3.747899
+5 scoring spp. (sp/score):
+    24 Adenocalymma coriaceum : 0.833333
+    115 Amphilophium scabriusculum : 0.666667
+    126 Anemopaegma citrinum : 0.750000
+    205 Cuspidaria lasiantha : 0.676471
+    379 Xylophragma corchoroides : 0.821429
+
+SET NR. 53, size 17, score 5.138545
+7 scoring spp. (sp/score):
+    27 Adenocalymma dichilum : 0.661765
+    120 Anemopaegma album : 0.720588
+    162 Anemopaegma velutinum : 0.779412
+    208 Cuspidaria multiflora : 0.684211
+    226 Fridericia bahiensis : 0.763158
+    288 Lundia gardneri : 0.750000
+    380 Xylophragma harleyi : 0.779412
+
+SET NR. 54, size 14, score 4.718011
+6 scoring spp. (sp/score):
+    25 Adenocalymma cristicalyx : 0.732143
+    142 Anemopaegma laeve : 0.771429
+    208 Cuspidaria multiflora : 0.718750
+    310 Mansoa paganuccii : 0.875000
+    349 Tanaecium cyrtanthum : 0.775862
+    357 Tanaecium parviflorum : 0.844828
+
+SET NR. 55, size 21, score 3.177344
+4 scoring spp. (sp/score):
+    18 Adenocalymma candolleanum : 0.790698
+    56 Adenocalymma pubescens : 0.804348
+    149 Anemopaegma pabstii : 0.821429
+    160 Anemopaegma scabriusculum : 0.760870
+
+SET NR. 56, size 16, score 3.124573
+4 scoring spp. (sp/score):
+    160 Anemopaegma scabriusculum : 0.695122
+    226 Fridericia bahiensis : 0.906250
+    288 Lundia gardneri : 0.765625
+    380 Xylophragma harleyi : 0.757576
+
+SET NR. 57, size 14, score 5.147317
+7 scoring spp. (sp/score):
+    26 Adenocalymma cymbalum : 0.666667
+    126 Anemopaegma citrinum : 0.750000
+    205 Cuspidaria lasiantha : 0.844828
+    296 Lundia virginalis : 0.772727
+    336 Pleonotoma stichadenia : 0.666667
+    371 Tynanthus labiatus : 0.785714
+    381 Xylophragma heterocalyx : 0.660714
+
+SET NR. 58, size 19, score 4.589233
+6 scoring spp. (sp/score):
+    56 Adenocalymma pubescens : 0.772727
+    60 Adenocalymma scabriusculum : 0.683673
+    160 Anemopaegma scabriusculum : 0.894737
+    226 Fridericia bahiensis : 0.738095
+    270 Fridericia simplex : 0.756410
+    324 Pleonotoma castelnaei : 0.743590
+
+SET NR. 59, size 17, score 6.515414
+9 scoring spp. (sp/score):
+    18 Adenocalymma candolleanum : 0.776316
+    142 Anemopaegma laeve : 0.697674
+    160 Anemopaegma scabriusculum : 0.686047
+    162 Anemopaegma velutinum : 0.671053
+    208 Cuspidaria multiflora : 0.794118
+    251 Fridericia limae : 0.692308
+    303 Mansoa hirsuta : 0.661765
+    324 Pleonotoma castelnaei : 0.771429
+    349 Tanaecium cyrtanthum : 0.764706
+
+SET NR. 60, size 15, score 3.603311
+5 scoring spp. (sp/score):
+    237 Fridericia cuneifolia : 0.758065
+    271 Fridericia speciosa : 0.791667
+    296 Lundia virginalis : 0.684211
+    302 Mansoa glaziovii : 0.666667
+    337 Pleonotoma tetraquetra : 0.702703
+
+SET NR. 61, size 11, score 5.200745
+7 scoring spp. (sp/score):
+    27 Adenocalymma dichilum : 0.750000
+    38 Adenocalymma hypostictum : 0.704545
+    120 Anemopaegma album : 0.673077
+    288 Lundia gardneri : 0.826087
+    305 Mansoa ivanii : 0.681818
+    354 Tanaecium neobrasiliense : 0.695652
+    380 Xylophragma harleyi : 0.869565
+
+SET NR. 62, size 19, score 2.807780
+4 scoring spp. (sp/score):
+    56 Adenocalymma pubescens : 0.660000
+    149 Anemopaegma pabstii : 0.750000
+    160 Anemopaegma scabriusculum : 0.695652
+    238 Fridericia dispar : 0.702128
+
+SET NR. 63, size 16, score 4.437491
+6 scoring spp. (sp/score):
+    26 Adenocalymma cymbalum : 0.716216
+    126 Anemopaegma citrinum : 0.722222
+    205 Cuspidaria lasiantha : 0.803030
+    288 Lundia gardneri : 0.727273
+    354 Tanaecium neobrasiliense : 0.671875
+    380 Xylophragma harleyi : 0.796875
+
+SET NR. 64, size 76, score 4.647380
+6 scoring spp. (sp/score):
+    15 Adenocalymma bracteosum : 0.753086
+    111 Amphilophium racemosum : 0.818452
+    177 Bignonia lilacina : 0.704787
+    183 Bignonia nocturna : 0.710383
+    203 Cuspidaria inaequalis : 0.815951
+    286 Lundia densiflora : 0.844720
+
+SET NR. 65, size 12, score 2.937958
+4 scoring spp. (sp/score):
+    18 Adenocalymma candolleanum : 0.661765
+    120 Anemopaegma album : 0.711538
+    162 Anemopaegma velutinum : 0.689655
+    349 Tanaecium cyrtanthum : 0.875000
+
+SET NR. 66, size 11, score 3.153821
+4 scoring spp. (sp/score):
+    120 Anemopaegma album : 0.782609
+    162 Anemopaegma velutinum : 0.750000
+    208 Cuspidaria multiflora : 0.954545
+    357 Tanaecium parviflorum : 0.666667
+
+SET NR. 67, size 14, score 9.623806
+13 scoring spp. (sp/score):
+    11 Adenocalymma aurantiacum : 0.678571
+    26 Adenocalymma cymbalum : 0.666667
+    74 Amphilophium bauhinioides : 0.732143
+    126 Anemopaegma citrinum : 0.892857
+    137 Anemopaegma hilarianum : 0.696429
+    205 Cuspidaria lasiantha : 0.712121
+    209 Cuspidaria octoptera : 0.732143
+    237 Fridericia cuneifolia : 0.775862
+    296 Lundia virginalis : 0.772727
+    308 Mansoa minensis : 0.696429
+    371 Tynanthus labiatus : 0.785714
+    379 Xylophragma corchoroides : 0.821429
+    381 Xylophragma heterocalyx : 0.660714
+
+SET NR. 68, size 36, score 3.233287
+4 scoring spp. (sp/score):
+    121 Anemopaegma arvense : 0.820513
+    131 Anemopaegma glaucum : 0.781250
+    212 Cuspidaria sceptrum : 0.816456
+    236 Fridericia craterophora : 0.815068
+
+SET NR. 69, size 19, score 3.044220
+4 scoring spp. (sp/score):
+    56 Adenocalymma pubescens : 0.712766
+    149 Anemopaegma pabstii : 0.855263
+    160 Anemopaegma scabriusculum : 0.785714
+    270 Fridericia simplex : 0.690476
+
+SET NR. 70, size 101, score 2.553028
+4 scoring spp. (sp/score):
+    317 Martinella obovata : 0.837054
+    320 Pachyptera kerere : 0.852113
+    338 Pleonotoma variabilis : 0.863861
+
+SET NR. 71, size 8, score 4.416054
+6 scoring spp. (sp/score):
+    27 Adenocalymma dichilum : 0.843750
+    75 Amphilophium blanchetii : 0.718750
+    120 Anemopaegma album : 0.666667
+    208 Cuspidaria multiflora : 0.666667
+    303 Mansoa hirsuta : 0.843750
+    356 Tanaecium paradoxum : 0.676471
+
+SET NR. 72, size 8, score 4.416054
+6 scoring spp. (sp/score):
+    27 Adenocalymma dichilum : 0.843750
+    75 Amphilophium blanchetii : 0.718750
+    120 Anemopaegma album : 0.666667
+    208 Cuspidaria multiflora : 0.666667
+    303 Mansoa hirsuta : 0.843750
+    356 Tanaecium paradoxum : 0.676471
+
+SET NR. 73, size 17, score 3.598559
+5 scoring spp. (sp/score):
+    210 Cuspidaria pulchella : 0.723684
+    268 Fridericia samydoides : 0.722222
+    271 Fridericia speciosa : 0.670455
+    293 Lundia obliqua : 0.705882
+    302 Mansoa glaziovii : 0.776316
+
+SET NR. 74, size 62, score 5.843737
+8 scoring spp. (sp/score):
+    92 Amphilophium granulosum : 0.806202
+    111 Amphilophium racemosum : 0.694611
+    151 Anemopaegma paraense : 0.699324
+    203 Cuspidaria inaequalis : 0.675758
+    243 Fridericia fanshawei : 0.672185
+    286 Lundia densiflora : 0.737179
+    287 Lundia erionema : 0.751908
+    346 Tanaecium bilabiatum : 0.806569
+
+SET NR. 75, size 103, score 2.569006
+4 scoring spp. (sp/score):
+    294 Lundia puberula : 0.855769
+    317 Martinella obovata : 0.850446
+    412 GRP-26-Pachyptera : 0.862791
+
+SET NR. 76, size 6, score 3.584936
+5 scoring spp. (sp/score):
+    72 Amphilophium arenarium : 0.687500
+    99 Amphilophium monophyllum : 0.730769
+    158 Anemopaegma salicifolium : 0.750000
+    326 Pleonotoma dendrotricha : 0.666667
+    328 Pleonotoma exserta : 0.750000
+
+SET NR. 77, size 19, score 4.467548
+6 scoring spp. (sp/score):
+    237 Fridericia cuneifolia : 0.736842
+    271 Fridericia speciosa : 0.871795
+    296 Lundia virginalis : 0.738095
+    302 Mansoa glaziovii : 0.663043
+    337 Pleonotoma tetraquetra : 0.720930
+    379 Xylophragma corchoroides : 0.736842
+
+SET NR. 78, size 16, score 5.179090
+7 scoring spp. (sp/score):
+    27 Adenocalymma dichilum : 0.671875
+    56 Adenocalymma pubescens : 0.714286
+    120 Anemopaegma album : 0.734375
+    162 Anemopaegma velutinum : 0.757576
+    226 Fridericia bahiensis : 0.777778
+    288 Lundia gardneri : 0.765625
+    380 Xylophragma harleyi : 0.757576
+
+SET NR. 79, size 78, score 3.868162
+5 scoring spp. (sp/score):
+    15 Adenocalymma bracteosum : 0.779503
+    111 Amphilophium racemosum : 0.818713
+    177 Bignonia lilacina : 0.706806
+    183 Bignonia nocturna : 0.726776
+    286 Lundia densiflora : 0.836364
+
+SET NR. 80, size 19, score 8.071052
+11 scoring spp. (sp/score):
+    24 Adenocalymma coriaceum : 0.695652
+    26 Adenocalymma cymbalum : 0.714286
+    126 Anemopaegma citrinum : 0.789474
+    205 Cuspidaria lasiantha : 0.789474
+    237 Fridericia cuneifolia : 0.736842
+    271 Fridericia speciosa : 0.680851
+    296 Lundia virginalis : 0.842105
+    336 Pleonotoma stichadenia : 0.681818
+    337 Pleonotoma tetraquetra : 0.693182
+    371 Tynanthus labiatus : 0.710526
+    379 Xylophragma corchoroides : 0.736842
+
+SET NR. 81, size 5, score 7.206494
+9 scoring spp. (sp/score):
+    16 Adenocalymma bullatum : 0.800000
+    35 Adenocalymma grandifolium : 1.000000
+    67 Adenocalymma trifoliatum : 0.714286
+    68 Adenocalymma ubatubense : 0.800000
+    172 Bignonia costata : 0.850000
+    240 Fridericia elegans : 0.800000
+    250 Fridericia leucopogon : 0.678571
+    273 Fridericia subexserta : 0.700000
+    285 Lundia damazioi : 0.863636
+
+SET NR. 82, size 14, score 3.544440
+5 scoring spp. (sp/score):
+    5 Adenocalymma allamandiflorum : 0.734375
+    45 Adenocalymma magnificum : 0.666667
+    299 Mansoa angustidens : 0.696970
+    323 Pleonotoma bracteata : 0.732143
+    339 Pyrostegia millingtonioides : 0.714286
+
+SET NR. 83, size 18, score 3.129586
+4 scoring spp. (sp/score):
+    56 Adenocalymma pubescens : 0.695652
+    160 Anemopaegma scabriusculum : 0.878378
+    226 Fridericia bahiensis : 0.750000
+    270 Fridericia simplex : 0.805556
+
+SET NR. 84, size 18, score 7.408626
+10 scoring spp. (sp/score):
+    26 Adenocalymma cymbalum : 0.833333
+    126 Anemopaegma citrinum : 0.805556
+    205 Cuspidaria lasiantha : 0.700000
+    237 Fridericia cuneifolia : 0.716216
+    271 Fridericia speciosa : 0.663043
+    296 Lundia virginalis : 0.824324
+    336 Pleonotoma stichadenia : 0.719512
+    337 Pleonotoma tetraquetra : 0.674419
+    371 Tynanthus labiatus : 0.722222
+    379 Xylophragma corchoroides : 0.750000
+
+SET NR. 85, size 64, score 6.012627
+8 scoring spp. (sp/score):
+    15 Adenocalymma bracteosum : 0.697368
+    111 Amphilophium racemosum : 0.751553
+    151 Anemopaegma paraense : 0.784173
+    203 Cuspidaria inaequalis : 0.701220
+    243 Fridericia fanshawei : 0.751773
+    286 Lundia densiflora : 0.746835
+    287 Lundia erionema : 0.763158
+    346 Tanaecium bilabiatum : 0.816547
+
+SET NR. 86, size 100, score 3.286399
+5 scoring spp. (sp/score):
+    294 Lundia puberula : 0.817536
+    317 Martinella obovata : 0.802174
+    320 Pachyptera kerere : 0.821101
+    338 Pleonotoma variabilis : 0.845588
+
+SET NR. 87, size 80, score 3.186656
+4 scoring spp. (sp/score):
+    177 Bignonia lilacina : 0.765027
+    183 Bignonia nocturna : 0.750000
+    203 Cuspidaria inaequalis : 0.808824
+    286 Lundia densiflora : 0.862805
+
+SET NR. 88, size 8, score 4.584821
+6 scoring spp. (sp/score):
+    27 Adenocalymma dichilum : 0.843750
+    75 Amphilophium blanchetii : 0.718750
+    120 Anemopaegma album : 0.666667
+    162 Anemopaegma velutinum : 0.761905
+    303 Mansoa hirsuta : 0.843750
+    356 Tanaecium paradoxum : 0.750000
+
+SET NR. 89, size 33, score 4.529592
+6 scoring spp. (sp/score):
+    13 Adenocalymma bracteatum : 0.790541
+    51 Adenocalymma nodosum : 0.780303
+    118 Anemopaegma acutifolium : 0.696203
+    121 Anemopaegma arvense : 0.772727
+    236 Fridericia craterophora : 0.743243
+    342 Stizophyllum perforatum : 0.746575
+
+SET NR. 90, size 70, score 3.321109
+4 scoring spp. (sp/score):
+    39 Adenocalymma impressum : 0.810000
+    243 Fridericia fanshawei : 0.811189
+    280 Fridericia tuberculata : 0.831126
+    346 Tanaecium bilabiatum : 0.868794
+
+SET NR. 91, size 101, score 2.547085
+4 scoring spp. (sp/score):
+    317 Martinella obovata : 0.831111
+    320 Pachyptera kerere : 0.852113
+    338 Pleonotoma variabilis : 0.863861
+
+SET NR. 92, size 81, score 3.252312
+4 scoring spp. (sp/score):
+    15 Adenocalymma bracteosum : 0.777108
+    111 Amphilophium racemosum : 0.855882
+    177 Bignonia lilacina : 0.769022
+    286 Lundia densiflora : 0.850299
+
+SET NR. 93, size 18, score 6.619144
+9 scoring spp. (sp/score):
+    26 Adenocalymma cymbalum : 0.833333
+    126 Anemopaegma citrinum : 0.700000
+    205 Cuspidaria lasiantha : 0.670732
+    237 Fridericia cuneifolia : 0.750000
+    271 Fridericia speciosa : 0.688889
+    296 Lundia virginalis : 0.861111
+    336 Pleonotoma stichadenia : 0.690476
+    337 Pleonotoma tetraquetra : 0.702381
+    371 Tynanthus labiatus : 0.722222
+
+SET NR. 94, size 14, score 3.588316
+5 scoring spp. (sp/score):
+    5 Adenocalymma allamandiflorum : 0.734375
+    45 Adenocalymma magnificum : 0.666667
+    299 Mansoa angustidens : 0.783333
+    323 Pleonotoma bracteata : 0.689655
+    339 Pyrostegia millingtonioides : 0.714286
+
+SET NR. 95, size 9, score 2.997778
+4 scoring spp. (sp/score):
+    16 Adenocalymma bullatum : 0.666667
+    210 Cuspidaria pulchella : 0.720000
+    246 Fridericia formosa : 0.722222
+    293 Lundia obliqua : 0.888889
+
+SET NR. 96, size 21, score 3.147303
+4 scoring spp. (sp/score):
+    28 Adenocalymma divaricatum : 0.760417
+    133 Anemopaegma gracile : 0.679245
+    241 Fridericia erubescens : 0.928571
+    336 Pleonotoma stichadenia : 0.779070
+
+SET NR. 97, size 10, score 13.888333
+19 scoring spp. (sp/score):
+    11 Adenocalymma aurantiacum : 0.750000
+    21 Adenocalymma cinereum : 0.700000
+    43 Adenocalymma macrophyllum : 0.700000
+    57 Adenocalymma salmoneum : 0.700000
+    62 Adenocalymma sessile : 0.700000
+    64 Adenocalymma subsessilifolium : 0.775000
+    74 Amphilophium bauhinioides : 0.761905
+    137 Anemopaegma hilarianum : 0.775000
+    161 Anemopaegma setilobum : 0.700000
+    209 Cuspidaria octoptera : 0.825000
+    246 Fridericia formosa : 0.700000
+    250 Fridericia leucopogon : 0.775000
+    267 Fridericia rego : 0.720000
+    274 Fridericia subincana : 0.660000
+    276 Fridericia trachyphylla : 0.725000
+    306 Mansoa lanceolata : 0.700000
+    308 Mansoa minensis : 0.775000
+    369 Tynanthus fasciculatus : 0.738095
+    371 Tynanthus labiatus : 0.708333
+
+SET NR. 98, size 12, score 2.708333
+3 scoring spp. (sp/score):
+    5 Adenocalymma allamandiflorum : 0.937500
+    34 Adenocalymma gracielzae : 0.770833
+    45 Adenocalymma magnificum : 1.000000
+
+SET NR. 99, size 66, score 3.033727
+4 scoring spp. (sp/score):
+    92 Amphilophium granulosum : 0.829545
+    111 Amphilophium racemosum : 0.720588
+    151 Anemopaegma paraense : 0.748299
+    346 Tanaecium bilabiatum : 0.735294
+
+SET NR. 100, size 68, score 4.745595
+6 scoring spp. (sp/score):
+    111 Amphilophium racemosum : 0.747024
+    203 Cuspidaria inaequalis : 0.751553
+    243 Fridericia fanshawei : 0.763699
+    286 Lundia densiflora : 0.816993
+    287 Lundia erionema : 0.786765
+    346 Tanaecium bilabiatum : 0.879562
+
+SET NR. 101, size 19, score 4.473835
+6 scoring spp. (sp/score):
+    237 Fridericia cuneifolia : 0.705128
+    271 Fridericia speciosa : 0.837500
+    296 Lundia virginalis : 0.842105
+    302 Mansoa glaziovii : 0.663043
+    337 Pleonotoma tetraquetra : 0.720930
+    379 Xylophragma corchoroides : 0.705128
+
+SET NR. 102, size 103, score 2.569006
+4 scoring spp. (sp/score):
+    294 Lundia puberula : 0.855769
+    317 Martinella obovata : 0.850446
+    412 GRP-26-Pachyptera : 0.862791
+
+SET NR. 103, size 8, score 4.496965
+6 scoring spp. (sp/score):
+    76 Amphilophium bracteatum : 0.794118
+    85 Amphilophium dolichoides : 0.714286
+    246 Fridericia formosa : 0.750000
+    285 Lundia damazioi : 0.666667
+    293 Lundia obliqua : 0.777778
+    369 Tynanthus fasciculatus : 0.794118
+
+SET NR. 104, size 10, score 4.487500
+6 scoring spp. (sp/score):
+    27 Adenocalymma dichilum : 0.775000
+    75 Amphilophium blanchetii : 0.675000
+    162 Anemopaegma velutinum : 0.770833
+    208 Cuspidaria multiflora : 0.791667
+    303 Mansoa hirsuta : 0.775000
+    356 Tanaecium paradoxum : 0.700000
+
+SET NR. 105, size 13, score 2.238757
+3 scoring spp. (sp/score):
+    299 Mansoa angustidens : 0.803571
+    323 Pleonotoma bracteata : 0.750000
+    339 Pyrostegia millingtonioides : 0.685185
+
+SET NR. 106, size 12, score 10.948871
+15 scoring spp. (sp/score):
+    11 Adenocalymma aurantiacum : 0.708333
+    26 Adenocalymma cymbalum : 0.775862
+    37 Adenocalymma hirtum : 0.687500
+    74 Amphilophium bauhinioides : 0.770833
+    90 Amphilophium frutescens : 0.708333
+    126 Anemopaegma citrinum : 0.958333
+    137 Anemopaegma hilarianum : 0.729167
+    205 Cuspidaria lasiantha : 0.700000
+    209 Cuspidaria octoptera : 0.770833
+    237 Fridericia cuneifolia : 0.672414
+    274 Fridericia subincana : 0.678571
+    281 Fridericia tynanthoides : 0.666667
+    308 Mansoa minensis : 0.729167
+    371 Tynanthus labiatus : 0.678571
+    379 Xylophragma corchoroides : 0.714286
+
+SET NR. 107, size 11, score 3.233658
+4 scoring spp. (sp/score):
+    27 Adenocalymma dichilum : 0.750000
+    120 Anemopaegma album : 0.782609
+    162 Anemopaegma velutinum : 0.931818
+    208 Cuspidaria multiflora : 0.769231
+
+SET NR. 108, size 15, score 3.723841
+5 scoring spp. (sp/score):
+    237 Fridericia cuneifolia : 0.758065
+    271 Fridericia speciosa : 0.878788
+    296 Lundia virginalis : 0.684211
+    302 Mansoa glaziovii : 0.666667
+    337 Pleonotoma tetraquetra : 0.736111
+
+SET NR. 109, size 20, score 2.933538
+4 scoring spp. (sp/score):
+    149 Anemopaegma pabstii : 0.738636
+    160 Anemopaegma scabriusculum : 0.744444
+    238 Fridericia dispar : 0.718750
+    324 Pleonotoma castelnaei : 0.731707
+
+SET NR. 110, size 11, score 4.575560
+6 scoring spp. (sp/score):
+    195 Cuspidaria argentea : 0.909091
+    200 Cuspidaria cratensis : 0.826087
+    251 Fridericia limae : 0.732143
+    303 Mansoa hirsuta : 0.695652
+    349 Tanaecium cyrtanthum : 0.730769
+    356 Tanaecium paradoxum : 0.681818
+
+SET NR. 111, size 10, score 3.128571
+4 scoring spp. (sp/score):
+    75 Amphilophium blanchetii : 0.675000
+    208 Cuspidaria multiflora : 1.000000
+    303 Mansoa hirsuta : 0.775000
+    357 Tanaecium parviflorum : 0.678571
+
+SET NR. 112, size 17, score 4.646661
+6 scoring spp. (sp/score):
+    223 Dolichandra unguiculata : 0.771429
+    237 Fridericia cuneifolia : 0.728571
+    267 Fridericia rego : 0.779412
+    271 Fridericia speciosa : 0.837838
+    306 Mansoa lanceolata : 0.764706
+    379 Xylophragma corchoroides : 0.764706
+
+SET NR. 113, size 8, score 5.132791
+7 scoring spp. (sp/score):
+    27 Adenocalymma dichilum : 0.843750
+    38 Adenocalymma hypostictum : 0.705882
+    120 Anemopaegma album : 0.666667
+    288 Lundia gardneri : 0.714286
+    305 Mansoa ivanii : 0.750000
+    307 Mansoa longicalyx : 0.687500
+    354 Tanaecium neobrasiliense : 0.764706
+
+SET NR. 114, size 65, score 5.146107
+7 scoring spp. (sp/score):
+    92 Amphilophium granulosum : 0.792593
+    111 Amphilophium racemosum : 0.724551
+    151 Anemopaegma paraense : 0.743151
+    203 Cuspidaria inaequalis : 0.690476
+    243 Fridericia fanshawei : 0.665605
+    286 Lundia densiflora : 0.736025
+    346 Tanaecium bilabiatum : 0.793706
+
+SET NR. 115, size 14, score 5.086468
+7 scoring spp. (sp/score):
+    26 Adenocalymma cymbalum : 0.742424
+    126 Anemopaegma citrinum : 0.750000
+    205 Cuspidaria lasiantha : 0.844828
+    336 Pleonotoma stichadenia : 0.662162
+    354 Tanaecium neobrasiliense : 0.696429
+    379 Xylophragma corchoroides : 0.687500
+    380 Xylophragma harleyi : 0.703125
+
+SET NR. 116, size 10, score 5.003571
+7 scoring spp. (sp/score):
+    27 Adenocalymma dichilum : 0.775000
+    75 Amphilophium blanchetii : 0.675000
+    162 Anemopaegma velutinum : 0.720000
+    288 Lundia gardneri : 0.680000
+    303 Mansoa hirsuta : 0.775000
+    324 Pleonotoma castelnaei : 0.678571
+    356 Tanaecium paradoxum : 0.700000
+
+SET NR. 117, size 228, score 2.638790
+6 scoring spp. (sp/score):
+    82 Amphilophium crucigerum : 0.882863
+    224 Dolichandra unguis-cati : 0.835714
+    401 GRP-15-Cuspidaria+Fridericia+Lundia+Tynanthus+Xylophragma : 0.920213
+
+SET NR. 118, size 229, score 2.661212
+6 scoring spp. (sp/score):
+    82 Amphilophium crucigerum : 0.891068
+    224 Dolichandra unguis-cati : 0.843238
+    402 GRP-16-Cuspidaria+Fridericia+Lundia+Tanaecium+Tynanthus+Xylophragma : 0.926907
+
+SET NR. 119, size 5, score 2.277273
+3 scoring spp. (sp/score):
+    29 Adenocalymma dugandii : 0.727273
+    319 Pachyptera erythraea : 0.800000
+    352 Tanaecium exitiosum : 0.750000
+
+SET NR. 120, size 6, score 2.062500
+3 scoring spp. (sp/score):
+    101 Amphilophium obovatum : 0.708333
+    106 Amphilophium pauciflorum : 0.666667
+    247 Fridericia grosourdyana : 0.687500
+
+SET NR. 121, size 66, score 3.931153
+5 scoring spp. (sp/score):
+    39 Adenocalymma impressum : 0.727564
+    243 Fridericia fanshawei : 0.771127
+    280 Fridericia tuberculata : 0.756410
+    287 Lundia erionema : 0.795455
+    346 Tanaecium bilabiatum : 0.880597
+
+SET NR. 122, size 7, score 3.050000
+4 scoring spp. (sp/score):
+    75 Amphilophium blanchetii : 0.750000
+    145 Anemopaegma mirabile : 0.714286
+    303 Mansoa hirsuta : 0.800000
+    356 Tanaecium paradoxum : 0.785714
+
+SET NR. 123, size 62, score 3.045800
+4 scoring spp. (sp/score):
+    92 Amphilophium granulosum : 0.840000
+    151 Anemopaegma paraense : 0.725694
+    286 Lundia densiflora : 0.712500
+    346 Tanaecium bilabiatum : 0.767606
+
+SET NR. 124, size 6, score 7.754808
+10 scoring spp. (sp/score):
+    16 Adenocalymma bullatum : 0.750000
+    33 Adenocalymma gibbosum : 0.666667
+    35 Adenocalymma grandifolium : 0.916667
+    67 Adenocalymma trifoliatum : 0.687500
+    172 Bignonia costata : 0.791667
+    240 Fridericia elegans : 0.750000
+    246 Fridericia formosa : 0.833333
+    273 Fridericia subexserta : 0.666667
+    285 Lundia damazioi : 0.807692
+    369 Tynanthus fasciculatus : 0.884615
+
+SET NR. 125, size 10, score 2.525000
+3 scoring spp. (sp/score):
+    10 Adenocalymma aspericarpum : 0.850000
+    44 Adenocalymma magdalenense : 0.750000
+    188 Bignonia pterocalyx : 0.925000
+
+SET NR. 126, size 22, score 3.257812
+4 scoring spp. (sp/score):
+    28 Adenocalymma divaricatum : 0.836957
+    133 Anemopaegma gracile : 0.745098
+    241 Fridericia erubescens : 0.909091
+    336 Pleonotoma stichadenia : 0.766667
+
+SET NR. 127, size 12, score 11.068002
+15 scoring spp. (sp/score):
+    11 Adenocalymma aurantiacum : 0.708333
+    26 Adenocalymma cymbalum : 0.821429
+    37 Adenocalymma hirtum : 0.687500
+    74 Amphilophium bauhinioides : 0.770833
+    90 Amphilophium frutescens : 0.708333
+    126 Anemopaegma citrinum : 0.785714
+    137 Anemopaegma hilarianum : 0.729167
+    205 Cuspidaria lasiantha : 0.661290
+    209 Cuspidaria octoptera : 0.770833
+    237 Fridericia cuneifolia : 0.672414
+    267 Fridericia rego : 0.689655
+    274 Fridericia subincana : 0.833333
+    281 Fridericia tynanthoides : 0.666667
+    308 Mansoa minensis : 0.729167
+    371 Tynanthus labiatus : 0.833333
+
+SET NR. 128, size 100, score 3.280761
+5 scoring spp. (sp/score):
+    294 Lundia puberula : 0.817536
+    317 Martinella obovata : 0.796537
+    320 Pachyptera kerere : 0.821101
+    338 Pleonotoma variabilis : 0.845588
+
+SET NR. 129, size 14, score 5.158298
+7 scoring spp. (sp/score):
+    126 Anemopaegma citrinum : 0.750000
+    205 Cuspidaria lasiantha : 0.844828
+    237 Fridericia cuneifolia : 0.775862
+    296 Lundia virginalis : 0.772727
+    336 Pleonotoma stichadenia : 0.666667
+    379 Xylophragma corchoroides : 0.687500
+    381 Xylophragma heterocalyx : 0.660714
+
+SET NR. 130, size 20, score 4.476706
+6 scoring spp. (sp/score):
+    24 Adenocalymma coriaceum : 0.663265
+    237 Fridericia cuneifolia : 0.725000
+    271 Fridericia speciosa : 0.853659
+    296 Lundia virginalis : 0.825000
+    337 Pleonotoma tetraquetra : 0.684783
+    379 Xylophragma corchoroides : 0.725000
+
+SET NR. 131, size 19, score 5.010966
+7 scoring spp. (sp/score):
+    28 Adenocalymma divaricatum : 0.670000
+    120 Anemopaegma album : 0.697368
+    162 Anemopaegma velutinum : 0.750000
+    226 Fridericia bahiensis : 0.738095
+    288 Lundia gardneri : 0.723684
+    336 Pleonotoma stichadenia : 0.681818
+    380 Xylophragma harleyi : 0.750000
+
+SET NR. 132, size 9, score 3.647216
+5 scoring spp. (sp/score):
+    30 Adenocalymma dusenii : 0.750000
+    36 Adenocalymma hatschbachii : 0.666667
+    76 Amphilophium bracteatum : 0.763158
+    85 Amphilophium dolichoides : 0.750000
+    86 Amphilophium dusenianum : 0.717391
+
+SET NR. 133, size 12, score 14.006876
+19 scoring spp. (sp/score):
+    11 Adenocalymma aurantiacum : 0.708333
+    21 Adenocalymma cinereum : 0.666667
+    43 Adenocalymma macrophyllum : 0.666667
+    57 Adenocalymma salmoneum : 0.666667
+    62 Adenocalymma sessile : 0.666667
+    64 Adenocalymma subsessilifolium : 0.729167
+    74 Amphilophium bauhinioides : 0.770833
+    137 Anemopaegma hilarianum : 0.729167
+    161 Anemopaegma setilobum : 0.666667
+    209 Cuspidaria octoptera : 0.770833
+    223 Dolichandra unguiculata : 0.724138
+    250 Fridericia leucopogon : 0.729167
+    267 Fridericia rego : 0.895833
+    274 Fridericia subincana : 0.833333
+    276 Fridericia trachyphylla : 0.687500
+    304 Mansoa hymenaea : 0.812500
+    306 Mansoa lanceolata : 0.875000
+    308 Mansoa minensis : 0.729167
+    371 Tynanthus labiatus : 0.678571
+
+SET NR. 134, size 71, score 4.784351
+6 scoring spp. (sp/score):
+    15 Adenocalymma bracteosum : 0.718750
+    111 Amphilophium racemosum : 0.786145
+    203 Cuspidaria inaequalis : 0.808917
+    243 Fridericia fanshawei : 0.797945
+    286 Lundia densiflora : 0.830128
+    346 Tanaecium bilabiatum : 0.842466
+
+SET NR. 135, size 37, score 3.959995
+5 scoring spp. (sp/score):
+    13 Adenocalymma bracteatum : 0.871622
+    118 Anemopaegma acutifolium : 0.844595
+    121 Anemopaegma arvense : 0.761905
+    131 Anemopaegma glaucum : 0.712644
+    236 Fridericia craterophora : 0.769231
+
+SET NR. 136, size 19, score 7.297811
+10 scoring spp. (sp/score):
+    18 Adenocalymma candolleanum : 0.663043
+    28 Adenocalymma divaricatum : 0.670000
+    56 Adenocalymma pubescens : 0.875000
+    60 Adenocalymma scabriusculum : 0.708333
+    120 Anemopaegma album : 0.697368
+    160 Anemopaegma scabriusculum : 0.785714
+    162 Anemopaegma velutinum : 0.750000
+    208 Cuspidaria multiflora : 0.666667
+    226 Fridericia bahiensis : 0.738095
+    324 Pleonotoma castelnaei : 0.743590
+
+SET NR. 137, size 8, score 5.129114
+7 scoring spp. (sp/score):
+    27 Adenocalymma dichilum : 0.764706
+    38 Adenocalymma hypostictum : 0.781250
+    120 Anemopaegma album : 0.666667
+    288 Lundia gardneri : 0.714286
+    305 Mansoa ivanii : 0.750000
+    307 Mansoa longicalyx : 0.687500
+    354 Tanaecium neobrasiliense : 0.764706
+
+SET NR. 138, size 14, score 11.788268
+16 scoring spp. (sp/score):
+    11 Adenocalymma aurantiacum : 0.678571
+    26 Adenocalymma cymbalum : 0.781250
+    74 Amphilophium bauhinioides : 0.732143
+    126 Anemopaegma citrinum : 0.750000
+    137 Anemopaegma hilarianum : 0.696429
+    209 Cuspidaria octoptera : 0.732143
+    223 Dolichandra unguiculata : 0.696970
+    237 Fridericia cuneifolia : 0.775862
+    267 Fridericia rego : 0.839286
+    271 Fridericia speciosa : 0.666667
+    274 Fridericia subincana : 0.785714
+    296 Lundia virginalis : 0.662162
+    306 Mansoa lanceolata : 0.821429
+    308 Mansoa minensis : 0.696429
+    371 Tynanthus labiatus : 0.785714
+    379 Xylophragma corchoroides : 0.687500
+
+SET NR. 139, size 12, score 5.686619
+8 scoring spp. (sp/score):
+    27 Adenocalymma dichilum : 0.729167
+    38 Adenocalymma hypostictum : 0.687500
+    120 Anemopaegma album : 0.660714
+    226 Fridericia bahiensis : 0.718750
+    288 Lundia gardneri : 0.854167
+    305 Mansoa ivanii : 0.666667
+    354 Tanaecium neobrasiliense : 0.680000
+    380 Xylophragma harleyi : 0.689655
+
+SET NR. 140, size 20, score 2.939458
+4 scoring spp. (sp/score):
+    149 Anemopaegma pabstii : 0.738636
+    160 Anemopaegma scabriusculum : 0.744444
+    238 Fridericia dispar : 0.693878
+    324 Pleonotoma castelnaei : 0.762500
+
+SET NR. 141, size 100, score 3.286399
+5 scoring spp. (sp/score):
+    294 Lundia puberula : 0.817536
+    317 Martinella obovata : 0.802174
+    320 Pachyptera kerere : 0.821101
+    338 Pleonotoma variabilis : 0.845588
+
+SET NR. 142, size 66, score 5.401549
+7 scoring spp. (sp/score):
+    111 Amphilophium racemosum : 0.745455
+    151 Anemopaegma paraense : 0.776224
+    203 Cuspidaria inaequalis : 0.696429
+    243 Fridericia fanshawei : 0.753472
+    286 Lundia densiflora : 0.773885
+    287 Lundia erionema : 0.785714
+    346 Tanaecium bilabiatum : 0.870370
+
+SET NR. 143, size 17, score 2.297161
+3 scoring spp. (sp/score):
+    271 Fridericia speciosa : 0.875000
+    302 Mansoa glaziovii : 0.678571
+    337 Pleonotoma tetraquetra : 0.743590
+
+SET NR. 144, size 6, score 2.259615
+3 scoring spp. (sp/score):
+    101 Amphilophium obovatum : 0.708333
+    106 Amphilophium pauciflorum : 0.666667
+    247 Fridericia grosourdyana : 0.884615
+
+SET NR. 145, size 23, score 2.374733
+3 scoring spp. (sp/score):
+    268 Fridericia samydoides : 0.882979
+    302 Mansoa glaziovii : 0.793478
+    365 Tynanthus cognatus : 0.698276
+
+SET NR. 146, size 8, score 4.613971
+6 scoring spp. (sp/score):
+    27 Adenocalymma dichilum : 0.764706
+    38 Adenocalymma hypostictum : 0.705882
+    288 Lundia gardneri : 0.941176
+    305 Mansoa ivanii : 0.750000
+    307 Mansoa longicalyx : 0.687500
+    354 Tanaecium neobrasiliense : 0.764706
+
+SET NR. 147, size 14, score 2.248943
+3 scoring spp. (sp/score):
+    160 Anemopaegma scabriusculum : 0.684211
+    270 Fridericia simplex : 0.892857
+    288 Lundia gardneri : 0.671875
+
+SET NR. 148, size 16, score 5.701359
+7 scoring spp. (sp/score):
+    18 Adenocalymma candolleanum : 0.756757
+    142 Anemopaegma laeve : 0.939394
+    208 Cuspidaria multiflora : 0.812500
+    251 Fridericia limae : 0.859375
+    310 Mansoa paganuccii : 0.708333
+    349 Tanaecium cyrtanthum : 0.781250
+    357 Tanaecium parviflorum : 0.843750
+
+SET NR. 149, size 236, score 2.751494
+6 scoring spp. (sp/score):
+    224 Dolichandra unguis-cati : 0.867556
+    388 GRP-2-Amphilophium : 0.945248
+    401 GRP-15-Cuspidaria+Fridericia+Lundia+Tynanthus+Xylophragma : 0.938689
+
+SET NR. 150, size 12, score 4.420693
+6 scoring spp. (sp/score):
+    18 Adenocalymma candolleanum : 0.661765
+    162 Anemopaegma velutinum : 0.732143
+    208 Cuspidaria multiflora : 0.916667
+    303 Mansoa hirsuta : 0.729167
+    349 Tanaecium cyrtanthum : 0.714286
+    356 Tanaecium paradoxum : 0.666667
+
+SET NR. 151, size 10, score 9.582599
+13 scoring spp. (sp/score):
+    11 Adenocalymma aurantiacum : 0.750000
+    26 Adenocalymma cymbalum : 0.672414
+    37 Adenocalymma hirtum : 0.666667
+    74 Amphilophium bauhinioides : 0.825000
+    126 Anemopaegma citrinum : 0.833333
+    137 Anemopaegma hilarianum : 0.775000
+    205 Cuspidaria lasiantha : 0.685185
+    209 Cuspidaria octoptera : 0.825000
+    237 Fridericia cuneifolia : 0.700000
+    281 Fridericia tynanthoides : 0.700000
+    308 Mansoa minensis : 0.775000
+    371 Tynanthus labiatus : 0.708333
+    381 Xylophragma heterocalyx : 0.666667
+
+SET NR. 152, size 6, score 10.917468
+13 scoring spp. (sp/score):
+    11 Adenocalymma aurantiacum : 0.916667
+    21 Adenocalymma cinereum : 0.833333
+    33 Adenocalymma gibbosum : 0.666667
+    43 Adenocalymma macrophyllum : 0.833333
+    57 Adenocalymma salmoneum : 0.833333
+    62 Adenocalymma sessile : 0.833333
+    64 Adenocalymma subsessilifolium : 0.846154
+    74 Amphilophium bauhinioides : 0.923077
+    137 Anemopaegma hilarianum : 0.958333
+    161 Anemopaegma setilobum : 0.833333
+    209 Cuspidaria octoptera : 0.718750
+    276 Fridericia trachyphylla : 0.875000
+    308 Mansoa minensis : 0.846154
+
+SET NR. 153, size 9, score 3.283626
+4 scoring spp. (sp/score):
+    65 Adenocalymma subspicatum : 0.722222
+    195 Cuspidaria argentea : 1.000000
+    200 Cuspidaria cratensis : 0.894737
+    262 Fridericia pliciflora : 0.666667
+
+SET NR. 154, size 21, score 2.988573
+4 scoring spp. (sp/score):
+    56 Adenocalymma pubescens : 0.720000
+    149 Anemopaegma pabstii : 0.821429
+    160 Anemopaegma scabriusculum : 0.760870
+    238 Fridericia dispar : 0.686275
+
+SET NR. 155, size 4, score 3.312500
+4 scoring spp. (sp/score):
+    4 Adenocalymma album : 1.000000
+    59 Adenocalymma saulense : 0.750000
+    135 Anemopaegma granvillei : 0.812500
+    377 Tynanthus sastrei : 0.750000
+
+SET NR. 156, size 87, score 2.343519
+3 scoring spp. (sp/score):
+    298 Mansoa alliacea : 0.742347
+    313 Mansoa standleyi : 0.811429
+    338 Pleonotoma variabilis : 0.789744
+
+SET NR. 157, size 5, score 2.531818
+3 scoring spp. (sp/score):
+    75 Amphilophium blanchetii : 0.850000
+    303 Mansoa hirsuta : 0.909091
+    356 Tanaecium paradoxum : 0.772727
+
+SET NR. 158, size 14, score 2.960771
+4 scoring spp. (sp/score):
+    5 Adenocalymma allamandiflorum : 0.734375
+    45 Adenocalymma magnificum : 0.666667
+    299 Mansoa angustidens : 0.827586
+    323 Pleonotoma bracteata : 0.732143
+
+SET NR. 159, size 13, score 3.209140
+4 scoring spp. (sp/score):
+    208 Cuspidaria multiflora : 0.733333
+    310 Mansoa paganuccii : 0.903846
+    349 Tanaecium cyrtanthum : 0.846154
+    357 Tanaecium parviflorum : 0.725806
+
+SET NR. 160, size 12, score 6.554086
+9 scoring spp. (sp/score):
+    35 Adenocalymma grandifolium : 0.708333
+    67 Adenocalymma trifoliatum : 0.750000
+    76 Amphilophium bracteatum : 0.750000
+    85 Amphilophium dolichoides : 0.800000
+    210 Cuspidaria pulchella : 0.677419
+    246 Fridericia formosa : 0.666667
+    285 Lundia damazioi : 0.660000
+    293 Lundia obliqua : 0.791667
+    369 Tynanthus fasciculatus : 0.750000
+
+SET NR. 161, size 23, score 5.190463
+7 scoring spp. (sp/score):
+    28 Adenocalymma divaricatum : 0.880435
+    56 Adenocalymma pubescens : 0.754902
+    120 Anemopaegma album : 0.663043
+    133 Anemopaegma gracile : 0.709091
+    162 Anemopaegma velutinum : 0.706522
+    241 Fridericia erubescens : 0.800000
+    336 Pleonotoma stichadenia : 0.676471
+
+SET NR. 162, size 6, score 3.894231
+5 scoring spp. (sp/score):
+    1 Adenocalymma adenophorum : 0.916667
+    48 Adenocalymma molle : 0.791667
+    112 Amphilophium reticulatum : 0.666667
+    198 Cuspidaria cinerea : 0.769231
+    367 Tynanthus densiflorus : 0.750000
+
+SET NR. 163, size 9, score 3.659687
+5 scoring spp. (sp/score):
+    30 Adenocalymma dusenii : 0.684211
+    36 Adenocalymma hatschbachii : 0.666667
+    76 Amphilophium bracteatum : 0.763158
+    85 Amphilophium dolichoides : 0.695652
+    86 Amphilophium dusenianum : 0.850000
+
+SET NR. 164, size 72, score 2.517347
+3 scoring spp. (sp/score):
+    39 Adenocalymma impressum : 0.847973
+    243 Fridericia fanshawei : 0.820690
+    280 Fridericia tuberculata : 0.848684
+
+SET NR. 165, size 101, score 2.553028
+4 scoring spp. (sp/score):
+    317 Martinella obovata : 0.837054
+    320 Pachyptera kerere : 0.852113
+    338 Pleonotoma variabilis : 0.863861
+
+SET NR. 166, size 19, score 3.741980
+5 scoring spp. (sp/score):
+    223 Dolichandra unguiculata : 0.743590
+    268 Fridericia samydoides : 0.680000
+    271 Fridericia speciosa : 0.837500
+    302 Mansoa glaziovii : 0.820513
+    365 Tynanthus cognatus : 0.660377
+
+SET NR. 167, size 4, score 2.291667
+3 scoring spp. (sp/score):
+    32 Adenocalymma flavum : 0.750000
+    90 Amphilophium frutescens : 0.666667
+    315 Martinella insignis : 0.875000
+
+SET NR. 168, size 7, score 5.420175
+7 scoring spp. (sp/score):
+    35 Adenocalymma grandifolium : 0.857143
+    67 Adenocalymma trifoliatum : 0.666667
+    68 Adenocalymma ubatubense : 0.714286
+    76 Amphilophium bracteatum : 0.928571
+    85 Amphilophium dolichoides : 0.736842
+    172 Bignonia costata : 0.750000
+    285 Lundia damazioi : 0.766667
+
+SET NR. 169, size 11, score 4.998196
+7 scoring spp. (sp/score):
+    223 Dolichandra unguiculata : 0.696429
+    246 Fridericia formosa : 0.681818
+    250 Fridericia leucopogon : 0.750000
+    267 Fridericia rego : 0.703704
+    293 Lundia obliqua : 0.708333
+    306 Mansoa lanceolata : 0.685185
+    369 Tynanthus fasciculatus : 0.772727
+
+SET NR. 170, size 103, score 2.563004
+4 scoring spp. (sp/score):
+    294 Lundia puberula : 0.855769
+    317 Martinella obovata : 0.844444
+    412 GRP-26-Pachyptera : 0.862791
+
+SET NR. 171, size 23, score 2.401817
+3 scoring spp. (sp/score):
+    166 Bignonia bracteomana : 0.812500
+    255 Fridericia nicotianiflora : 0.802083
+    344 Tanaecium affine : 0.787234
+
+SET NR. 172, size 17, score 2.470588
+3 scoring spp. (sp/score):
+    24 Adenocalymma coriaceum : 0.941176
+    115 Amphilophium scabriusculum : 0.779412
+    205 Cuspidaria lasiantha : 0.750000
+
+SET NR. 173, size 15, score 3.105160
+4 scoring spp. (sp/score):
+    160 Anemopaegma scabriusculum : 0.705128
+    226 Fridericia bahiensis : 0.794118
+    270 Fridericia simplex : 0.822581
+    288 Lundia gardneri : 0.783333
+
+SET NR. 174, size 58, score 2.997061
+4 scoring spp. (sp/score):
+    92 Amphilophium granulosum : 0.826446
+    286 Lundia densiflora : 0.694268
+    287 Lundia erionema : 0.709924
+    346 Tanaecium bilabiatum : 0.766423
+
+SET NR. 175, size 31, score 3.930207
+5 scoring spp. (sp/score):
+    193 Bignonia uleana : 0.731343
+    225 Fridericia arthrerion : 0.729167
+    260 Fridericia pearcei : 0.810606
+    295 Lundia spruceana : 0.787879
+    364 Tanaecium xanthophyllum : 0.871212
+
+SET NR. 176, size 11, score 2.245130
+3 scoring spp. (sp/score):
+    244 Fridericia floribunda : 0.767857
+    347 Tanaecium caudiculatum : 0.727273
+    370 Tynanthus guatemalensis : 0.750000
+
+SET NR. 177, size 14, score 4.496091
+6 scoring spp. (sp/score):
+    126 Anemopaegma citrinum : 0.892857
+    205 Cuspidaria lasiantha : 0.892857
+    296 Lundia virginalis : 0.662162
+    336 Pleonotoma stichadenia : 0.700000
+    379 Xylophragma corchoroides : 0.687500
+    381 Xylophragma heterocalyx : 0.660714
+
+SET NR. 178, size 4, score 2.562500
+3 scoring spp. (sp/score):
+    9 Adenocalymma arthropetiolatum : 0.875000
+    19 Adenocalymma chocoense : 0.937500
+    366 Tynanthus croatianus : 0.750000
+
+SET NR. 179, size 35, score 4.559469
+6 scoring spp. (sp/score):
+    13 Adenocalymma bracteatum : 0.831081
+    51 Adenocalymma nodosum : 0.764286
+    118 Anemopaegma acutifolium : 0.750000
+    121 Anemopaegma arvense : 0.775000
+    131 Anemopaegma glaucum : 0.708333
+    236 Fridericia craterophora : 0.730769
+
+SET NR. 180, size 14, score 5.150978
+7 scoring spp. (sp/score):
+    205 Cuspidaria lasiantha : 0.676471
+    237 Fridericia cuneifolia : 0.733333
+    271 Fridericia speciosa : 0.666667
+    296 Lundia virginalis : 0.913793
+    337 Pleonotoma tetraquetra : 0.714286
+    371 Tynanthus labiatus : 0.785714
+    381 Xylophragma heterocalyx : 0.660714
+
+SET NR. 181, size 12, score 2.560385
+3 scoring spp. (sp/score):
+    53 Adenocalymma paulistarum : 0.875000
+    254 Fridericia mutabilis : 0.865385
+    373 Tynanthus micranthus : 0.820000
+
+SET NR. 182, size 7, score 12.621429
+16 scoring spp. (sp/score):
+    16 Adenocalymma bullatum : 0.714286
+    21 Adenocalymma cinereum : 0.785714
+    35 Adenocalymma grandifolium : 0.857143
+    43 Adenocalymma macrophyllum : 0.785714
+    57 Adenocalymma salmoneum : 0.785714
+    62 Adenocalymma sessile : 0.785714
+    64 Adenocalymma subsessilifolium : 0.800000
+    67 Adenocalymma trifoliatum : 0.666667
+    161 Anemopaegma setilobum : 0.785714
+    172 Bignonia costata : 0.750000
+    240 Fridericia elegans : 0.714286
+    246 Fridericia formosa : 0.785714
+    250 Fridericia leucopogon : 0.892857
+    276 Fridericia trachyphylla : 0.821429
+    285 Lundia damazioi : 0.857143
+    369 Tynanthus fasciculatus : 0.833333
+
+SET NR. 183, size 7, score 3.782143
+5 scoring spp. (sp/score):
+    44 Adenocalymma magdalenense : 0.857143
+    182 Bignonia neouliginosa : 0.857143
+    188 Bignonia pterocalyx : 0.675000
+    319 Pachyptera erythraea : 0.714286
+    352 Tanaecium exitiosum : 0.678571
+
+SET NR. 184, size 5, score 3.800000
+5 scoring spp. (sp/score):
+    72 Amphilophium arenarium : 0.833333
+    99 Amphilophium monophyllum : 0.666667
+    158 Anemopaegma salicifolium : 0.800000
+    326 Pleonotoma dendrotricha : 0.700000
+    328 Pleonotoma exserta : 0.800000
+
+SET NR. 185, size 82, score 2.578571
+3 scoring spp. (sp/score):
+    177 Bignonia lilacina : 0.828571
+    203 Cuspidaria inaequalis : 0.868902
+    286 Lundia densiflora : 0.881098
+
+SET NR. 186, size 5, score 9.904329
+12 scoring spp. (sp/score):
+    21 Adenocalymma cinereum : 0.900000
+    33 Adenocalymma gibbosum : 0.700000
+    43 Adenocalymma macrophyllum : 0.900000
+    57 Adenocalymma salmoneum : 0.900000
+    62 Adenocalymma sessile : 0.900000
+    64 Adenocalymma subsessilifolium : 0.909091
+    74 Amphilophium bauhinioides : 0.666667
+    137 Anemopaegma hilarianum : 0.678571
+    161 Anemopaegma setilobum : 0.900000
+    240 Fridericia elegans : 0.800000
+    273 Fridericia subexserta : 0.700000
+    276 Fridericia trachyphylla : 0.950000
+
+SET NR. 187, size 21, score 7.453865
+10 scoring spp. (sp/score):
+    18 Adenocalymma candolleanum : 0.821429
+    28 Adenocalymma divaricatum : 0.730000
+    56 Adenocalymma pubescens : 0.872093
+    60 Adenocalymma scabriusculum : 0.715686
+    120 Anemopaegma album : 0.678571
+    142 Anemopaegma laeve : 0.690000
+    160 Anemopaegma scabriusculum : 0.760870
+    162 Anemopaegma velutinum : 0.726190
+    208 Cuspidaria multiflora : 0.738095
+    324 Pleonotoma castelnaei : 0.720930
+
+SET NR. 188, size 39, score 2.402142
+3 scoring spp. (sp/score):
+    13 Adenocalymma bracteatum : 0.802469
+    123 Anemopaegma chamberlaynii : 0.794118
+    300 Mansoa difficilis : 0.805556
+
+SET NR. 189, size 47, score 2.332910
+3 scoring spp. (sp/score):
+    61 Adenocalymma schomburgkii : 0.735294
+    192 Bignonia sordida : 0.824468
+    256 Fridericia nigrescens : 0.773148
+
+SET NR. 190, size 237, score 2.773840
+6 scoring spp. (sp/score):
+    224 Dolichandra unguis-cati : 0.875258
+    388 GRP-2-Amphilophium : 0.953320
+    402 GRP-16-Cuspidaria+Fridericia+Lundia+Tanaecium+Tynanthus+Xylophragma : 0.945263
+
+SET NR. 191, size 12, score 2.336360
+3 scoring spp. (sp/score):
+    42 Adenocalymma longilineum : 0.796296
+    249 Fridericia lauta : 0.769231
+    318 Pachyptera aromatica : 0.770833
+
+SET NR. 192, size 20, score 2.502717
+3 scoring spp. (sp/score):
+    69 Adenocalymma uleanum : 0.837500
+    193 Bignonia uleana : 0.815217
+    201 Cuspidaria emmonsii : 0.850000
+
+SET NR. 193, size 6, score 3.375000
+4 scoring spp. (sp/score):
+    37 Adenocalymma hirtum : 0.875000
+    90 Amphilophium frutescens : 0.916667
+    281 Fridericia tynanthoides : 0.833333
+    315 Martinella insignis : 0.750000
+
+SET NR. 194, size 69, score 4.618195
+6 scoring spp. (sp/score):
+    15 Adenocalymma bracteosum : 0.724359
+    111 Amphilophium racemosum : 0.783537
+    151 Anemopaegma paraense : 0.832143
+    243 Fridericia fanshawei : 0.743333
+    286 Lundia densiflora : 0.739521
+    346 Tanaecium bilabiatum : 0.795302
+
+SET NR. 195, size 14, score 5.984771
+8 scoring spp. (sp/score):
+    18 Adenocalymma candolleanum : 0.787879
+    142 Anemopaegma laeve : 0.729730
+    162 Anemopaegma velutinum : 0.703125
+    208 Cuspidaria multiflora : 0.857143
+    251 Fridericia limae : 0.727273
+    303 Mansoa hirsuta : 0.696429
+    324 Pleonotoma castelnaei : 0.661765
+    349 Tanaecium cyrtanthum : 0.821429
+
+SET NR. 196, size 10, score 13.562857
+18 scoring spp. (sp/score):
+    11 Adenocalymma aurantiacum : 0.750000
+    21 Adenocalymma cinereum : 0.700000
+    37 Adenocalymma hirtum : 0.725000
+    43 Adenocalymma macrophyllum : 0.700000
+    57 Adenocalymma salmoneum : 0.700000
+    62 Adenocalymma sessile : 0.700000
+    64 Adenocalymma subsessilifolium : 0.775000
+    74 Amphilophium bauhinioides : 0.825000
+    90 Amphilophium frutescens : 0.750000
+    137 Anemopaegma hilarianum : 0.775000
+    161 Anemopaegma setilobum : 0.700000
+    209 Cuspidaria octoptera : 0.825000
+    267 Fridericia rego : 0.720000
+    274 Fridericia subincana : 0.900000
+    276 Fridericia trachyphylla : 0.725000
+    304 Mansoa hymenaea : 0.809524
+    308 Mansoa minensis : 0.775000
+    371 Tynanthus labiatus : 0.708333
+
+SET NR. 197, size 9, score 5.820615
+8 scoring spp. (sp/score):
+    27 Adenocalymma dichilum : 0.805556
+    38 Adenocalymma hypostictum : 0.750000
+    120 Anemopaegma album : 0.704545
+    288 Lundia gardneri : 0.695652
+    305 Mansoa ivanii : 0.722222
+    307 Mansoa longicalyx : 0.666667
+    354 Tanaecium neobrasiliense : 0.736842
+    380 Xylophragma harleyi : 0.739130
+
+SET NR. 198, size 4, score 4.104167
+5 scoring spp. (sp/score):
+    16 Adenocalymma bullatum : 0.875000
+    35 Adenocalymma grandifolium : 0.666667
+    68 Adenocalymma ubatubense : 0.875000
+    172 Bignonia costata : 0.937500
+    273 Fridericia subexserta : 0.750000
+
+SET NR. 199, size 4, score 2.513889
+3 scoring spp. (sp/score):
+    30 Adenocalymma dusenii : 0.888889
+    36 Adenocalymma hatschbachii : 0.875000
+    146 Anemopaegma nebulosum : 0.750000
+
+SET NR. 200, size 6, score 2.062500
+3 scoring spp. (sp/score):
+    101 Amphilophium obovatum : 0.708333
+    106 Amphilophium pauciflorum : 0.666667
+    247 Fridericia grosourdyana : 0.687500
+
+SET NR. 201, size 6, score 3.218750
+4 scoring spp. (sp/score):
+    47 Adenocalymma mirabile : 0.718750
+    235 Fridericia crassa : 0.833333
+    262 Fridericia pliciflora : 0.750000
+    289 Lundia helicocalyx : 0.916667
+
+SET NR. 202, size 150, score 2.582894
+3 scoring spp. (sp/score):
+    191 Bignonia sciuripabulum : 0.827303
+    340 Pyrostegia venusta : 0.861022
+    400 GRP-14-Cuspidaria : 0.894569
+
+------------------------------------------------
+INFORMATION ON CONSENSUS AREAS
+------------------------------------------------
+With cut 40, Calculated against any of the other areas, TOTAL: 35 consensus areas
+
+Consensus area 0 (from 56 areas), 37 species give score:
+    18 Adenocalymma candolleanum  (18): (0.000-0.821) 
+    25 Adenocalymma cristicalyx  (25): (0.000-0.732) 
+    26 Adenocalymma cymbalum  (26): (0.000-0.705) 
+    27 Adenocalymma dichilum  (27): (0.000-0.958) 
+    28 Adenocalymma divaricatum  (28): (0.000-0.898) 
+    38 Adenocalymma hypostictum  (38): (0.000-0.781) 
+    56 Adenocalymma pubescens  (56): (0.000-0.875) 
+    60 Adenocalymma scabriusculum  (60): (0.000-0.716) 
+    75 Amphilophium blanchetii  (75): (0.000-0.850) 
+    120 Anemopaegma album  (120): (0.000-0.783) 
+    133 Anemopaegma gracile  (133): (0.000-0.745) 
+    142 Anemopaegma laeve  (142): (0.000-0.939) 
+    145 Anemopaegma mirabile  (145): (0.000-0.714) 
+    149 Anemopaegma pabstii  (149): (0.000-0.855) 
+    160 Anemopaegma scabriusculum  (160): (0.000-0.895) 
+    162 Anemopaegma velutinum  (162): (0.000-0.932) 
+    195 Cuspidaria argentea  (195): (0.000-0.909) 
+    200 Cuspidaria cratensis  (200): (0.000-0.826) 
+    205 Cuspidaria lasiantha  (205): (0.000-0.803) 
+    208 Cuspidaria multiflora  (208): (0.000-1.000) 
+    226 Fridericia bahiensis  (226): (0.000-0.906) 
+    238 Fridericia dispar  (238): (0.000-0.719) 
+    241 Fridericia erubescens  (241): (0.000-0.929) 
+    251 Fridericia limae  (251): (0.000-0.859) 
+    270 Fridericia simplex  (270): (0.000-0.893) 
+    288 Lundia gardneri  (288): (0.000-0.941) 
+    303 Mansoa hirsuta  (303): (0.000-0.909) 
+    305 Mansoa ivanii  (305): (0.000-0.833) 
+    307 Mansoa longicalyx  (307): (0.000-0.750) 
+    310 Mansoa paganuccii  (310): (0.000-0.904) 
+    324 Pleonotoma castelnaei  (324): (0.000-0.886) 
+    336 Pleonotoma stichadenia  (336): (0.000-0.779) 
+    349 Tanaecium cyrtanthum  (349): (0.000-0.875) 
+    354 Tanaecium neobrasiliense  (354): (0.000-0.765) 
+    356 Tanaecium paradoxum  (356): (0.000-0.786) 
+    357 Tanaecium parviflorum  (357): (0.000-0.845) 
+    380 Xylophragma harleyi  (380): (0.000-0.870) 
+Areas included: 
+        0 13 20 22 23 26 30 31 40 44 
+        47 50 51 53 54 55 56 58 59 61 
+        62 65 66 69 71 72 78 83 88 96 
+        104 107 109 110 111 113 116 122 126 131 
+        136 137 139 140 146 147 148 150 154 157 
+        159 161 173 187 195 197 
+
+Consensus area 1 (from 47 areas), 53 species give score:
+    11 Adenocalymma aurantiacum  (11): (0.000-0.917) 
+    16 Adenocalymma bullatum  (16): (0.000-0.875) 
+    21 Adenocalymma cinereum  (21): (0.000-0.900) 
+    24 Adenocalymma coriaceum  (24): (0.000-0.696) 
+    26 Adenocalymma cymbalum  (26): (0.000-0.833) 
+    33 Adenocalymma gibbosum  (33): (0.000-0.700) 
+    35 Adenocalymma grandifolium  (35): (0.000-1.000) 
+    37 Adenocalymma hirtum  (37): (0.000-0.725) 
+    43 Adenocalymma macrophyllum  (43): (0.000-0.900) 
+    57 Adenocalymma salmoneum  (57): (0.000-0.900) 
+    62 Adenocalymma sessile  (62): (0.000-0.900) 
+    64 Adenocalymma subsessilifolium  (64): (0.000-0.909) 
+    67 Adenocalymma trifoliatum  (67): (0.000-0.750) 
+    68 Adenocalymma ubatubense  (68): (0.000-0.875) 
+    74 Amphilophium bauhinioides  (74): (0.000-0.923) 
+    76 Amphilophium bracteatum  (76): (0.000-0.929) 
+    85 Amphilophium dolichoides  (85): (0.000-0.800) 
+    90 Amphilophium frutescens  (90): (0.000-0.750) 
+    120 Anemopaegma album  (120): (0.000-0.661) 
+    126 Anemopaegma citrinum  (126): (0.000-0.958) 
+    137 Anemopaegma hilarianum  (137): (0.000-0.958) 
+    161 Anemopaegma setilobum  (161): (0.000-0.900) 
+    172 Bignonia costata  (172): (0.000-0.938) 
+    205 Cuspidaria lasiantha  (205): (0.000-0.893) 
+    209 Cuspidaria octoptera  (209): (0.000-0.825) 
+    210 Cuspidaria pulchella  (210): (0.000-0.677) 
+    223 Dolichandra unguiculata  (223): (0.000-0.938) 
+    237 Fridericia cuneifolia  (237): (0.000-0.776) 
+    240 Fridericia elegans  (240): (0.000-0.800) 
+    246 Fridericia formosa  (246): (0.000-0.833) 
+    250 Fridericia leucopogon  (250): (0.000-0.893) 
+    267 Fridericia rego  (267): (0.000-0.896) 
+    271 Fridericia speciosa  (271): (0.000-0.879) 
+    273 Fridericia subexserta  (273): (0.000-0.750) 
+    274 Fridericia subincana  (274): (0.000-0.900) 
+    276 Fridericia trachyphylla  (276): (0.000-0.950) 
+    281 Fridericia tynanthoides  (281): (0.000-0.700) 
+    285 Lundia damazioi  (285): (0.000-0.864) 
+    288 Lundia gardneri  (288): (0.000-0.727) 
+    293 Lundia obliqua  (293): (0.000-0.792) 
+    296 Lundia virginalis  (296): (0.000-0.914) 
+    302 Mansoa glaziovii  (302): (0.000-0.679) 
+    304 Mansoa hymenaea  (304): (0.000-0.813) 
+    306 Mansoa lanceolata  (306): (0.000-0.875) 
+    308 Mansoa minensis  (308): (0.000-0.846) 
+    336 Pleonotoma stichadenia  (336): (0.000-0.720) 
+    337 Pleonotoma tetraquetra  (337): (0.000-0.750) 
+    354 Tanaecium neobrasiliense  (354): (0.000-0.750) 
+    369 Tynanthus fasciculatus  (369): (0.000-0.885) 
+    371 Tynanthus labiatus  (371): (0.000-0.833) 
+    379 Xylophragma corchoroides  (379): (0.000-0.821) 
+    380 Xylophragma harleyi  (380): (0.000-0.797) 
+    381 Xylophragma heterocalyx  (381): (0.000-0.667) 
+Areas included: 
+        1 2 6 11 12 15 24 25 29 36 
+        37 39 41 57 60 63 67 77 80 81 
+        84 93 97 101 103 106 108 112 115 124 
+        127 129 130 133 138 143 151 152 160 168 
+        169 177 180 182 186 196 198 
+
+Consensus area 2 (from 34 areas), 13 species give score:
+    15 Adenocalymma bracteosum  (15): (0.000-0.780) 
+    39 Adenocalymma impressum  (39): (0.000-0.848) 
+    92 Amphilophium granulosum  (92): (0.000-0.846) 
+    111 Amphilophium racemosum  (111): (0.000-0.856) 
+    151 Anemopaegma paraense  (151): (0.000-0.832) 
+    177 Bignonia lilacina  (177): (0.000-0.829) 
+    183 Bignonia nocturna  (183): (0.000-0.750) 
+    203 Cuspidaria inaequalis  (203): (0.000-0.878) 
+    243 Fridericia fanshawei  (243): (0.000-0.821) 
+    280 Fridericia tuberculata  (280): (0.000-0.849) 
+    286 Lundia densiflora  (286): (0.000-0.881) 
+    287 Lundia erionema  (287): (0.000-0.795) 
+    346 Tanaecium bilabiatum  (346): (0.000-0.881) 
+Areas included: 
+        3 4 8 9 10 14 21 27 28 32 
+        33 35 38 43 46 48 64 74 79 85 
+        87 90 92 99 100 114 121 123 134 142 
+        164 174 185 194 
+
+Consensus area 3 (from 6 areas), 5 species give score:
+    82 Amphilophium crucigerum  (82): (0.000-0.891) 
+    224 Dolichandra unguis-cati  (224): (0.836-0.875) 
+    388 GRP-2-Amphilophium  (388): (0.000-0.953) 
+    401 GRP-15-Cuspidaria+Fridericia+Lundia+Tynanthus+Xylophragma  (401): (0.000-0.939) 
+    402 GRP-16-Cuspidaria+Fridericia+Lundia+Tanaecium+Tynanthus+Xylophragma  (402): (0.000-0.945) 
+Areas included: 
+        5 49 117 118 149 190 
+
+Consensus area 4 (from 1 areas), 4 species give score:
+    209 Cuspidaria octoptera  (209): (0.732)
+    296 Lundia virginalis  (296): (0.694)
+    337 Pleonotoma tetraquetra  (337): (0.676)
+    382 Xylophragma myrianthum  (382): (0.804)
+Areas included: 
+        7 
+
+Consensus area 5 (from 6 areas), 6 species give score:
+    5 Adenocalymma allamandiflorum  (5): (0.000-0.938) 
+    34 Adenocalymma gracielzae  (34): (0.000-0.771) 
+    45 Adenocalymma magnificum  (45): (0.000-1.000) 
+    299 Mansoa angustidens  (299): (0.000-0.828) 
+    323 Pleonotoma bracteata  (323): (0.000-0.750) 
+    339 Pyrostegia millingtonioides  (339): (0.000-0.714) 
+Areas included: 
+        16 82 94 98 105 158 
+
+Consensus area 6 (from 5 areas), 7 species give score:
+    210 Cuspidaria pulchella  (210): (0.000-0.727) 
+    223 Dolichandra unguiculata  (223): (0.000-0.744) 
+    268 Fridericia samydoides  (268): (0.000-0.883) 
+    271 Fridericia speciosa  (271): (0.000-0.838) 
+    293 Lundia obliqua  (293): (0.000-0.750) 
+    302 Mansoa glaziovii  (302): (0.744-0.821) 
+    365 Tynanthus cognatus  (365): (0.000-0.698) 
+Areas included: 
+        17 18 73 145 166 
+
+Consensus area 7 (from 1 areas), 5 species give score:
+    53 Adenocalymma paulistarum  (53): (0.661)
+    76 Amphilophium bracteatum  (76): (0.685)
+    210 Cuspidaria pulchella  (210): (0.742)
+    293 Lundia obliqua  (293): (0.769)
+    373 Tynanthus micranthus  (373): (0.661)
+Areas included: 
+        19 
+
+Consensus area 8 (from 2 areas), 6 species give score:
+    1 Adenocalymma adenophorum  (1): (0.808-0.917) 
+    48 Adenocalymma molle  (48): (0.792)
+    112 Amphilophium reticulatum  (112): (0.667)
+    198 Cuspidaria cinerea  (198): (0.000-0.769) 
+    332 Pleonotoma longiflora  (332): (0.000-0.875) 
+    367 Tynanthus densiflorus  (367): (0.750)
+Areas included: 
+        34 162 
+
+Consensus area 9 (from 3 areas), 5 species give score:
+    24 Adenocalymma coriaceum  (24): (0.750-0.941) 
+    115 Amphilophium scabriusculum  (115): (0.667-0.779) 
+    126 Anemopaegma citrinum  (126): (0.000-0.750) 
+    205 Cuspidaria lasiantha  (205): (0.676-0.750) 
+    379 Xylophragma corchoroides  (379): (0.000-0.821) 
+Areas included: 
+        42 52 172 
+
+Consensus area 10 (from 2 areas), 5 species give score:
+    166 Bignonia bracteomana  (166): (0.813-0.815) 
+    255 Fridericia nicotianiflora  (255): (0.759-0.802) 
+    260 Fridericia pearcei  (260): (0.000-0.723) 
+    295 Lundia spruceana  (295): (0.000-0.738) 
+    344 Tanaecium affine  (344): (0.745-0.787) 
+Areas included: 
+        45 171 
+
+Consensus area 11 (from 4 areas), 8 species give score:
+    13 Adenocalymma bracteatum  (13): (0.000-0.872) 
+    51 Adenocalymma nodosum  (51): (0.000-0.780) 
+    118 Anemopaegma acutifolium  (118): (0.000-0.845) 
+    121 Anemopaegma arvense  (121): (0.762-0.821) 
+    131 Anemopaegma glaucum  (131): (0.000-0.781) 
+    212 Cuspidaria sceptrum  (212): (0.000-0.816) 
+    236 Fridericia craterophora  (236): (0.731-0.815) 
+    342 Stizophyllum perforatum  (342): (0.000-0.747) 
+Areas included: 
+        68 89 135 179 
+
+Consensus area 12 (from 9 areas), 5 species give score:
+    294 Lundia puberula  (294): (0.000-0.856) 
+    317 Martinella obovata  (317): (0.797-0.850) 
+    320 Pachyptera kerere  (320): (0.000-0.852) 
+    338 Pleonotoma variabilis  (338): (0.000-0.864) 
+    412 GRP-26-Pachyptera  (412): (0.000-0.863) 
+Areas included: 
+        70 75 86 91 102 128 141 165 170 
+
+Consensus area 13 (from 2 areas), 5 species give score:
+    72 Amphilophium arenarium  (72): (0.688-0.833) 
+    99 Amphilophium monophyllum  (99): (0.667-0.731) 
+    158 Anemopaegma salicifolium  (158): (0.750-0.800) 
+    326 Pleonotoma dendrotricha  (326): (0.667-0.700) 
+    328 Pleonotoma exserta  (328): (0.750-0.800) 
+Areas included: 
+        76 184 
+
+Consensus area 14 (from 1 areas), 4 species give score:
+    16 Adenocalymma bullatum  (16): (0.667)
+    210 Cuspidaria pulchella  (210): (0.720)
+    246 Fridericia formosa  (246): (0.722)
+    293 Lundia obliqua  (293): (0.889)
+Areas included: 
+        95 
+
+Consensus area 15 (from 1 areas), 3 species give score:
+    29 Adenocalymma dugandii  (29): (0.727)
+    319 Pachyptera erythraea  (319): (0.800)
+    352 Tanaecium exitiosum  (352): (0.750)
+Areas included: 
+        119 
+
+Consensus area 16 (from 3 areas), 3 species give score:
+    101 Amphilophium obovatum  (101): (0.708)
+    106 Amphilophium pauciflorum  (106): (0.667)
+    247 Fridericia grosourdyana  (247): (0.688-0.885) 
+Areas included: 
+        120 144 200 
+
+Consensus area 17 (from 1 areas), 3 species give score:
+    10 Adenocalymma aspericarpum  (10): (0.850)
+    44 Adenocalymma magdalenense  (44): (0.750)
+    188 Bignonia pterocalyx  (188): (0.925)
+Areas included: 
+        125 
+
+Consensus area 18 (from 2 areas), 5 species give score:
+    30 Adenocalymma dusenii  (30): (0.684-0.750) 
+    36 Adenocalymma hatschbachii  (36): (0.667)
+    76 Amphilophium bracteatum  (76): (0.763)
+    85 Amphilophium dolichoides  (85): (0.696-0.750) 
+    86 Amphilophium dusenianum  (86): (0.717-0.850) 
+Areas included: 
+        132 163 
+
+Consensus area 19 (from 1 areas), 4 species give score:
+    65 Adenocalymma subspicatum  (65): (0.722)
+    195 Cuspidaria argentea  (195): (1.000)
+    200 Cuspidaria cratensis  (200): (0.895)
+    262 Fridericia pliciflora  (262): (0.667)
+Areas included: 
+        153 
+
+Consensus area 20 (from 1 areas), 4 species give score:
+    4 Adenocalymma album  (4): (1.000)
+    59 Adenocalymma saulense  (59): (0.750)
+    135 Anemopaegma granvillei  (135): (0.813)
+    377 Tynanthus sastrei  (377): (0.750)
+Areas included: 
+        155 
+
+Consensus area 21 (from 1 areas), 3 species give score:
+    298 Mansoa alliacea  (298): (0.742)
+    313 Mansoa standleyi  (313): (0.811)
+    338 Pleonotoma variabilis  (338): (0.790)
+Areas included: 
+        156 
+
+Consensus area 22 (from 2 areas), 5 species give score:
+    32 Adenocalymma flavum  (32): (0.000-0.750) 
+    37 Adenocalymma hirtum  (37): (0.000-0.875) 
+    90 Amphilophium frutescens  (90): (0.667-0.917) 
+    281 Fridericia tynanthoides  (281): (0.000-0.833) 
+    315 Martinella insignis  (315): (0.750-0.875) 
+Areas included: 
+        167 193 
+
+Consensus area 23 (from 1 areas), 5 species give score:
+    193 Bignonia uleana  (193): (0.731)
+    225 Fridericia arthrerion  (225): (0.729)
+    260 Fridericia pearcei  (260): (0.811)
+    295 Lundia spruceana  (295): (0.788)
+    364 Tanaecium xanthophyllum  (364): (0.871)
+Areas included: 
+        175 
+
+Consensus area 24 (from 1 areas), 3 species give score:
+    244 Fridericia floribunda  (244): (0.768)
+    347 Tanaecium caudiculatum  (347): (0.727)
+    370 Tynanthus guatemalensis  (370): (0.750)
+Areas included: 
+        176 
+
+Consensus area 25 (from 1 areas), 3 species give score:
+    9 Adenocalymma arthropetiolatum  (9): (0.875)
+    19 Adenocalymma chocoense  (19): (0.938)
+    366 Tynanthus croatianus  (366): (0.750)
+Areas included: 
+        178 
+
+Consensus area 26 (from 1 areas), 3 species give score:
+    53 Adenocalymma paulistarum  (53): (0.875)
+    254 Fridericia mutabilis  (254): (0.865)
+    373 Tynanthus micranthus  (373): (0.820)
+Areas included: 
+        181 
+
+Consensus area 27 (from 1 areas), 5 species give score:
+    44 Adenocalymma magdalenense  (44): (0.857)
+    182 Bignonia neouliginosa  (182): (0.857)
+    188 Bignonia pterocalyx  (188): (0.675)
+    319 Pachyptera erythraea  (319): (0.714)
+    352 Tanaecium exitiosum  (352): (0.679)
+Areas included: 
+        183 
+
+Consensus area 28 (from 1 areas), 3 species give score:
+    13 Adenocalymma bracteatum  (13): (0.802)
+    123 Anemopaegma chamberlaynii  (123): (0.794)
+    300 Mansoa difficilis  (300): (0.806)
+Areas included: 
+        188 
+
+Consensus area 29 (from 1 areas), 3 species give score:
+    61 Adenocalymma schomburgkii  (61): (0.735)
+    192 Bignonia sordida  (192): (0.824)
+    256 Fridericia nigrescens  (256): (0.773)
+Areas included: 
+        189 
+
+Consensus area 30 (from 1 areas), 3 species give score:
+    42 Adenocalymma longilineum  (42): (0.796)
+    249 Fridericia lauta  (249): (0.769)
+    318 Pachyptera aromatica  (318): (0.771)
+Areas included: 
+        191 
+
+Consensus area 31 (from 1 areas), 3 species give score:
+    69 Adenocalymma uleanum  (69): (0.838)
+    193 Bignonia uleana  (193): (0.815)
+    201 Cuspidaria emmonsii  (201): (0.850)
+Areas included: 
+        192 
+
+Consensus area 32 (from 1 areas), 3 species give score:
+    30 Adenocalymma dusenii  (30): (0.889)
+    36 Adenocalymma hatschbachii  (36): (0.875)
+    146 Anemopaegma nebulosum  (146): (0.750)
+Areas included: 
+        199 
+
+Consensus area 33 (from 1 areas), 4 species give score:
+    47 Adenocalymma mirabile  (47): (0.719)
+    235 Fridericia crassa  (235): (0.833)
+    262 Fridericia pliciflora  (262): (0.750)
+    289 Lundia helicocalyx  (289): (0.917)
+Areas included: 
+        201 
+
+Consensus area 34 (from 1 areas), 3 species give score:
+    191 Bignonia sciuripabulum  (191): (0.827)
+    340 Pyrostegia venusta  (340): (0.861)
+    400 GRP-14-Cuspidaria  (400): (0.895)
+Areas included: 
+        202 
+
+
+------------------------------------------------
+INFORMATION ON ENDEMIC SPECIES
+------------------------------------------------
+
+Sp. 0 Adenocalymma ackermannii  (4 records)
+Endemic for 0 sets (set/score):
+
+Sp. 1 Adenocalymma adenophorum  (9 records)
+Endemic for 2 sets (set/score):
+    162: 0.916667
+     34: 0.807692
+
+Sp. 2 Adenocalymma albiflorum  (29 records)
+Endemic for 0 sets (set/score):
+
+Sp. 3 Adenocalymma alboaurantiacum  (9 records)
+Endemic for 0 sets (set/score):
+
+Sp. 4 Adenocalymma album  (6 records)
+Endemic for 1 sets (set/score):
+    155: 1.000000
+
+Sp. 5 Adenocalymma allamandiflorum  (15 records)
+Endemic for 5 sets (set/score):
+     98: 0.937500
+     16: 0.734375
+     82: 0.734375
+     94: 0.734375
+    158: 0.734375
+
+Sp. 6 Adenocalymma apetiolatum  (1 records)
+Endemic for 0 sets (set/score):
+
+Sp. 7 Adenocalymma apparicianum  (11 records)
+Endemic for 0 sets (set/score):
+
+Sp. 8 Adenocalymma apurense  (201 records)
+Endemic for 0 sets (set/score):
+
+Sp. 9 Adenocalymma arthropetiolatum  (12 records)
+Endemic for 1 sets (set/score):
+    178: 0.875000
+
+Sp. 10 Adenocalymma aspericarpum  (6 records)
+Endemic for 1 sets (set/score):
+    125: 0.850000
+
+Sp. 11 Adenocalymma aurantiacum  (19 records)
+Endemic for 12 sets (set/score):
+    152: 0.916667
+     97: 0.750000
+    151: 0.750000
+    196: 0.750000
+      6: 0.727273
+     39: 0.708333
+    106: 0.708333
+    127: 0.708333
+    133: 0.708333
+     25: 0.678571
+     67: 0.678571
+    138: 0.678571
+
+Sp. 12 Adenocalymma biternatum  (37 records)
+Endemic for 0 sets (set/score):
+
+Sp. 13 Adenocalymma bracteatum  (204 records)
+Endemic for 4 sets (set/score):
+    135: 0.871622
+    179: 0.831081
+    188: 0.802469
+     89: 0.790541
+
+Sp. 14 Adenocalymma bracteolatum  (74 records)
+Endemic for 0 sets (set/score):
+
+Sp. 15 Adenocalymma bracteosum  (39 records)
+Endemic for 11 sets (set/score):
+     79: 0.779503
+     92: 0.777108
+     38: 0.759494
+     64: 0.753086
+     32: 0.748521
+     48: 0.741830
+      3: 0.725166
+    194: 0.724359
+    134: 0.718750
+     28: 0.697452
+     85: 0.697368
+
+Sp. 16 Adenocalymma bullatum  (4 records)
+Endemic for 5 sets (set/score):
+    198: 0.875000
+     81: 0.800000
+    124: 0.750000
+    182: 0.714286
+     95: 0.666667
+
+Sp. 17 Adenocalymma calcareum  (5 records)
+Endemic for 0 sets (set/score):
+
+Sp. 18 Adenocalymma candolleanum  (40 records)
+Endemic for 11 sets (set/score):
+    187: 0.821429
+     55: 0.790698
+    195: 0.787879
+     59: 0.776316
+    148: 0.756757
+     44: 0.741935
+     50: 0.696970
+    136: 0.663043
+     30: 0.661765
+     65: 0.661765
+    150: 0.661765
+
+Sp. 19 Adenocalymma chocoense  (3 records)
+Endemic for 1 sets (set/score):
+    178: 0.937500
+
+Sp. 20 Adenocalymma cidii  (1 records)
+Endemic for 0 sets (set/score):
+
+Sp. 21 Adenocalymma cinereum  (11 records)
+Endemic for 6 sets (set/score):
+    186: 0.900000
+    152: 0.833333
+    182: 0.785714
+     97: 0.700000
+    196: 0.700000
+    133: 0.666667
+
+Sp. 22 Adenocalymma cladotrichum  (157 records)
+Endemic for 0 sets (set/score):
+
+Sp. 23 Adenocalymma contractum  (12 records)
+Endemic for 0 sets (set/score):
+
+Sp. 24 Adenocalymma coriaceum  (54 records)
+Endemic for 5 sets (set/score):
+    172: 0.941176
+     52: 0.833333
+     42: 0.750000
+     80: 0.695652
+    130: 0.663265
+
+Sp. 25 Adenocalymma cristicalyx  (9 records)
+Endemic for 1 sets (set/score):
+     54: 0.732143
+
+Sp. 26 Adenocalymma cymbalum  (51 records)
+Endemic for 17 sets (set/score):
+     84: 0.833333
+     93: 0.833333
+    127: 0.821429
+    138: 0.781250
+    106: 0.775862
+     12: 0.758065
+    115: 0.742424
+     63: 0.716216
+     80: 0.714286
+     31: 0.705128
+     39: 0.687500
+    151: 0.672414
+      1: 0.666667
+     25: 0.666667
+     57: 0.666667
+     67: 0.666667
+      6: 0.661290
+
+Sp. 27 Adenocalymma dichilum  (17 records)
+Endemic for 15 sets (set/score):
+     51: 0.958333
+     71: 0.843750
+     72: 0.843750
+     88: 0.843750
+    113: 0.843750
+    197: 0.805556
+    104: 0.775000
+    116: 0.775000
+    137: 0.764706
+    146: 0.764706
+     61: 0.750000
+    107: 0.750000
+    139: 0.729167
+     78: 0.671875
+     53: 0.661765
+
+Sp. 28 Adenocalymma divaricatum  (43 records)
+Endemic for 7 sets (set/score):
+     20: 0.897727
+    161: 0.880435
+    126: 0.836957
+     96: 0.760417
+    187: 0.730000
+    131: 0.670000
+    136: 0.670000
+
+Sp. 29 Adenocalymma dugandii  (3 records)
+Endemic for 1 sets (set/score):
+    119: 0.727273
+
+Sp. 30 Adenocalymma dusenii  (28 records)
+Endemic for 3 sets (set/score):
+    199: 0.888889
+    132: 0.750000
+    163: 0.684211
+
+Sp. 31 Adenocalymma flaviflorum  (51 records)
+Endemic for 0 sets (set/score):
+
+Sp. 32 Adenocalymma flavum  (1 records)
+Endemic for 1 sets (set/score):
+    167: 0.750000
+
+Sp. 33 Adenocalymma gibbosum  (3 records)
+Endemic for 3 sets (set/score):
+    186: 0.700000
+    124: 0.666667
+    152: 0.666667
+
+Sp. 34 Adenocalymma gracielzae  (6 records)
+Endemic for 1 sets (set/score):
+     98: 0.770833
+
+Sp. 35 Adenocalymma grandifolium  (36 records)
+Endemic for 6 sets (set/score):
+     81: 1.000000
+    124: 0.916667
+    168: 0.857143
+    182: 0.857143
+    160: 0.708333
+    198: 0.666667
+
+Sp. 36 Adenocalymma hatschbachii  (33 records)
+Endemic for 3 sets (set/score):
+    199: 0.875000
+    132: 0.666667
+    163: 0.666667
+
+Sp. 37 Adenocalymma hirtum  (2 records)
+Endemic for 6 sets (set/score):
+    193: 0.875000
+    196: 0.725000
+      6: 0.704545
+    106: 0.687500
+    127: 0.687500
+    151: 0.666667
+
+Sp. 38 Adenocalymma hypostictum  (23 records)
+Endemic for 7 sets (set/score):
+    137: 0.781250
+     51: 0.769231
+    197: 0.750000
+    113: 0.705882
+    146: 0.705882
+     61: 0.704545
+    139: 0.687500
+
+Sp. 39 Adenocalymma impressum  (90 records)
+Endemic for 4 sets (set/score):
+    164: 0.847973
+     90: 0.810000
+    121: 0.727564
+     46: 0.671779
+
+Sp. 40 Adenocalymma juliae  (4 records)
+Endemic for 0 sets (set/score):
+
+Sp. 41 Adenocalymma lineare  (3 records)
+Endemic for 0 sets (set/score):
+
+Sp. 42 Adenocalymma longilineum  (14 records)
+Endemic for 1 sets (set/score):
+    191: 0.796296
+
+Sp. 43 Adenocalymma macrophyllum  (30 records)
+Endemic for 6 sets (set/score):
+    186: 0.900000
+    152: 0.833333
+    182: 0.785714
+     97: 0.700000
+    196: 0.700000
+    133: 0.666667
+
+Sp. 44 Adenocalymma magdalenense  (8 records)
+Endemic for 2 sets (set/score):
+    183: 0.857143
+    125: 0.750000
+
+Sp. 45 Adenocalymma magnificum  (38 records)
+Endemic for 5 sets (set/score):
+     98: 1.000000
+     16: 0.666667
+     82: 0.666667
+     94: 0.666667
+    158: 0.666667
+
+Sp. 46 Adenocalymma marginatum  (237 records)
+Endemic for 0 sets (set/score):
+
+Sp. 47 Adenocalymma mirabile  (7 records)
+Endemic for 1 sets (set/score):
+    201: 0.718750
+
+Sp. 48 Adenocalymma molle  (3 records)
+Endemic for 2 sets (set/score):
+     34: 0.791667
+    162: 0.791667
+
+Sp. 49 Adenocalymma moringifolium  (15 records)
+Endemic for 0 sets (set/score):
+
+Sp. 50 Adenocalymma nervosum  (1 records)
+Endemic for 0 sets (set/score):
+
+Sp. 51 Adenocalymma nodosum  (66 records)
+Endemic for 2 sets (set/score):
+     89: 0.780303
+    179: 0.764286
+
+Sp. 52 Adenocalymma patulum  (53 records)
+Endemic for 0 sets (set/score):
+
+Sp. 53 Adenocalymma paulistarum  (68 records)
+Endemic for 2 sets (set/score):
+    181: 0.875000
+     19: 0.661290
+
+Sp. 54 Adenocalymma pedunculatum  (142 records)
+Endemic for 0 sets (set/score):
+
+Sp. 55 Adenocalymma peregrinum  (133 records)
+Endemic for 0 sets (set/score):
+
+Sp. 56 Adenocalymma pubescens  (49 records)
+Endemic for 11 sets (set/score):
+    136: 0.875000
+    187: 0.872093
+     20: 0.855556
+     55: 0.804348
+     58: 0.772727
+    161: 0.754902
+    154: 0.720000
+     78: 0.714286
+     69: 0.712766
+     83: 0.695652
+     62: 0.660000
+
+Sp. 57 Adenocalymma salmoneum  (29 records)
+Endemic for 6 sets (set/score):
+    186: 0.900000
+    152: 0.833333
+    182: 0.785714
+     97: 0.700000
+    196: 0.700000
+    133: 0.666667
+
+Sp. 58 Adenocalymma sastrei  (1 records)
+Endemic for 0 sets (set/score):
+
+Sp. 59 Adenocalymma saulense  (3 records)
+Endemic for 1 sets (set/score):
+    155: 0.750000
+
+Sp. 60 Adenocalymma scabriusculum  (14 records)
+Endemic for 4 sets (set/score):
+    187: 0.715686
+    136: 0.708333
+     20: 0.707547
+     58: 0.683673
+
+Sp. 61 Adenocalymma schomburgkii  (112 records)
+Endemic for 1 sets (set/score):
+    189: 0.735294
+
+Sp. 62 Adenocalymma sessile  (11 records)
+Endemic for 6 sets (set/score):
+    186: 0.900000
+    152: 0.833333
+    182: 0.785714
+     97: 0.700000
+    196: 0.700000
+    133: 0.666667
+
+Sp. 63 Adenocalymma subincanum  (20 records)
+Endemic for 0 sets (set/score):
+
+Sp. 64 Adenocalymma subsessilifolium  (18 records)
+Endemic for 6 sets (set/score):
+    186: 0.909091
+    152: 0.846154
+    182: 0.800000
+     97: 0.775000
+    196: 0.775000
+    133: 0.729167
+
+Sp. 65 Adenocalymma subspicatum  (2 records)
+Endemic for 1 sets (set/score):
+    153: 0.722222
+
+Sp. 66 Adenocalymma tanaeciicarpum  (13 records)
+Endemic for 0 sets (set/score):
+
+Sp. 67 Adenocalymma trifoliatum  (104 records)
+Endemic for 5 sets (set/score):
+    160: 0.750000
+     81: 0.714286
+    124: 0.687500
+    168: 0.666667
+    182: 0.666667
+
+Sp. 68 Adenocalymma ubatubense  (1 records)
+Endemic for 3 sets (set/score):
+    198: 0.875000
+     81: 0.800000
+    168: 0.714286
+
+Sp. 69 Adenocalymma uleanum  (29 records)
+Endemic for 1 sets (set/score):
+    192: 0.837500
+
+Sp. 70 Adenocalymma validum  (149 records)
+Endemic for 0 sets (set/score):
+
+Sp. 71 Adenocalymma velutinum  (5 records)
+Endemic for 0 sets (set/score):
+
+Sp. 72 Amphilophium arenarium  (9 records)
+Endemic for 2 sets (set/score):
+    184: 0.833333
+     76: 0.687500
+
+Sp. 73 Amphilophium aschersonii  (47 records)
+Endemic for 0 sets (set/score):
+
+Sp. 74 Amphilophium bauhinioides  (13 records)
+Endemic for 12 sets (set/score):
+    152: 0.923077
+    151: 0.825000
+    196: 0.825000
+     39: 0.770833
+    106: 0.770833
+    127: 0.770833
+    133: 0.770833
+     97: 0.761905
+     25: 0.732143
+     67: 0.732143
+    138: 0.732143
+    186: 0.666667
+
+Sp. 75 Amphilophium blanchetii  (6 records)
+Endemic for 9 sets (set/score):
+    157: 0.850000
+     51: 0.791667
+    122: 0.750000
+     71: 0.718750
+     72: 0.718750
+     88: 0.718750
+    104: 0.675000
+    111: 0.675000
+    116: 0.675000
+
+Sp. 76 Amphilophium bracteatum  (8 records)
+Endemic for 6 sets (set/score):
+    168: 0.928571
+    103: 0.794118
+    132: 0.763158
+    163: 0.763158
+    160: 0.750000
+     19: 0.685185
+
+Sp. 77 Amphilophium buccinatorium  (9 records)
+Endemic for 0 sets (set/score):
+
+Sp. 78 Amphilophium campinae  (8 records)
+Endemic for 0 sets (set/score):
+
+Sp. 79 Amphilophium carolinae  (100 records)
+Endemic for 0 sets (set/score):
+
+Sp. 80 Amphilophium chocoense  (7 records)
+Endemic for 0 sets (set/score):
+
+Sp. 81 Amphilophium cremersii  (8 records)
+Endemic for 0 sets (set/score):
+
+Sp. 82 Amphilophium crucigerum  (646 records)
+Endemic for 2 sets (set/score):
+    118: 0.891068
+    117: 0.882863
+
+Sp. 83 Amphilophium cuneifolium  (13 records)
+Endemic for 0 sets (set/score):
+
+Sp. 84 Amphilophium dasytrichum  (9 records)
+Endemic for 0 sets (set/score):
+
+Sp. 85 Amphilophium dolichoides  (16 records)
+Endemic for 5 sets (set/score):
+    160: 0.800000
+    132: 0.750000
+    168: 0.736842
+    103: 0.714286
+    163: 0.695652
+
+Sp. 86 Amphilophium dusenianum  (9 records)
+Endemic for 2 sets (set/score):
+    163: 0.850000
+    132: 0.717391
+
+Sp. 87 Amphilophium ecuadorense  (14 records)
+Endemic for 0 sets (set/score):
+
+Sp. 88 Amphilophium elongatum  (7 records)
+Endemic for 0 sets (set/score):
+
+Sp. 89 Amphilophium falcatum  (5 records)
+Endemic for 0 sets (set/score):
+
+Sp. 90 Amphilophium frutescens  (9 records)
+Endemic for 6 sets (set/score):
+    193: 0.916667
+    196: 0.750000
+      6: 0.727273
+    106: 0.708333
+    127: 0.708333
+    167: 0.666667
+
+Sp. 91 Amphilophium gnaphalanthum  (12 records)
+Endemic for 0 sets (set/score):
+
+Sp. 92 Amphilophium granulosum  (45 records)
+Endemic for 15 sets (set/score):
+      4: 0.845528
+      8: 0.845528
+     21: 0.845528
+     14: 0.845238
+    123: 0.840000
+     35: 0.834646
+     43: 0.834646
+     99: 0.829545
+     27: 0.829457
+      9: 0.829365
+     10: 0.826446
+    174: 0.826446
+     33: 0.815574
+     74: 0.806202
+    114: 0.792593
+
+Sp. 93 Amphilophium lactiflorum  (58 records)
+Endemic for 0 sets (set/score):
+
+Sp. 94 Amphilophium laeve  (9 records)
+Endemic for 0 sets (set/score):
+
+Sp. 95 Amphilophium laxiflorum  (21 records)
+Endemic for 0 sets (set/score):
+
+Sp. 96 Amphilophium lohmanniae  (6 records)
+Endemic for 0 sets (set/score):
+
+Sp. 97 Amphilophium magnoliifolium  (12 records)
+Endemic for 0 sets (set/score):
+
+Sp. 98 Amphilophium mansoanum  (174 records)
+Endemic for 0 sets (set/score):
+
+Sp. 99 Amphilophium monophyllum  (29 records)
+Endemic for 2 sets (set/score):
+     76: 0.730769
+    184: 0.666667
+
+Sp. 100 Amphilophium nunezii  (7 records)
+Endemic for 0 sets (set/score):
+
+Sp. 101 Amphilophium obovatum  (8 records)
+Endemic for 3 sets (set/score):
+    120: 0.708333
+    144: 0.708333
+    200: 0.708333
+
+Sp. 102 Amphilophium occidentale  (19 records)
+Endemic for 0 sets (set/score):
+
+Sp. 103 Amphilophium paniculatum  (743 records)
+Endemic for 0 sets (set/score):
+
+Sp. 104 Amphilophium pannosum  (38 records)
+Endemic for 0 sets (set/score):
+
+Sp. 105 Amphilophium parkeri  (14 records)
+Endemic for 0 sets (set/score):
+
+Sp. 106 Amphilophium pauciflorum  (1 records)
+Endemic for 3 sets (set/score):
+    120: 0.666667
+    144: 0.666667
+    200: 0.666667
+
+Sp. 107 Amphilophium perbracteatum  (1 records)
+Endemic for 0 sets (set/score):
+
+Sp. 108 Amphilophium pilosum  (3 records)
+Endemic for 0 sets (set/score):
+
+Sp. 109 Amphilophium porphyrotrichum  (7 records)
+Endemic for 0 sets (set/score):
+
+Sp. 110 Amphilophium pulverulentum  (28 records)
+Endemic for 0 sets (set/score):
+
+Sp. 111 Amphilophium racemosum  (183 records)
+Endemic for 15 sets (set/score):
+     92: 0.855882
+     38: 0.826220
+     79: 0.818713
+     64: 0.818452
+    134: 0.786145
+    194: 0.783537
+     28: 0.782609
+     48: 0.766467
+      3: 0.753049
+     85: 0.751553
+    100: 0.747024
+    142: 0.745455
+    114: 0.724551
+     99: 0.720588
+     74: 0.694611
+
+Sp. 112 Amphilophium reticulatum  (1 records)
+Endemic for 2 sets (set/score):
+     34: 0.666667
+    162: 0.666667
+
+Sp. 113 Amphilophium rodriguesii  (16 records)
+Endemic for 0 sets (set/score):
+
+Sp. 114 Amphilophium sandwithii  (12 records)
+Endemic for 0 sets (set/score):
+
+Sp. 115 Amphilophium scabriusculum  (6 records)
+Endemic for 3 sets (set/score):
+    172: 0.779412
+     42: 0.703125
+     52: 0.666667
+
+Sp. 116 Amphilophium stamineum  (3 records)
+Endemic for 0 sets (set/score):
+
+Sp. 117 Amphilophium steyermarkii  (16 records)
+Endemic for 0 sets (set/score):
+
+Sp. 118 Anemopaegma acutifolium  (19 records)
+Endemic for 3 sets (set/score):
+    135: 0.844595
+    179: 0.750000
+     89: 0.696203
+
+Sp. 119 Anemopaegma alatum  (15 records)
+Endemic for 0 sets (set/score):
+
+Sp. 120 Anemopaegma album  (11 records)
+Endemic for 21 sets (set/score):
+     66: 0.782609
+    107: 0.782609
+     26: 0.734375
+     78: 0.734375
+     53: 0.720588
+     65: 0.711538
+    197: 0.704545
+    131: 0.697368
+    136: 0.697368
+      0: 0.696429
+    187: 0.678571
+     61: 0.673077
+     20: 0.670455
+     71: 0.666667
+     72: 0.666667
+     88: 0.666667
+    113: 0.666667
+    137: 0.666667
+    161: 0.663043
+     11: 0.660714
+    139: 0.660714
+
+Sp. 121 Anemopaegma arvense  (80 records)
+Endemic for 4 sets (set/score):
+     68: 0.820513
+    179: 0.775000
+     89: 0.772727
+    135: 0.761905
+
+Sp. 122 Anemopaegma brevipes  (4 records)
+Endemic for 0 sets (set/score):
+
+Sp. 123 Anemopaegma chamberlaynii  (77 records)
+Endemic for 1 sets (set/score):
+    188: 0.794118
+
+Sp. 124 Anemopaegma chrysanthum  (85 records)
+Endemic for 0 sets (set/score):
+
+Sp. 125 Anemopaegma chrysoleucum  (179 records)
+Endemic for 0 sets (set/score):
+
+Sp. 126 Anemopaegma citrinum  (17 records)
+Endemic for 23 sets (set/score):
+     39: 0.958333
+    106: 0.958333
+      2: 0.892857
+     25: 0.892857
+     67: 0.892857
+    177: 0.892857
+    151: 0.833333
+      6: 0.807692
+     84: 0.805556
+     80: 0.789474
+     11: 0.785714
+    127: 0.785714
+     12: 0.766667
+      1: 0.750000
+     15: 0.750000
+     24: 0.750000
+     52: 0.750000
+     57: 0.750000
+    115: 0.750000
+    129: 0.750000
+    138: 0.750000
+     63: 0.722222
+     93: 0.700000
+
+Sp. 127 Anemopaegma colombianum  (5 records)
+Endemic for 0 sets (set/score):
+
+Sp. 128 Anemopaegma flavum  (33 records)
+Endemic for 0 sets (set/score):
+
+Sp. 129 Anemopaegma floridum  (57 records)
+Endemic for 0 sets (set/score):
+
+Sp. 130 Anemopaegma foetidum  (11 records)
+Endemic for 0 sets (set/score):
+
+Sp. 131 Anemopaegma glaucum  (43 records)
+Endemic for 3 sets (set/score):
+     68: 0.781250
+    135: 0.712644
+    179: 0.708333
+
+Sp. 132 Anemopaegma goyazense  (7 records)
+Endemic for 0 sets (set/score):
+
+Sp. 133 Anemopaegma gracile  (11 records)
+Endemic for 4 sets (set/score):
+    126: 0.745098
+     20: 0.716981
+    161: 0.709091
+     96: 0.679245
+
+Sp. 134 Anemopaegma grandifolium  (5 records)
+Endemic for 0 sets (set/score):
+
+Sp. 135 Anemopaegma granvillei  (2 records)
+Endemic for 1 sets (set/score):
+    155: 0.812500
+
+Sp. 136 Anemopaegma heringeri  (1 records)
+Endemic for 0 sets (set/score):
+
+Sp. 137 Anemopaegma hilarianum  (8 records)
+Endemic for 13 sets (set/score):
+    152: 0.958333
+     97: 0.775000
+    151: 0.775000
+    196: 0.775000
+     39: 0.729167
+    106: 0.729167
+    127: 0.729167
+    133: 0.729167
+     25: 0.696429
+     67: 0.696429
+    138: 0.696429
+      6: 0.695652
+    186: 0.678571
+
+Sp. 138 Anemopaegma insculptum  (23 records)
+Endemic for 0 sets (set/score):
+
+Sp. 139 Anemopaegma ionanthum  (7 records)
+Endemic for 0 sets (set/score):
+
+Sp. 140 Anemopaegma jucundum  (4 records)
+Endemic for 0 sets (set/score):
+
+Sp. 141 Anemopaegma karstenii  (93 records)
+Endemic for 0 sets (set/score):
+
+Sp. 142 Anemopaegma laeve  (35 records)
+Endemic for 6 sets (set/score):
+    148: 0.939394
+     54: 0.771429
+    195: 0.729730
+     59: 0.697674
+    187: 0.690000
+     22: 0.675676
+
+Sp. 143 Anemopaegma longidens  (9 records)
+Endemic for 0 sets (set/score):
+
+Sp. 144 Anemopaegma longipetiolatum  (12 records)
+Endemic for 0 sets (set/score):
+
+Sp. 145 Anemopaegma mirabile  (2 records)
+Endemic for 1 sets (set/score):
+    122: 0.714286
+
+Sp. 146 Anemopaegma nebulosum  (3 records)
+Endemic for 1 sets (set/score):
+    199: 0.750000
+
+Sp. 147 Anemopaegma oligoneuron  (24 records)
+Endemic for 0 sets (set/score):
+
+Sp. 148 Anemopaegma orbiculatum  (78 records)
+Endemic for 0 sets (set/score):
+
+Sp. 149 Anemopaegma pabstii  (12 records)
+Endemic for 7 sets (set/score):
+     69: 0.855263
+     55: 0.821429
+    154: 0.821429
+     47: 0.776316
+     62: 0.750000
+    109: 0.738636
+    140: 0.738636
+
+Sp. 150 Anemopaegma pachyphyllum  (1 records)
+Endemic for 0 sets (set/score):
+
+Sp. 151 Anemopaegma paraense  (65 records)
+Endemic for 18 sets (set/score):
+     48: 0.832143
+    194: 0.832143
+     28: 0.832117
+     85: 0.784173
+    142: 0.776224
+     46: 0.775000
+      9: 0.753571
+     99: 0.748299
+    114: 0.743151
+     35: 0.731034
+     27: 0.727891
+    123: 0.725694
+     14: 0.722603
+     43: 0.722603
+     33: 0.710714
+      8: 0.702055
+     21: 0.702055
+     74: 0.699324
+
+Sp. 152 Anemopaegma parkeri  (22 records)
+Endemic for 0 sets (set/score):
+
+Sp. 153 Anemopaegma patelliforme  (7 records)
+Endemic for 0 sets (set/score):
+
+Sp. 154 Anemopaegma prostratum  (27 records)
+Endemic for 0 sets (set/score):
+
+Sp. 155 Anemopaegma puberulum  (42 records)
+Endemic for 0 sets (set/score):
+
+Sp. 156 Anemopaegma robustum  (10 records)
+Endemic for 0 sets (set/score):
+
+Sp. 157 Anemopaegma rugosum  (11 records)
+Endemic for 0 sets (set/score):
+
+Sp. 158 Anemopaegma salicifolium  (3 records)
+Endemic for 2 sets (set/score):
+    184: 0.800000
+     76: 0.750000
+
+Sp. 159 Anemopaegma santaritense  (18 records)
+Endemic for 0 sets (set/score):
+
+Sp. 160 Anemopaegma scabriusculum  (19 records)
+Endemic for 17 sets (set/score):
+     58: 0.894737
+     23: 0.882353
+     83: 0.878378
+     40: 0.797297
+     69: 0.785714
+    136: 0.785714
+     47: 0.782051
+     55: 0.760870
+    154: 0.760870
+    187: 0.760870
+    109: 0.744444
+    140: 0.744444
+    173: 0.705128
+     62: 0.695652
+     56: 0.695122
+     59: 0.686047
+    147: 0.684211
+
+Sp. 161 Anemopaegma setilobum  (10 records)
+Endemic for 6 sets (set/score):
+    186: 0.900000
+    152: 0.833333
+    182: 0.785714
+     97: 0.700000
+    196: 0.700000
+    133: 0.666667
+
+Sp. 162 Anemopaegma velutinum  (21 records)
+Endemic for 23 sets (set/score):
+    107: 0.931818
+     31: 0.779412
+     53: 0.779412
+    104: 0.770833
+     88: 0.761905
+     78: 0.757576
+     66: 0.750000
+    131: 0.750000
+    136: 0.750000
+     30: 0.732143
+     44: 0.732143
+    150: 0.732143
+    187: 0.726190
+     13: 0.720000
+    116: 0.720000
+      0: 0.716667
+     20: 0.715909
+    161: 0.706522
+    195: 0.703125
+     50: 0.689655
+     65: 0.689655
+     26: 0.680556
+     59: 0.671053
+
+Sp. 163 Anemopaegma villosum  (1 records)
+Endemic for 0 sets (set/score):
+
+Sp. 164 Bignonia aequinoctialis  (739 records)
+Endemic for 0 sets (set/score):
+
+Sp. 165 Bignonia binata  (44 records)
+Endemic for 0 sets (set/score):
+
+Sp. 166 Bignonia bracteomana  (69 records)
+Endemic for 2 sets (set/score):
+     45: 0.814815
+    171: 0.812500
+
+Sp. 167 Bignonia callistegioides  (32 records)
+Endemic for 0 sets (set/score):
+
+Sp. 168 Bignonia campanulata  (13 records)
+Endemic for 0 sets (set/score):
+
+Sp. 169 Bignonia capreolata  (109 records)
+Endemic for 0 sets (set/score):
+
+Sp. 170 Bignonia cararensis  (1 records)
+Endemic for 0 sets (set/score):
+
+Sp. 171 Bignonia corymbosa  (389 records)
+Endemic for 0 sets (set/score):
+
+Sp. 172 Bignonia costata  (5 records)
+Endemic for 5 sets (set/score):
+    198: 0.937500
+     81: 0.850000
+    124: 0.791667
+    168: 0.750000
+    182: 0.750000
+
+Sp. 173 Bignonia cuneata  (5 records)
+Endemic for 0 sets (set/score):
+
+Sp. 174 Bignonia decora  (48 records)
+Endemic for 0 sets (set/score):
+
+Sp. 175 Bignonia diversifolia  (316 records)
+Endemic for 0 sets (set/score):
+
+Sp. 176 Bignonia hyacinthina  (103 records)
+Endemic for 0 sets (set/score):
+
+Sp. 177 Bignonia lilacina  (67 records)
+Endemic for 7 sets (set/score):
+    185: 0.828571
+     32: 0.787709
+     92: 0.769022
+     87: 0.765027
+     79: 0.706806
+     64: 0.704787
+     38: 0.669271
+
+Sp. 178 Bignonia longiflora  (29 records)
+Endemic for 0 sets (set/score):
+
+Sp. 179 Bignonia magnifica  (21 records)
+Endemic for 0 sets (set/score):
+
+Sp. 180 Bignonia microcalyx  (15 records)
+Endemic for 0 sets (set/score):
+
+Sp. 181 Bignonia neoheterophylla  (145 records)
+Endemic for 0 sets (set/score):
+
+Sp. 182 Bignonia neouliginosa  (15 records)
+Endemic for 1 sets (set/score):
+    183: 0.857143
+
+Sp. 183 Bignonia nocturna  (107 records)
+Endemic for 4 sets (set/score):
+     87: 0.750000
+     79: 0.726776
+     38: 0.715084
+     64: 0.710383
+
+Sp. 184 Bignonia noterophila  (299 records)
+Endemic for 0 sets (set/score):
+
+Sp. 185 Bignonia phellosperma  (24 records)
+Endemic for 0 sets (set/score):
+
+Sp. 186 Bignonia potosina  (89 records)
+Endemic for 0 sets (set/score):
+
+Sp. 187 Bignonia prieurii  (69 records)
+Endemic for 0 sets (set/score):
+
+Sp. 188 Bignonia pterocalyx  (19 records)
+Endemic for 2 sets (set/score):
+    125: 0.925000
+    183: 0.675000
+
+Sp. 189 Bignonia ramentacea  (18 records)
+Endemic for 0 sets (set/score):
+
+Sp. 190 Bignonia sanctae-crucis  (10 records)
+Endemic for 0 sets (set/score):
+
+Sp. 191 Bignonia sciuripabulum  (137 records)
+Endemic for 1 sets (set/score):
+    202: 0.827303
+
+Sp. 192 Bignonia sordida  (30 records)
+Endemic for 1 sets (set/score):
+    189: 0.824468
+
+Sp. 193 Bignonia uleana  (47 records)
+Endemic for 2 sets (set/score):
+    192: 0.815217
+    175: 0.731343
+
+Sp. 194 Callichlamys latifolia  (357 records)
+Endemic for 0 sets (set/score):
+
+Sp. 195 Cuspidaria argentea  (15 records)
+Endemic for 2 sets (set/score):
+    153: 1.000000
+    110: 0.909091
+
+Sp. 196 Cuspidaria bracteata  (8 records)
+Endemic for 0 sets (set/score):
+
+Sp. 197 Cuspidaria bracteolata  (61 records)
+Endemic for 0 sets (set/score):
+
+Sp. 198 Cuspidaria cinerea  (7 records)
+Endemic for 1 sets (set/score):
+    162: 0.769231
+
+Sp. 199 Cuspidaria convoluta  (77 records)
+Endemic for 0 sets (set/score):
+
+Sp. 200 Cuspidaria cratensis  (10 records)
+Endemic for 2 sets (set/score):
+    153: 0.894737
+    110: 0.826087
+
+Sp. 201 Cuspidaria emmonsii  (8 records)
+Endemic for 1 sets (set/score):
+    192: 0.850000
+
+Sp. 202 Cuspidaria floribunda  (82 records)
+Endemic for 0 sets (set/score):
+
+Sp. 203 Cuspidaria inaequalis  (91 records)
+Endemic for 14 sets (set/score):
+     32: 0.878125
+    185: 0.868902
+     38: 0.823899
+     64: 0.815951
+    134: 0.808917
+     87: 0.808824
+      3: 0.757962
+    100: 0.751553
+     28: 0.715569
+     85: 0.701220
+    142: 0.696429
+    114: 0.690476
+     74: 0.675758
+      4: 0.670732
+
+Sp. 204 Cuspidaria lachnaea  (13 records)
+Endemic for 0 sets (set/score):
+
+Sp. 205 Cuspidaria lasiantha  (17 records)
+Endemic for 26 sets (set/score):
+    177: 0.892857
+      2: 0.844828
+     57: 0.844828
+    115: 0.844828
+    129: 0.844828
+     26: 0.803030
+     63: 0.803030
+     80: 0.789474
+    172: 0.750000
+     11: 0.741379
+     12: 0.725806
+      6: 0.714286
+      1: 0.712121
+     24: 0.712121
+     67: 0.712121
+     39: 0.700000
+     84: 0.700000
+    106: 0.700000
+    151: 0.685185
+     15: 0.676471
+     25: 0.676471
+     42: 0.676471
+     52: 0.676471
+    180: 0.676471
+     93: 0.670732
+    127: 0.661290
+
+Sp. 206 Cuspidaria lateriflora  (77 records)
+Endemic for 0 sets (set/score):
+
+Sp. 207 Cuspidaria monophylla  (6 records)
+Endemic for 0 sets (set/score):
+
+Sp. 208 Cuspidaria multiflora  (19 records)
+Endemic for 19 sets (set/score):
+    111: 1.000000
+     66: 0.954545
+     30: 0.916667
+    150: 0.916667
+    195: 0.857143
+    148: 0.812500
+     59: 0.794118
+    104: 0.791667
+    107: 0.769231
+     44: 0.750000
+     50: 0.750000
+    187: 0.738095
+      0: 0.733333
+    159: 0.733333
+     54: 0.718750
+     53: 0.684211
+     71: 0.666667
+     72: 0.666667
+    136: 0.666667
+
+Sp. 209 Cuspidaria octoptera  (9 records)
+Endemic for 13 sets (set/score):
+     97: 0.825000
+    151: 0.825000
+    196: 0.825000
+     39: 0.770833
+    106: 0.770833
+    127: 0.770833
+    133: 0.770833
+      7: 0.732143
+     15: 0.732143
+     25: 0.732143
+     67: 0.732143
+    138: 0.732143
+    152: 0.718750
+
+Sp. 210 Cuspidaria pulchella  (21 records)
+Endemic for 6 sets (set/score):
+     19: 0.741935
+     17: 0.727273
+     73: 0.723684
+     95: 0.720000
+     18: 0.692308
+    160: 0.677419
+
+Sp. 211 Cuspidaria pulchra  (39 records)
+Endemic for 0 sets (set/score):
+
+Sp. 212 Cuspidaria sceptrum  (96 records)
+Endemic for 1 sets (set/score):
+     68: 0.816456
+
+Sp. 213 Cuspidaria simplicifolia  (20 records)
+Endemic for 0 sets (set/score):
+
+Sp. 214 Cuspidaria subincana  (14 records)
+Endemic for 0 sets (set/score):
+
+Sp. 215 Cuspidaria weberbaueri  (10 records)
+Endemic for 0 sets (set/score):
+
+Sp. 216 Dolichandra chodatii  (25 records)
+Endemic for 0 sets (set/score):
+
+Sp. 217 Dolichandra cynanchoides  (78 records)
+Endemic for 0 sets (set/score):
+
+Sp. 218 Dolichandra dentata  (24 records)
+Endemic for 0 sets (set/score):
+
+Sp. 219 Dolichandra hispida  (18 records)
+Endemic for 0 sets (set/score):
+
+Sp. 220 Dolichandra quadrivalvis  (245 records)
+Endemic for 0 sets (set/score):
+
+Sp. 221 Dolichandra steyermarkii  (29 records)
+Endemic for 0 sets (set/score):
+
+Sp. 222 Dolichandra uncata  (250 records)
+Endemic for 0 sets (set/score):
+
+Sp. 223 Dolichandra unguiculata  (14 records)
+Endemic for 11 sets (set/score):
+     36: 0.937500
+     29: 0.771429
+    112: 0.771429
+    166: 0.743590
+     41: 0.736111
+    133: 0.724138
+    138: 0.696970
+    169: 0.696429
+     18: 0.666667
+     17: 0.661765
+     25: 0.661765
+
+Sp. 224 Dolichandra unguis-cati  (765 records)
+Endemic for 6 sets (set/score):
+    190: 0.875258
+      5: 0.872671
+     49: 0.872671
+    149: 0.867556
+    118: 0.843238
+    117: 0.835714
+
+Sp. 225 Fridericia arthrerion  (26 records)
+Endemic for 1 sets (set/score):
+    175: 0.729167
+
+Sp. 226 Fridericia bahiensis  (16 records)
+Endemic for 11 sets (set/score):
+     56: 0.906250
+    173: 0.794118
+     78: 0.777778
+     53: 0.763158
+     83: 0.750000
+     58: 0.738095
+    131: 0.738095
+    136: 0.738095
+    139: 0.718750
+     23: 0.675000
+     40: 0.675000
+
+Sp. 227 Fridericia candicans  (237 records)
+Endemic for 0 sets (set/score):
+
+Sp. 228 Fridericia carichanensis  (24 records)
+Endemic for 0 sets (set/score):
+
+Sp. 229 Fridericia caudigera  (84 records)
+Endemic for 0 sets (set/score):
+
+Sp. 230 Fridericia chica  (312 records)
+Endemic for 0 sets (set/score):
+
+Sp. 231 Fridericia cinerea  (24 records)
+Endemic for 0 sets (set/score):
+
+Sp. 232 Fridericia cinnamomea  (67 records)
+Endemic for 0 sets (set/score):
+
+Sp. 233 Fridericia conjugata  (96 records)
+Endemic for 0 sets (set/score):
+
+Sp. 234 Fridericia costaricensis  (45 records)
+Endemic for 0 sets (set/score):
+
+Sp. 235 Fridericia crassa  (3 records)
+Endemic for 1 sets (set/score):
+    201: 0.833333
+
+Sp. 236 Fridericia craterophora  (37 records)
+Endemic for 4 sets (set/score):
+     68: 0.815068
+    135: 0.769231
+     89: 0.743243
+    179: 0.730769
+
+Sp. 237 Fridericia cuneifolia  (15 records)
+Endemic for 28 sets (set/score):
+      1: 0.775862
+      2: 0.775862
+     15: 0.775862
+     24: 0.775862
+     25: 0.775862
+     67: 0.775862
+    129: 0.775862
+    138: 0.775862
+     29: 0.764706
+     41: 0.764706
+     60: 0.758065
+    108: 0.758065
+     93: 0.750000
+     37: 0.736842
+     77: 0.736842
+     80: 0.736842
+    180: 0.733333
+    112: 0.728571
+    130: 0.725000
+     84: 0.716216
+    101: 0.705128
+    151: 0.700000
+      6: 0.685185
+     11: 0.672414
+     39: 0.672414
+    106: 0.672414
+    127: 0.672414
+     12: 0.661290
+
+Sp. 238 Fridericia dispar  (14 records)
+Endemic for 4 sets (set/score):
+    109: 0.718750
+     62: 0.702128
+    140: 0.693878
+    154: 0.686275
+
+Sp. 239 Fridericia egensis  (13 records)
+Endemic for 0 sets (set/score):
+
+Sp. 240 Fridericia elegans  (4 records)
+Endemic for 4 sets (set/score):
+     81: 0.800000
+    186: 0.800000
+    124: 0.750000
+    182: 0.714286
+
+Sp. 241 Fridericia erubescens  (40 records)
+Endemic for 3 sets (set/score):
+     96: 0.928571
+    126: 0.909091
+    161: 0.800000
+
+Sp. 242 Fridericia fagoides  (13 records)
+Endemic for 0 sets (set/score):
+
+Sp. 243 Fridericia fanshawei  (39 records)
+Endemic for 13 sets (set/score):
+    164: 0.820690
+     90: 0.811189
+    134: 0.797945
+    121: 0.771127
+    100: 0.763699
+      3: 0.762238
+     46: 0.760714
+    142: 0.753472
+     85: 0.751773
+    194: 0.743333
+     28: 0.741497
+     74: 0.672185
+    114: 0.665605
+
+Sp. 244 Fridericia floribunda  (70 records)
+Endemic for 1 sets (set/score):
+    176: 0.767857
+
+Sp. 245 Fridericia florida  (332 records)
+Endemic for 0 sets (set/score):
+
+Sp. 246 Fridericia formosa  (14 records)
+Endemic for 7 sets (set/score):
+    124: 0.833333
+    182: 0.785714
+    103: 0.750000
+     95: 0.722222
+     97: 0.700000
+    169: 0.681818
+    160: 0.666667
+
+Sp. 247 Fridericia grosourdyana  (11 records)
+Endemic for 3 sets (set/score):
+    144: 0.884615
+    120: 0.687500
+    200: 0.687500
+
+Sp. 248 Fridericia japurensis  (81 records)
+Endemic for 0 sets (set/score):
+
+Sp. 249 Fridericia lauta  (8 records)
+Endemic for 1 sets (set/score):
+    191: 0.769231
+
+Sp. 250 Fridericia leucopogon  (20 records)
+Endemic for 6 sets (set/score):
+    182: 0.892857
+     97: 0.775000
+    169: 0.750000
+     36: 0.729167
+    133: 0.729167
+     81: 0.678571
+
+Sp. 251 Fridericia limae  (18 records)
+Endemic for 5 sets (set/score):
+    148: 0.859375
+     50: 0.758621
+    110: 0.732143
+    195: 0.727273
+     59: 0.692308
+
+Sp. 252 Fridericia mollis  (20 records)
+Endemic for 0 sets (set/score):
+
+Sp. 253 Fridericia mollissima  (154 records)
+Endemic for 0 sets (set/score):
+
+Sp. 254 Fridericia mutabilis  (39 records)
+Endemic for 1 sets (set/score):
+    181: 0.865385
+
+Sp. 255 Fridericia nicotianiflora  (16 records)
+Endemic for 2 sets (set/score):
+    171: 0.802083
+     45: 0.758929
+
+Sp. 256 Fridericia nigrescens  (48 records)
+Endemic for 1 sets (set/score):
+    189: 0.773148
+
+Sp. 257 Fridericia oligantha  (13 records)
+Endemic for 0 sets (set/score):
+
+Sp. 258 Fridericia oxycarpa  (42 records)
+Endemic for 0 sets (set/score):
+
+Sp. 259 Fridericia patellifera  (385 records)
+Endemic for 0 sets (set/score):
+
+Sp. 260 Fridericia pearcei  (47 records)
+Endemic for 2 sets (set/score):
+    175: 0.810606
+     45: 0.723077
+
+Sp. 261 Fridericia platyphylla  (313 records)
+Endemic for 0 sets (set/score):
+
+Sp. 262 Fridericia pliciflora  (2 records)
+Endemic for 2 sets (set/score):
+    201: 0.750000
+    153: 0.666667
+
+Sp. 263 Fridericia podopogon  (31 records)
+Endemic for 0 sets (set/score):
+
+Sp. 264 Fridericia poeppigii  (33 records)
+Endemic for 0 sets (set/score):
+
+Sp. 265 Fridericia prancei  (17 records)
+Endemic for 0 sets (set/score):
+
+Sp. 266 Fridericia pubescens  (241 records)
+Endemic for 0 sets (set/score):
+
+Sp. 267 Fridericia rego  (20 records)
+Endemic for 11 sets (set/score):
+    133: 0.895833
+    138: 0.839286
+     25: 0.793103
+     29: 0.779412
+    112: 0.779412
+     41: 0.742857
+     36: 0.732143
+     97: 0.720000
+    196: 0.720000
+    169: 0.703704
+    127: 0.689655
+
+Sp. 268 Fridericia samydoides  (47 records)
+Endemic for 4 sets (set/score):
+    145: 0.882979
+     73: 0.722222
+     18: 0.695652
+    166: 0.680000
+
+Sp. 269 Fridericia schumanniana  (180 records)
+Endemic for 0 sets (set/score):
+
+Sp. 270 Fridericia simplex  (9 records)
+Endemic for 8 sets (set/score):
+    147: 0.892857
+    173: 0.822581
+     83: 0.805556
+     23: 0.803030
+     40: 0.803030
+     58: 0.756410
+     47: 0.710526
+     69: 0.690476
+
+Sp. 271 Fridericia speciosa  (66 records)
+Endemic for 21 sets (set/score):
+    108: 0.878788
+     41: 0.875000
+    143: 0.875000
+     77: 0.871795
+    130: 0.853659
+    112: 0.837838
+    101: 0.837500
+    166: 0.837500
+     60: 0.791667
+     37: 0.767442
+     29: 0.762500
+     93: 0.688889
+     80: 0.680851
+     18: 0.670455
+     73: 0.670455
+     15: 0.666667
+     24: 0.666667
+     25: 0.666667
+    138: 0.666667
+    180: 0.666667
+     84: 0.663043
+
+Sp. 272 Fridericia spicata  (66 records)
+Endemic for 0 sets (set/score):
+
+Sp. 273 Fridericia subexserta  (1 records)
+Endemic for 4 sets (set/score):
+    198: 0.750000
+     81: 0.700000
+    186: 0.700000
+    124: 0.666667
+
+Sp. 274 Fridericia subincana  (18 records)
+Endemic for 7 sets (set/score):
+    196: 0.900000
+    127: 0.833333
+    133: 0.833333
+    138: 0.785714
+     39: 0.678571
+    106: 0.678571
+     97: 0.660000
+
+Sp. 275 Fridericia subverticillata  (1 records)
+Endemic for 0 sets (set/score):
+
+Sp. 276 Fridericia trachyphylla  (4 records)
+Endemic for 6 sets (set/score):
+    186: 0.950000
+    152: 0.875000
+    182: 0.821429
+     97: 0.725000
+    196: 0.725000
+    133: 0.687500
+
+Sp. 277 Fridericia trailii  (43 records)
+Endemic for 0 sets (set/score):
+
+Sp. 278 Fridericia triplinervia  (80 records)
+Endemic for 0 sets (set/score):
+
+Sp. 279 Fridericia truncata  (44 records)
+Endemic for 0 sets (set/score):
+
+Sp. 280 Fridericia tuberculata  (56 records)
+Endemic for 4 sets (set/score):
+    164: 0.848684
+     90: 0.831126
+    121: 0.756410
+     46: 0.712500
+
+Sp. 281 Fridericia tynanthoides  (6 records)
+Endemic for 7 sets (set/score):
+    193: 0.833333
+    151: 0.700000
+      6: 0.681818
+     11: 0.666667
+     39: 0.666667
+    106: 0.666667
+    127: 0.666667
+
+Sp. 282 Fridericia viscida  (18 records)
+Endemic for 0 sets (set/score):
+
+Sp. 283 Fridericia whitei  (4 records)
+Endemic for 0 sets (set/score):
+
+Sp. 284 Lundia corymbifera  (176 records)
+Endemic for 0 sets (set/score):
+
+Sp. 285 Lundia damazioi  (12 records)
+Endemic for 6 sets (set/score):
+     81: 0.863636
+    182: 0.857143
+    124: 0.807692
+    168: 0.766667
+    103: 0.666667
+    160: 0.660000
+
+Sp. 286 Lundia densiflora  (88 records)
+Endemic for 27 sets (set/score):
+    185: 0.881098
+     32: 0.862805
+     87: 0.862805
+     38: 0.853503
+     92: 0.850299
+     64: 0.844720
+     79: 0.836364
+    134: 0.830128
+    100: 0.816993
+      3: 0.788961
+    142: 0.773885
+      4: 0.758278
+     27: 0.748408
+     85: 0.746835
+     28: 0.745399
+    194: 0.739521
+     74: 0.737179
+    114: 0.736025
+     35: 0.734177
+      8: 0.732258
+     21: 0.732258
+     14: 0.726415
+     43: 0.726415
+      9: 0.712500
+    123: 0.712500
+     10: 0.707792
+    174: 0.694268
+
+Sp. 287 Lundia erionema  (38 records)
+Endemic for 10 sets (set/score):
+    121: 0.795455
+     46: 0.794574
+    100: 0.786765
+    142: 0.785714
+      3: 0.764706
+     85: 0.763158
+     33: 0.758065
+     74: 0.751908
+     10: 0.726563
+    174: 0.709924
+
+Sp. 288 Lundia gardneri  (15 records)
+Endemic for 16 sets (set/score):
+    146: 0.941176
+    139: 0.854167
+     61: 0.826087
+    173: 0.783333
+     56: 0.765625
+     78: 0.765625
+     53: 0.750000
+     26: 0.727273
+     63: 0.727273
+    131: 0.723684
+     31: 0.714286
+    113: 0.714286
+    137: 0.714286
+    197: 0.695652
+    116: 0.680000
+    147: 0.671875
+
+Sp. 289 Lundia helicocalyx  (11 records)
+Endemic for 1 sets (set/score):
+    201: 0.916667
+
+Sp. 290 Lundia laevis  (12 records)
+Endemic for 0 sets (set/score):
+
+Sp. 291 Lundia longa  (54 records)
+Endemic for 0 sets (set/score):
+
+Sp. 292 Lundia nitidula  (31 records)
+Endemic for 0 sets (set/score):
+
+Sp. 293 Lundia obliqua  (13 records)
+Endemic for 8 sets (set/score):
+     95: 0.888889
+    160: 0.791667
+    103: 0.777778
+     19: 0.769231
+     17: 0.750000
+    169: 0.708333
+     18: 0.705882
+     73: 0.705882
+
+Sp. 294 Lundia puberula  (99 records)
+Endemic for 6 sets (set/score):
+     75: 0.855769
+    102: 0.855769
+    170: 0.855769
+     86: 0.817536
+    128: 0.817536
+    141: 0.817536
+
+Sp. 295 Lundia spruceana  (66 records)
+Endemic for 2 sets (set/score):
+    175: 0.787879
+     45: 0.738095
+
+Sp. 296 Lundia virginalis  (21 records)
+Endemic for 23 sets (set/score):
+      1: 0.913793
+    180: 0.913793
+     93: 0.861111
+     80: 0.842105
+    101: 0.842105
+    130: 0.825000
+     84: 0.824324
+     24: 0.772727
+     57: 0.772727
+     67: 0.772727
+    129: 0.772727
+     37: 0.738095
+     77: 0.738095
+      7: 0.694444
+     60: 0.684211
+    108: 0.684211
+     29: 0.666667
+     41: 0.666667
+      2: 0.662162
+     15: 0.662162
+     25: 0.662162
+    138: 0.662162
+    177: 0.662162
+
+Sp. 297 Manaosella cordifolia  (42 records)
+Endemic for 0 sets (set/score):
+
+Sp. 298 Mansoa alliacea  (70 records)
+Endemic for 1 sets (set/score):
+    156: 0.742347
+
+Sp. 299 Mansoa angustidens  (11 records)
+Endemic for 5 sets (set/score):
+    158: 0.827586
+    105: 0.803571
+     94: 0.783333
+     16: 0.696970
+     82: 0.696970
+
+Sp. 300 Mansoa difficilis  (106 records)
+Endemic for 1 sets (set/score):
+    188: 0.805556
+
+Sp. 301 Mansoa gentryi  (6 records)
+Endemic for 0 sets (set/score):
+
+Sp. 302 Mansoa glaziovii  (21 records)
+Endemic for 11 sets (set/score):
+    166: 0.820513
+    145: 0.793478
+     73: 0.776316
+     17: 0.750000
+     18: 0.743590
+    143: 0.678571
+     60: 0.666667
+    108: 0.666667
+     37: 0.663043
+     77: 0.663043
+    101: 0.663043
+
+Sp. 303 Mansoa hirsuta  (13 records)
+Endemic for 16 sets (set/score):
+    157: 0.909091
+     71: 0.843750
+     72: 0.843750
+     88: 0.843750
+    122: 0.800000
+     13: 0.775000
+    104: 0.775000
+    111: 0.775000
+    116: 0.775000
+     30: 0.729167
+     44: 0.729167
+     50: 0.729167
+    150: 0.729167
+    195: 0.696429
+    110: 0.695652
+     59: 0.661765
+
+Sp. 304 Mansoa hymenaea  (15 records)
+Endemic for 2 sets (set/score):
+    133: 0.812500
+    196: 0.809524
+
+Sp. 305 Mansoa ivanii  (3 records)
+Endemic for 7 sets (set/score):
+     51: 0.833333
+    113: 0.750000
+    137: 0.750000
+    146: 0.750000
+    197: 0.722222
+     61: 0.681818
+    139: 0.666667
+
+Sp. 306 Mansoa lanceolata  (18 records)
+Endemic for 9 sets (set/score):
+     36: 0.875000
+    133: 0.875000
+    138: 0.821429
+     25: 0.775862
+     29: 0.764706
+    112: 0.764706
+     41: 0.728571
+     97: 0.700000
+    169: 0.685185
+
+Sp. 307 Mansoa longicalyx  (1 records)
+Endemic for 5 sets (set/score):
+     51: 0.750000
+    113: 0.687500
+    137: 0.687500
+    146: 0.687500
+    197: 0.666667
+
+Sp. 308 Mansoa minensis  (6 records)
+Endemic for 12 sets (set/score):
+    152: 0.846154
+     97: 0.775000
+    151: 0.775000
+    196: 0.775000
+      6: 0.750000
+     39: 0.729167
+    106: 0.729167
+    127: 0.729167
+    133: 0.729167
+     25: 0.696429
+     67: 0.696429
+    138: 0.696429
+
+Sp. 309 Mansoa onohualcoides  (16 records)
+Endemic for 0 sets (set/score):
+
+Sp. 310 Mansoa paganuccii  (12 records)
+Endemic for 4 sets (set/score):
+     22: 0.903846
+    159: 0.903846
+     54: 0.875000
+    148: 0.708333
+
+Sp. 311 Mansoa parvifolia  (56 records)
+Endemic for 0 sets (set/score):
+
+Sp. 312 Mansoa sagotii  (33 records)
+Endemic for 0 sets (set/score):
+
+Sp. 313 Mansoa standleyi  (88 records)
+Endemic for 1 sets (set/score):
+    156: 0.811429
+
+Sp. 314 Mansoa verrucifera  (181 records)
+Endemic for 0 sets (set/score):
+
+Sp. 315 Martinella insignis  (6 records)
+Endemic for 2 sets (set/score):
+    167: 0.875000
+    193: 0.750000
+
+Sp. 316 Martinella iquitoensis  (24 records)
+Endemic for 0 sets (set/score):
+
+Sp. 317 Martinella obovata  (288 records)
+Endemic for 9 sets (set/score):
+     75: 0.850446
+    102: 0.850446
+    170: 0.844444
+     70: 0.837054
+    165: 0.837054
+     91: 0.831111
+     86: 0.802174
+    141: 0.802174
+    128: 0.796537
+
+Sp. 318 Pachyptera aromatica  (11 records)
+Endemic for 1 sets (set/score):
+    191: 0.770833
+
+Sp. 319 Pachyptera erythraea  (7 records)
+Endemic for 2 sets (set/score):
+    119: 0.800000
+    183: 0.714286
+
+Sp. 320 Pachyptera kerere  (187 records)
+Endemic for 6 sets (set/score):
+     70: 0.852113
+     91: 0.852113
+    165: 0.852113
+     86: 0.821101
+    128: 0.821101
+    141: 0.821101
+
+Sp. 321 Pachyptera ventricosa  (1 records)
+Endemic for 0 sets (set/score):
+
+Sp. 322 Perianthomega vellozoi  (23 records)
+Endemic for 0 sets (set/score):
+
+Sp. 323 Pleonotoma bracteata  (13 records)
+Endemic for 5 sets (set/score):
+    105: 0.750000
+     16: 0.732143
+     82: 0.732143
+    158: 0.732143
+     94: 0.689655
+
+Sp. 324 Pleonotoma castelnaei  (14 records)
+Endemic for 13 sets (set/score):
+     13: 0.886364
+     40: 0.787879
+     47: 0.771429
+     59: 0.771429
+    140: 0.762500
+     58: 0.743590
+    136: 0.743590
+    109: 0.731707
+    187: 0.720930
+     50: 0.683333
+    116: 0.678571
+     23: 0.675676
+    195: 0.661765
+
+Sp. 325 Pleonotoma clematis  (65 records)
+Endemic for 0 sets (set/score):
+
+Sp. 326 Pleonotoma dendrotricha  (1 records)
+Endemic for 2 sets (set/score):
+    184: 0.700000
+     76: 0.666667
+
+Sp. 327 Pleonotoma echitidea  (10 records)
+Endemic for 0 sets (set/score):
+
+Sp. 328 Pleonotoma exserta  (20 records)
+Endemic for 2 sets (set/score):
+    184: 0.800000
+     76: 0.750000
+
+Sp. 329 Pleonotoma fissicalyx  (1 records)
+Endemic for 0 sets (set/score):
+
+Sp. 330 Pleonotoma fluminensis  (2 records)
+Endemic for 0 sets (set/score):
+
+Sp. 331 Pleonotoma jasminifolia  (47 records)
+Endemic for 0 sets (set/score):
+
+Sp. 332 Pleonotoma longiflora  (4 records)
+Endemic for 1 sets (set/score):
+     34: 0.875000
+
+Sp. 333 Pleonotoma melioides  (93 records)
+Endemic for 0 sets (set/score):
+
+Sp. 334 Pleonotoma orientalis  (10 records)
+Endemic for 0 sets (set/score):
+
+Sp. 335 Pleonotoma pavettiflora  (12 records)
+Endemic for 0 sets (set/score):
+
+Sp. 336 Pleonotoma stichadenia  (9 records)
+Endemic for 17 sets (set/score):
+     96: 0.779070
+    126: 0.766667
+     31: 0.730769
+     84: 0.719512
+     26: 0.710526
+    177: 0.700000
+     93: 0.690476
+     80: 0.681818
+    131: 0.681818
+    161: 0.676471
+     12: 0.671429
+      1: 0.666667
+      2: 0.666667
+     24: 0.666667
+     57: 0.666667
+    129: 0.666667
+    115: 0.662162
+
+Sp. 337 Pleonotoma tetraquetra  (27 records)
+Endemic for 14 sets (set/score):
+     15: 0.750000
+    143: 0.743590
+    108: 0.736111
+     77: 0.720930
+    101: 0.720930
+     24: 0.714286
+    180: 0.714286
+     60: 0.702703
+     93: 0.702381
+     37: 0.693182
+     80: 0.693182
+    130: 0.684783
+      7: 0.675676
+     84: 0.674419
+
+Sp. 338 Pleonotoma variabilis  (180 records)
+Endemic for 7 sets (set/score):
+     70: 0.863861
+     91: 0.863861
+    165: 0.863861
+     86: 0.845588
+    128: 0.845588
+    141: 0.845588
+    156: 0.789744
+
+Sp. 339 Pyrostegia millingtonioides  (3 records)
+Endemic for 4 sets (set/score):
+     16: 0.714286
+     82: 0.714286
+     94: 0.714286
+    105: 0.685185
+
+Sp. 340 Pyrostegia venusta  (326 records)
+Endemic for 1 sets (set/score):
+    202: 0.861022
+
+Sp. 341 Stizophyllum inaequilaterum  (76 records)
+Endemic for 0 sets (set/score):
+
+Sp. 342 Stizophyllum perforatum  (46 records)
+Endemic for 1 sets (set/score):
+     89: 0.746575
+
+Sp. 343 Stizophyllum riparium  (277 records)
+Endemic for 0 sets (set/score):
+
+Sp. 344 Tanaecium affine  (24 records)
+Endemic for 2 sets (set/score):
+    171: 0.787234
+     45: 0.745455
+
+Sp. 345 Tanaecium apiculatum  (1 records)
+Endemic for 0 sets (set/score):
+
+Sp. 346 Tanaecium bilabiatum  (90 records)
+Endemic for 26 sets (set/score):
+    121: 0.880597
+    100: 0.879562
+     46: 0.871212
+    142: 0.870370
+     90: 0.868794
+    134: 0.842466
+      3: 0.826241
+     85: 0.816547
+     74: 0.806569
+     10: 0.805344
+     28: 0.803448
+     43: 0.802158
+     27: 0.797872
+    194: 0.795302
+    114: 0.793706
+      4: 0.780576
+     21: 0.780576
+      9: 0.776596
+     14: 0.772727
+     35: 0.772727
+     48: 0.767974
+    123: 0.767606
+    174: 0.766423
+     33: 0.762774
+      8: 0.751748
+     99: 0.735294
+
+Sp. 347 Tanaecium caudiculatum  (15 records)
+Endemic for 1 sets (set/score):
+    176: 0.727273
+
+Sp. 348 Tanaecium crucigerum  (16 records)
+Endemic for 0 sets (set/score):
+
+Sp. 349 Tanaecium cyrtanthum  (9 records)
+Endemic for 13 sets (set/score):
+     65: 0.875000
+      0: 0.846154
+    159: 0.846154
+    195: 0.821429
+     22: 0.796296
+    148: 0.781250
+     54: 0.775862
+     59: 0.764706
+    110: 0.730769
+     30: 0.714286
+     44: 0.714286
+     50: 0.714286
+    150: 0.714286
+
+Sp. 350 Tanaecium dichotomum  (303 records)
+Endemic for 0 sets (set/score):
+
+Sp. 351 Tanaecium duckei  (9 records)
+Endemic for 0 sets (set/score):
+
+Sp. 352 Tanaecium exitiosum  (5 records)
+Endemic for 2 sets (set/score):
+    119: 0.750000
+    183: 0.678571
+
+Sp. 353 Tanaecium jaroba  (80 records)
+Endemic for 0 sets (set/score):
+
+Sp. 354 Tanaecium neobrasiliense  (6 records)
+Endemic for 11 sets (set/score):
+    113: 0.764706
+    137: 0.764706
+    146: 0.764706
+      6: 0.750000
+    197: 0.736842
+     11: 0.729167
+     12: 0.711538
+    115: 0.696429
+     61: 0.695652
+    139: 0.680000
+     63: 0.671875
+
+Sp. 355 Tanaecium ornithophilum  (13 records)
+Endemic for 0 sets (set/score):
+
+Sp. 356 Tanaecium paradoxum  (3 records)
+Endemic for 13 sets (set/score):
+    122: 0.785714
+    157: 0.772727
+     88: 0.750000
+     13: 0.700000
+    104: 0.700000
+    116: 0.700000
+    110: 0.681818
+     71: 0.676471
+     72: 0.676471
+     30: 0.666667
+     44: 0.666667
+     50: 0.666667
+    150: 0.666667
+
+Sp. 357 Tanaecium parviflorum  (15 records)
+Endemic for 6 sets (set/score):
+     54: 0.844828
+    148: 0.843750
+    159: 0.725806
+     22: 0.687500
+    111: 0.678571
+     66: 0.666667
+
+Sp. 358 Tanaecium pyramidatum  (675 records)
+Endemic for 0 sets (set/score):
+
+Sp. 359 Tanaecium revillae  (11 records)
+Endemic for 0 sets (set/score):
+
+Sp. 360 Tanaecium selloi  (109 records)
+Endemic for 0 sets (set/score):
+
+Sp. 361 Tanaecium tetragonolobum  (182 records)
+Endemic for 0 sets (set/score):
+
+Sp. 362 Tanaecium tetramerum  (4 records)
+Endemic for 0 sets (set/score):
+
+Sp. 363 Tanaecium truncatum  (17 records)
+Endemic for 0 sets (set/score):
+
+Sp. 364 Tanaecium xanthophyllum  (80 records)
+Endemic for 1 sets (set/score):
+    175: 0.871212
+
+Sp. 365 Tynanthus cognatus  (29 records)
+Endemic for 2 sets (set/score):
+    145: 0.698276
+    166: 0.660377
+
+Sp. 366 Tynanthus croatianus  (15 records)
+Endemic for 1 sets (set/score):
+    178: 0.750000
+
+Sp. 367 Tynanthus densiflorus  (4 records)
+Endemic for 2 sets (set/score):
+     34: 0.750000
+    162: 0.750000
+
+Sp. 368 Tynanthus espiritosantensis  (2 records)
+Endemic for 0 sets (set/score):
+
+Sp. 369 Tynanthus fasciculatus  (13 records)
+Endemic for 6 sets (set/score):
+    124: 0.884615
+    182: 0.833333
+    103: 0.794118
+    169: 0.772727
+    160: 0.750000
+     97: 0.738095
+
+Sp. 370 Tynanthus guatemalensis  (48 records)
+Endemic for 1 sets (set/score):
+    176: 0.750000
+
+Sp. 371 Tynanthus labiatus  (11 records)
+Endemic for 16 sets (set/score):
+     39: 0.833333
+    127: 0.833333
+      1: 0.785714
+     25: 0.785714
+     57: 0.785714
+     67: 0.785714
+    138: 0.785714
+    180: 0.785714
+     84: 0.722222
+     93: 0.722222
+     80: 0.710526
+     97: 0.708333
+    151: 0.708333
+    196: 0.708333
+    106: 0.678571
+    133: 0.678571
+
+Sp. 372 Tynanthus macranthus  (4 records)
+Endemic for 0 sets (set/score):
+
+Sp. 373 Tynanthus micranthus  (43 records)
+Endemic for 2 sets (set/score):
+    181: 0.820000
+     19: 0.661290
+
+Sp. 374 Tynanthus panurensis  (25 records)
+Endemic for 0 sets (set/score):
+
+Sp. 375 Tynanthus polyanthus  (110 records)
+Endemic for 0 sets (set/score):
+
+Sp. 376 Tynanthus pubescens  (11 records)
+Endemic for 0 sets (set/score):
+
+Sp. 377 Tynanthus sastrei  (7 records)
+Endemic for 1 sets (set/score):
+    155: 0.750000
+
+Sp. 378 Tynanthus schumannianus  (69 records)
+Endemic for 0 sets (set/score):
+
+Sp. 379 Xylophragma corchoroides  (9 records)
+Endemic for 25 sets (set/score):
+      2: 0.821429
+     25: 0.821429
+     42: 0.821429
+     52: 0.821429
+     67: 0.821429
+     29: 0.764706
+     41: 0.764706
+    112: 0.764706
+     84: 0.750000
+     37: 0.736842
+     77: 0.736842
+     80: 0.736842
+      6: 0.730769
+    130: 0.725000
+     11: 0.714286
+     39: 0.714286
+    106: 0.714286
+    101: 0.705128
+     12: 0.700000
+      1: 0.687500
+     24: 0.687500
+    115: 0.687500
+    129: 0.687500
+    138: 0.687500
+    177: 0.687500
+
+Sp. 380 Xylophragma harleyi  (14 records)
+Endemic for 13 sets (set/score):
+     61: 0.869565
+     26: 0.796875
+     63: 0.796875
+     31: 0.779412
+     53: 0.779412
+     56: 0.757576
+     78: 0.757576
+    131: 0.750000
+    197: 0.739130
+     11: 0.732143
+     12: 0.716667
+    115: 0.703125
+    139: 0.689655
+
+Sp. 381 Xylophragma heterocalyx  (3 records)
+Endemic for 10 sets (set/score):
+    151: 0.666667
+      1: 0.660714
+      2: 0.660714
+     15: 0.660714
+     24: 0.660714
+     57: 0.660714
+     67: 0.660714
+    129: 0.660714
+    177: 0.660714
+    180: 0.660714
+
+Sp. 382 Xylophragma myrianthum  (17 records)
+Endemic for 1 sets (set/score):
+      7: 0.803571
+
+Sp. 383 Xylophragma platyphyllum  (44 records)
+Endemic for 0 sets (set/score):
+
+Sp. 384 Xylophragma pratense  (57 records)
+Endemic for 0 sets (set/score):
+
+Sp. 385 Xylophragma seemannianum  (220 records)
+Endemic for 0 sets (set/score):
+
+Sp. 386 GRP-0-Adenocalymma  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 387 GRP-1-Adenocalymma+Amphilophium+Anemopaegma+Bignonia+Callichlamys+Cuspidaria+Dolichandra+Fridericia+Lundia+Manaosella+Mansoa+Martinella+Pachyptera+Pleonotoma+Pyrostegia+Stizophyllum+Tanaecium+Tynanthus+Xylophragma  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 388 GRP-2-Amphilophium  (0 records)
+Endemic for 4 sets (set/score):
+    190: 0.953320
+      5: 0.951042
+    149: 0.945248
+     49: 0.944099
+
+Sp. 389 GRP-3-Amphilophium+Anemopaegma+Bignonia+Mansoa+Pyrostegia  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 390 GRP-4-Amphilophium+Anemopaegma+Bignonia+Dolichandra+Mansoa+Pyrostegia  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 391 GRP-5-Amphilophium+Anemopaegma+Bignonia+Callichlamys+Cuspidaria+Dolichandra+Fridericia+Lundia+Mansoa+Martinella+Pachyptera+Pyrostegia+Tanaecium+Tynanthus+Xylophragma  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 392 GRP-6-Amphilophium+Anemopaegma+Bignonia+Callichlamys+Cuspidaria+Dolichandra+Fridericia+Lundia+Manaosella+Mansoa+Martinella+Pachyptera+Pleonotoma+Pyrostegia+Tanaecium+Tynanthus+Xylophragma  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 393 GRP-7-Amphilophium+Anemopaegma+Bignonia+Callichlamys+Cuspidaria+Dolichandra+Fridericia+Lundia+Manaosella+Mansoa+Martinella+Pachyptera+Pleonotoma+Pyrostegia+Stizophyllum+Tanaecium+Tynanthus+Xylophragma  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 394 GRP-8-Anemopaegma  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 395 GRP-9-Anemopaegma+Pyrostegia  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 396 GRP-10-Anemopaegma+Mansoa+Pyrostegia  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 397 GRP-11-Anemopaegma+Bignonia+Mansoa+Pyrostegia  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 398 GRP-12-Bignonia  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 399 GRP-13-Callichlamys+Cuspidaria+Fridericia+Lundia+Martinella+Pachyptera+Tanaecium+Tynanthus+Xylophragma  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 400 GRP-14-Cuspidaria  (0 records)
+Endemic for 1 sets (set/score):
+    202: 0.894569
+
+Sp. 401 GRP-15-Cuspidaria+Fridericia+Lundia+Tynanthus+Xylophragma  (0 records)
+Endemic for 4 sets (set/score):
+    149: 0.938689
+      5: 0.937500
+     49: 0.937500
+    117: 0.920213
+
+Sp. 402 GRP-16-Cuspidaria+Fridericia+Lundia+Tanaecium+Tynanthus+Xylophragma  (0 records)
+Endemic for 2 sets (set/score):
+    190: 0.945263
+    118: 0.926907
+
+Sp. 403 GRP-17-Cuspidaria+Fridericia+Lundia+Pachyptera+Tanaecium+Tynanthus+Xylophragma  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 404 GRP-18-Cuspidaria+Fridericia+Lundia+Martinella+Pachyptera+Tanaecium+Tynanthus+Xylophragma  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 405 GRP-19-Dolichandra  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 406 GRP-20-Fridericia  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 407 GRP-21-Fridericia+Xylophragma  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 408 GRP-22-Lundia  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 409 GRP-23-Manaosella+Pleonotoma  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 410 GRP-24-Mansoa  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 411 GRP-25-Martinella  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 412 GRP-26-Pachyptera  (0 records)
+Endemic for 3 sets (set/score):
+     75: 0.862791
+    102: 0.862791
+    170: 0.862791
+
+Sp. 413 GRP-27-Pleonotoma  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 414 GRP-28-Pyrostegia  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 415 GRP-29-Stizophyllum  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 416 GRP-30-Tanaecium  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 417 GRP-31-Tynanthus  (0 records)
+Endemic for 0 sets (set/score):
+
+Sp. 418 GRP-32-Xylophragma  (0 records)
+Endemic for 0 sets (set/score):
