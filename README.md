@@ -42,7 +42,7 @@ The content from ./figs and ./output can be completely reproduced from scripts i
 
 ## NDM/VNDM outputs nomenclature
 
-Output files, figures, and consensus areas in were saved using the following nomenclature.This nomenclature were designed to trace the NDM/VDNM outputs to their respective analyses, spatial scale, and the geographical location of consensus areas. The nomenclature must be strictly followed to reproduce the analysis.
+Output files, figures, and consensus areas in were saved using the following nomenclature. This nomenclature was designed to trace the NDM/VDNM outputs to their respective analyses, spatial scale, and the geographical location of consensus areas. The nomenclature must be strictly followed to reproduce the analysis.
 
 ### Area name code: 
 It considers the spatial scale of analysis or grid size, the NDM code of the consensus area, relative geographical location, and type of GIS file (i.e grids or points) produced using VNDM-NDM save options. 
