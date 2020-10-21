@@ -2,7 +2,7 @@
 
 RStudio project to explore the results of an anaysis of endemicity of the plant tribe Bignonieae implemented in NDM/VNDM v 3.1.
 
-PhD Dissertation Chapter 2. Unraveling distribution patterns of Neotropical lianas: An analysis of endemicity of the tribe Bignonieae (Bignonieaecea).
+PhD Dissertation Chapter 2. Unraveling distribution patterns of Neotropical lianas: An analysis of endemicity of the tribe Bignonieae (Bignoniaceae).
 
 ## Table of contents
 
