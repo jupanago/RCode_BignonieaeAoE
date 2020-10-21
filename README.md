@@ -59,7 +59,7 @@ General regular expression = "^.*grid.txt"
 
 ## Usage
 
-The pipeline of the analysis is described and can be executed from the `NDM_workflow.R` script. A [Wiki](https://github.com/jupanago/RCode_BignonieaeAoE/wiki) page is available in this repository to look easily at the results of this script.
+The pipeline of the analysis is described and can be executed from the `.R/NDM_workflow.R` script. A [Wiki](https://github.com/jupanago/RCode_BignonieaeAoE/wiki) page is available in this repository to look easily at the results of this script.
 
 The NDM/VNDM output files are saved in `./data`.
 
